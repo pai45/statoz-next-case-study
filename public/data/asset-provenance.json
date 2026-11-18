@@ -1,0 +1,293 @@
+[
+  {
+    "file": "public/assets/sports-home.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-sports-home.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "031117c1670f05e59fc0cee6d3354be79d54aae054bb0dbf81b885838c247c68",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered sports-home state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/games-home.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-games-home.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "68dc4c489ead6ddb09b730b8a4593014889679c6f7e5b6c7146d970f3f7a6536",
+    "provenance": "StatOz Future/statoz-games-web/out \u00b7 actual rendered games-home state \u00b7 1704\u00d7786 \u00b7 viewport 852\u00d7393, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/games-library.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-games-library.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "e40e931bba7e013cc7a7172a8682725fee588e4988c16de8f5dc9a678d746afb",
+    "provenance": "StatOz Future/statoz-games-web/out \u00b7 actual rendered games-library state \u00b7 1704\u00d7786 \u00b7 viewport 852\u00d7393, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/sport-football.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-sport-football.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "9e7bd6484b89c65bded7af3e65dc5f2e598dafe43db3058ff8b04249b36a2df7",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered sport-football state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/sport-cricket.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-sport-cricket.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "86e3b0e26f9a203ae9448f88969363b051acc6bc5b321f8f6ebd17777ef7049b",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered sport-cricket state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/sport-basketball.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-sport-basketball.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "57807e8ff987645bbb25c5ef2ad5df237bf18d85834839c65237a924ffff6dfd",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered sport-basketball state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/sport-motorsport.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-sport-motorsport.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "6952b7960e696e37eac71423eaf92d0c7847ef407b73da50824cab43c96a89cc",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered sport-motorsport state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/standings.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-standings.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "2cceef1d88d5311895a08b9147c76c5dda6e4220223409bdefe6ea0ffb948683",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered standings state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/football-stats.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-football-stats.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "679f7ab3e89fbaadb2f43d91e2347ad1319183da2f82334061abf44b30283503",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered football-stats state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/football-timeline.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-football-timeline.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "e6aff1606d9e279755cbb5ad9e9f00d603a90342b7cf6387655ebf72aa7e2d32",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered football-timeline state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/predict-question.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-predict-question.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "31057d38d0d90e3c5b8727ea06a1f8f4cbb2181bc2c43c05c3666df5898c6146",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered predict-question state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/predict-selection.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-predict-selection.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "f03fec2dceed8c8ba3dedfc15fc87a3dd67cc3d15d7575894f10a6083b5352fe",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered predict-selection state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/predict-confirmed.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-predict-confirmed.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "b3c54b515648acfb4bbbe445de1dbef383bd8fc4d38a2d23efbcafa96447f300",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered predict-confirmed state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/predict-settled.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v4-20261101-predict-settled.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "837ec979ea42abec40b10038be7818f536fbe7a57bc2c95dbbcd62339d7dbe2e",
+    "provenance": "Actual Future Sports Flutter France\u2013England built-in settlement reveal. Five questions fully revealed, entire viewport 393\u00d7852, DPR 2; source/build untouched. Fresh throwaway session, ordinary reveal control, browser-only demo clock 2026-07-20; illustrative product data. Captured 2026-11-01."
+  },
+  {
+    "file": "public/assets/pick-event.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v2-20261031-future-pick-event.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "d00195e1f5fba6fa2bbc2aa351d76be8db5a1ed13e8e0f07ab5920a546140eea",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 Flutter build 83b4a6b04d382a37c993800fcbc5b8ca \u00b7 actual Flutter screen future-pick-event, 786\u00d71704, viewport 393x852, DPR 2 \u00b7 captured 2026-10-31 in a fresh local preview profile. Built-in bundled fixture examples displayed at their intended demo date, 2026-07-20, using a browser-only fixed clock. Local demo sport unlocks and prediction controls used normally. Source, fixture data and build remain read-only. Illustrative product data, not current reported results or athlete endorsement."
+  },
+  {
+    "file": "public/assets/pick-future.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v2-20261031-future-pick-future.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "e5f653c9b945eaf40d03bc761cbaf5795bf8fb04a38251ac3637271643967472",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 Flutter build 83b4a6b04d382a37c993800fcbc5b8ca \u00b7 actual Flutter screen future-pick-future, 786\u00d71704, viewport 393x852, DPR 2 \u00b7 captured 2026-10-31 in a fresh local preview profile. Built-in bundled fixture examples displayed at their intended demo date, 2026-07-20, using a browser-only fixed clock. Local demo sport unlocks and prediction controls used normally. Source, fixture data and build remain read-only. Illustrative product data, not current reported results or athlete endorsement."
+  },
+  {
+    "file": "public/assets/quiz-home.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-quiz-home.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "39762bcdfdabe636c553b75baa580b6efcdb4e8aa9fc22f327312085a108d487",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered quiz-home state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/quiz-question.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-quiz-question.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "9b63c41c7e88916d038110f3442b787cb9f7207642a8b733feede19b43604042",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered quiz-question state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/quiz-feedback.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-quiz-feedback.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "3955945e689b428043ec6b5c064b7efb757aed4518dea9fbed82eaa20ab3833a",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered quiz-feedback state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/vibe-clip.mp4",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v6-20261102-vibe-clip.mp4",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "95298cc4ee0659ff5b7a7c639bbc6c88f272c3047addab67f5a3a42820f093dd",
+    "provenance": "Actual maintained StatOz Future/statoz-games-web/public/embedded-games/vibe-basketball/index.html. Fresh throwaway Chrome mobile landscape session, 852x392, 2026-11-02. Real-time normal keyboard/pointer inputs, read-only telemetry; no state writes, manual clock, advance or fabricated outcomes. Source bundle SHA256 800fe68a2787a5ebb43e35316531b4b482d41cfc043614a48b2ed68369f4ad3d. Edited silent 5.4s clip from recorder at 8.15s; 30 fps, native aspect retained. Scores and rankings are illustrative local play. No source repository edits, publishing or external upload."
+  },
+  {
+    "file": "public/assets/race-clip.mp4",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v6-20261102-race-clip.mp4",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "7c38d030a8a756d77a6d2073c732ca30ed93606a6252911e678691318d85b72d",
+    "provenance": "Actual maintained StatOz Future/statoz-games-web/public/embedded-games/f1-racing/index.html. Fresh throwaway Chrome mobile landscape session, 852x392, 2026-11-02. Real-time normal keyboard/pointer inputs, read-only telemetry; no state writes, manual clock, advance or fabricated outcomes. Source bundle SHA256 4991e0030044bf8d6dbf6bc16e4abb9dc4857561ecf3b085e94de7bfeac6d111. Edited silent 5.6s clip from recorder at 10.2s; 30 fps, native aspect retained. Scores and rankings are illustrative local play. No source repository edits, publishing or external upload."
+  },
+  {
+    "file": "public/assets/motorsport-extra.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v3-20261101-motorsport-extra.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "cf9de9421f552aa43392ceaf2b7528d91068a5033f606886861a8f7eff000f4d",
+    "provenance": "StatOz Future/statoz-sports-flutter/build/web \u00b7 actual rendered motorsport-extra state \u00b7 786\u00d71704 \u00b7 viewport 393\u00d7852, DPR 2 \u00b7 captured 2026-11-01 in a fresh local demo profile using ordinary controls. Sports uses browser-only 2026-07-20 demo clock to display bundled illustrative fixtures; no reported results or official schedules are asserted. Three additional motorsport fixtures are explicitly labelled Demo in product. Tennis retired from active discovery. Reference product capture; no athlete endorsement."
+  },
+  {
+    "file": "public/assets/admin-1.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v4-20261101-admin-1.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "bddef9060ef1bd0008e493c7c9cc1fd515b343d23b67362569cfc7f135f21ff7",
+    "provenance": "User-supplied original StatOz Admin screenshot from this conversation, supplied 2026-11-01; 1705\u00d7893. Dashboard, weekly trends or match management. Figures are as supplied, not independently verified or presented as projections. No admin actions performed."
+  },
+  {
+    "file": "public/assets/admin-2.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v4-20261101-admin-2.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "9d0b96ef4cfc79fd363098f3e15a2c027b07c4cbe775c2b47deb1b9e6ca2ca38",
+    "provenance": "User-supplied original StatOz Admin screenshot from this conversation, supplied 2026-11-01; 1157\u00d7753. Dashboard, weekly trends or match management. Figures are as supplied, not independently verified or presented as projections. No admin actions performed."
+  },
+  {
+    "file": "public/assets/admin-3.png",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v4-20261101-admin-3.png",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "f7856701cd8ee353ad448428c3576e3d6c06639197226c9163431065d8e1b1d4",
+    "provenance": "User-supplied original StatOz Admin screenshot from this conversation, supplied 2026-11-01; 971\u00d7770. Dashboard, weekly trends or match management. Figures are as supplied, not independently verified or presented as projections. No admin actions performed."
+  },
+  {
+    "file": "public/assets/engine-clip.mp4",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v4-20261101-engine-clip.mp4",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "84a45d9888e005779d4318536a14f958660b9a4e47a512e422670a075747043e",
+    "provenance": "Authored StatOz Game Engine concept/demo workspace, not a claim of a production engine. Deterministic Three.js 0.186.1 scene reuses unchanged Cricketer cricketer-player.glb and adapted CricketerPlayer rig from maintained Future Games Web. Batsman based on bhagathartworks, CC BY 4.0, source https://sketchfab.com/3d-models/virat-kohli-cricket-batting-animation-low-poly-a21f5e7ee14f4b6aa5cf6c94a1016932 . Original photographic/branded textures absent; adapted, unnamed game character. On-screen author/license credit. Model SHA256 048d84139861a7fa5da973c021179118af316630bd692c0e3926200b8d222706. Local-only rendering."
+  },
+  {
+    "file": "public/assets/penalty-clip.mp4",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v6-20261102-penalty-clip.mp4",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "048092a333d1ef2205e7ca76ab7c16e67b0c66936a17597fd478b6fe609f264d",
+    "provenance": "Actual maintained StatOz Future/statoz-games-web/public/embedded-games/penalty-cup/index.html. Fresh throwaway Chrome mobile landscape session, 852x392, 2026-11-02. Real-time normal keyboard/pointer inputs, read-only telemetry; no state writes, manual clock, advance or fabricated outcomes. Source bundle SHA256 01588de5b939a4fb9a15fc37dddbdc3f3dfd40d6b6c3c8d903e0dc85551960d6. Edited silent 5s clip from recorder at 130.65s; 30 fps, native aspect retained. Scores and rankings are illustrative local play. No source repository edits, publishing or external upload."
+  },
+  {
+    "file": "public/assets/cricketer-clip.mp4",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v6-20261102-cricketer-clip.mp4",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "cada05399a2a4e54a5cc4378927c3bbe5145225c88b026ff81711488b5e1cbd5",
+    "provenance": "Actual maintained StatOz Future/statoz-games-web/public/embedded-games/cricketer/index.html. Fresh throwaway Chrome mobile landscape session, 852x392, 2026-11-02. Real-time normal keyboard/pointer inputs, read-only telemetry; no state writes, manual clock, advance or fabricated outcomes. Source bundle SHA256 e15d5a218ca76b6829f8a7a1b41fbe349855b55fb659ce0d47e8e7fa74094144. Edited silent 5.8s clip from recorder at 1.95s; 30 fps, native aspect retained. Scores and rankings are illustrative local play. No source repository edits, publishing or external upload."
+  },
+  {
+    "file": "public/assets/longbow-clip.mp4",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\storage\\assets\\investor-demo-v6-20261102-longbow-clip.mp4",
+    "description": "Source-verified investor demo capture / footage",
+    "sha256": "d98296a20e7ee6090db4079cf985998ff64a9f2661204aaaf46ac8fdb0c6a9b8",
+    "provenance": "Actual maintained StatOz Future/statoz-games-web/public/embedded-games/longbow/index.html. Fresh throwaway Chrome mobile landscape session, 852x392, 2026-11-02. Real-time normal keyboard/pointer inputs, read-only telemetry; no state writes, manual clock, advance or fabricated outcomes. Source bundle SHA256 f6bf922113cf46b7961fdd5207fc0620878606a8c054c349625fda0980bd2a96. Edited silent 4.8s clip from recorder at 3s; 30 fps, native aspect retained. Scores and rankings are illustrative local play. No source repository edits, publishing or external upload."
+  },
+  {
+    "file": "public/assets/investor-demo.mp4",
+    "source": "C:\\Users\\priya\\OneDrive\\Desktop\\StatOz Designer\\build\\statoz-video\\statoz-investor-demo-v7-beat-synced-1920x1080.mp4",
+    "description": "Investor video v7; 3 November 2026. Music: Digital Clouds by Alejandro Magana (A. M.), Mixkit Stock Music Free License.",
+    "sha256": "647d3c33ef0907de1347c8e4856a6d328cfa4e91b8881045e2cd0b7b0d8701fc"
+  },
+  {
+    "file": "public/assets/logo.png",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-investors\\public\\assets\\brand\\logo.png",
+    "description": "Existing StatOz brand logo; original proportions preserved",
+    "sha256": "be73bc45c4189247a80272898ce55d4231ea07d25c045d058de0949a3c2af2c3"
+  },
+  {
+    "file": "public/assets/orbitron-latin-variable.woff2",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-game-studio\\src\\app\\fonts\\orbitron-latin-variable.woff2",
+    "description": "Existing locally hosted brand typeface / license",
+    "sha256": "c25a9f9da5d9f3db1bf2a01474722dc9b377675b7bbab6d0dfda6902794fd1ed"
+  },
+  {
+    "file": "public/assets/space-grotesk-variable.ttf",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-game-studio\\src\\app\\fonts\\space-grotesk-variable.ttf",
+    "description": "Existing locally hosted brand typeface / license",
+    "sha256": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72"
+  },
+  {
+    "file": "public/assets/space-grotesk-OFL.txt",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-game-studio\\src\\app\\fonts\\space-grotesk-OFL.txt",
+    "description": "Existing locally hosted brand typeface / license",
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "file": "public/assets/license-orbitron-OFL.txt",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-website\\public\\assets\\fonts\\orbitron-OFL.txt",
+    "description": "Existing font license",
+    "sha256": "ab609b0e110d622435ff337cdf233288556e011bbf9bd0550be98846c0630819"
+  },
+  {
+    "file": "public/assets/license-space-grotesk-OFL.txt",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-website\\public\\assets\\fonts\\space-grotesk-OFL.txt",
+    "description": "Existing font license",
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "file": "public/assets/statoz-tokens.css",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-products\\src\\design-system\\styles\\tokens.css",
+    "description": "Vendored StatOz semantic tokens",
+    "sha256": "060198a531b39a99f210d8d7d0ddf204ba4a7d41bb47fb8a7c5403986ed9c3c1"
+  },
+  {
+    "file": "public/assets/cricketer.glb",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-games\\dist\\site\\games\\cricketer\\cricketer-player.glb",
+    "description": "Actual StatOz Cricketer player model for interactive studio preview",
+    "sha256": "048d84139861a7fa5da973c021179118af316630bd692c0e3926200b8d222706"
+  },
+  {
+    "file": "public/assets/PLAYER-LICENSE.txt",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-games\\dist\\site\\games\\cricketer\\PLAYER-LICENSE.txt",
+    "description": "Player model attribution; retain with packaged model",
+    "sha256": "08bf7f236c9e62d80adda41b70e5a36cc81af674cc52d15cffa204b4988f2fb9"
+  },
+  {
+    "file": "public/assets/wicket.glb",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-games\\dist\\site\\games\\cricketer\\wicket.glb",
+    "description": "Actual wicket model",
+    "sha256": "04df20b32f939b3ebd8c78bf3fd976375019469ba1a414a630822da57cda1bd9"
+  },
+  {
+    "file": "public/assets/formula-car.glb",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-games\\.cache\\game-assets\\seed\\portfolio-formula-car.glb",
+    "description": "Actual Formula car model",
+    "sha256": "26b5df2c589b3a7c82334c33bee39d317b2c7bb8b64188085b7600c006041a19"
+  },
+  {
+    "file": "public/data/statoz-by-the-numbers-nov-2026.pdf",
+    "source": "C:\\Users\\priya\\Downloads\\StatOz by the Numbers (Nov 2026) (1).pdf",
+    "description": "User-supplied platform report; as of 2 November 2026; unchanged",
+    "sha256": "79a58e1ae80843a0cabb4f232a19146d18d097b1518db802ae6eb019fb04b636"
+  },
+  {
+    "file": "demos/sports",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-sports-web\\out",
+    "description": "Existing static product export, copied without downloads or superseded _game-assets. Games catalogue URLs localized in the copied JS; unchanged game-library bundle hashes retained."
+  },
+  {
+    "file": "demos/games",
+    "source": "C:\\Users\\priya\\Dev\\StatOz\\statoz-games-web\\out",
+    "description": "Existing static product export, copied without downloads or superseded _game-assets. Games catalogue URLs localized in the copied JS; unchanged game-library bundle hashes retained."
+  }
+]

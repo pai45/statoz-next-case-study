@@ -1,0 +1,124 @@
+[
+  {
+    "file": "assets/current-sports/home.png",
+    "route": "/",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "266b5cf3175d78d4f121494e7a72face6e6c073800e334920dee5ea6cb735eb7"
+  },
+  {
+    "file": "assets/current-sports/stats.png",
+    "route": "/matches/401879318/#stats",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "17966547bdfa80aaedc279a1a9af53f07c5190f72e66a9bd2fe8fd6f6de781fc"
+  },
+  {
+    "file": "assets/current-sports/tops.png",
+    "route": "/matches/401879318/",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "53081ba1cff4402dcd6d4a3e75b5465b75858f9d61a40c710fd2ae616bce82df"
+  },
+  {
+    "file": "assets/current-sports/lineups.png",
+    "route": "/matches/401879318/#stats",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "b03987f02d9f0028f046ea46fc8b6212748cc7106306df425743c07841cb5b2f"
+  },
+  {
+    "file": "assets/current-sports/predict-question.png",
+    "route": "/matches/epl_liv_mci/predict/main/",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "cbeac50856daf40e6a631663104501c2fa76c8196e530fe77e615ca8d0ffa106"
+  },
+  {
+    "file": "assets/current-sports/picks.png",
+    "route": "/picks/",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "d9a1816b14439a74efa9d600ccded8b8d91a20aca9476a2743da4ae94c40e943"
+  },
+  {
+    "file": "assets/current-sports/settled.png",
+    "route": "/matches/fifa_fra_eng_result/",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "026f6fa0f6e49f34e7c8bdfe2eafd32863e28d9a0242e69104e4398982d627d9"
+  },
+  {
+    "file": "assets/current-sports/quiz-home.png",
+    "route": "/quiz/football/",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "69bb9438785de5642d2b69adc9fd04c238a6ee40bd29e5dcd19d2dd98aeeb318"
+  },
+  {
+    "file": "assets/current-sports/quiz-arena.png",
+    "route": "/play/quiz/football/",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "0d9d4d0191dd9d1dd66a0ce5c4855a7a1b76905205a87d253af2eb35bc0bac81"
+  },
+  {
+    "file": "assets/current-sports/quiz-question.png",
+    "route": "/play/quiz/football/",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "0d3e10fd5f2b6309f8df1f3740dadaed9a0a52b1891c409d6596a315fc053a1e"
+  },
+  {
+    "file": "assets/current-sports/quiz-feedback.png",
+    "route": "/play/quiz/football/",
+    "state": "First answer locked and revealed through real controls",
+    "source": "Actual compiled current StatOz Sports Web app",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "a2246d014c523cffb677e8829ceb40518783b11b9ee3c5cfa2243b0385a4fa36"
+  }
+]

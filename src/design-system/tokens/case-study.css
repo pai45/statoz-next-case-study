@@ -1,0 +1,23 @@
+/* Presentation aliases consume the vendored StatOz semantic palette. */
+:root{
+ --bg:var(--ds-color-background-primary);
+ --panel:var(--ds-color-background-secondary);
+ --panel2:var(--ds-color-background-elevated);
+ --text:var(--ds-color-text-default);
+ --muted:var(--ds-color-text-subtle);
+ --dim:var(--ds-color-text-muted);
+ --line:var(--ds-color-border-default);
+ --line-soft:var(--ds-color-border-subtle);
+ --case-space-xs:8px;--case-space-sm:16px;--case-space-md:24px;--case-space-lg:40px;--case-space-xl:64px;
+ --case-body-size:16px;--case-label-size:11px;--case-control-size:13px;
+ --case-device-metal:var(--ds-color-border-strong);
+ --case-device-edge:var(--ds-color-border-inactive);
+ --case-device-black:var(--ds-color-text-inverse);
+ --case-device-radius:clamp(18px,3.4vw,38px);
+ --case-focus-ring:var(--ds-color-accent-cyan);
+ --case-chamfer:8px;
+ --case-admin-background:#09090b;
+ --case-admin-panel:#18181b;
+ --case-admin-elevated:#232326;
+ --case-admin-border:#303035;
+}

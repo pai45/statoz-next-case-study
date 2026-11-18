@@ -1,0 +1,50 @@
+{
+  "generatedFrom": "Local product sources; source files remain unchanged.",
+  "files": [
+    {
+      "source": "statoz-games/public/assets/games/home/gameplay/yorker.mp4",
+      "target": "public/assets/walkthrough/yorker.mp4",
+      "sha256": "0a2d1508f538ac8c1e0f76bcbb3b27ad51d47ea225c9301cd9b97c585c65e9cd"
+    },
+    {
+      "source": "statoz-games/public/assets/games/home/gameplay/portfolio-formula.mp4",
+      "target": "public/assets/walkthrough/portfolio-formula.mp4",
+      "sha256": "411e8aed0fcfbb7754a98a140a4669ed6e3b13f4b6bafbe48e02f483b0210cf8"
+    },
+    {
+      "source": "statoz-sports-web/public/assets/backgrounds/hub/football-wide.svg",
+      "target": "public/assets/walkthrough/football-wide.svg",
+      "sha256": "7518daf1378cea8268ad17996c6b306def182efe3d1afab913417c290f684ce7"
+    },
+    {
+      "source": "statoz-sports-web/public/assets/games/discovery/football-quiz-subject.svg",
+      "target": "public/assets/walkthrough/football-quiz-subject.svg",
+      "sha256": "82ecb374441bd4789cf9bb793b6d54d459a7424e546e23a76a1116db1bf64ba3"
+    },
+    {
+      "source": "statoz-sports-web/src/features/games/quiz/components/arena.module.css",
+      "target": "src/features/walkthrough/arena.module.css",
+      "sha256": "fb11576375515238f59fa180635ba153a5ae3cdcaaa00787238977e063d0f92e"
+    },
+    {
+      "source": "statoz-games/src/features/games/yorker/barlow-condensed.woff2",
+      "target": "public/assets/walkthrough/barlow-condensed.woff2",
+      "sha256": "8320299532b4b81498d5b3714d49c9d5938883b55f4c2a1efe6f105bf4a942bd"
+    },
+    {
+      "source": "statoz-games/public/games/yorker/OFL-barlow-condensed.txt",
+      "target": "public/assets/walkthrough/OFL-barlow-condensed.txt",
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "source": "statoz-games/public/games/yorker/PLAYER-LICENSE.txt",
+      "target": "public/assets/walkthrough/yorker-PLAYER-LICENSE.txt",
+      "sha256": "08bf7f236c9e62d80adda41b70e5a36cc81af674cc52d15cffa204b4988f2fb9"
+    },
+    {
+      "source": "statoz-games/src/features/games/portfolio-formula/source/src/components/race/formula-menu.css",
+      "target": "src/features/walkthrough/formula-source.css",
+      "sha256": "79515f2ad00145e7a7ab2f66480a1106da5c48a1edc10286326371829dab2b45"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "game": "yorker",
+    "file": "assets/walkthrough/yorker-clean.webm",
+    "source": "Accepted packaged Yorker runtime, DOM HUD hidden during read-only capture",
+    "viewport": {
+      "width": 852,
+      "height": 393
+    },
+    "pixels": {
+      "width": 852,
+      "height": 392
+    },
+    "durationSeconds": 6,
+    "sha256": "75c2aa5f21925b63c6cfb4ee9fc18633dac7ee92925b0565aebc5b0da416d090"
+  },
+  {
+    "game": "portfolio-formula",
+    "file": "assets/walkthrough/portfolio-formula-clean.webm",
+    "source": "Accepted packaged game runtime in presentation-owned origin",
+    "method": "Read-only browser capture; original DOM HUD hidden during capture, game artifact unchanged",
+    "viewport": {
+      "width": 852,
+      "height": 393
+    },
+    "durationSeconds": 6,
+    "sha256": "40096a0d7ad3a336aeee4d3172a83ec9b29b23b0af06631304bbf0cbd5930ae9"
+  }
+]

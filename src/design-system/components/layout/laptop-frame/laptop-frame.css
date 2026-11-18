@@ -1,0 +1,9 @@
+.laptop-frame{position:relative;padding:0 4% 2.8%;width:100%;min-width:0;isolation:isolate}
+.laptop-lid{position:relative;background:var(--case-device-black);padding:18px 10px 0;border:2px solid var(--case-device-metal);border-radius:18px 18px 7px 7px;box-shadow:0 0 0 1px var(--case-device-edge),0 18px 60px color-mix(in srgb,var(--bg) 55%,transparent)}
+.laptop-screen{position:relative;width:100%;aspect-ratio:16/10;overflow:hidden;border:1px solid var(--line);border-radius:5px;background:var(--case-admin-background)}
+.laptop-screen>img{width:100%;height:100%;display:block;object-fit:contain}
+.laptop-camera{position:absolute;left:calc(50% - 2px);top:6px;width:4px;height:4px;border-radius:50%;background:var(--case-device-edge);box-shadow:inset 0 0 0 1px var(--case-device-metal)}
+.laptop-chin{height:17px;display:grid;place-items:center;font:8px var(--body);color:var(--dim);letter-spacing:.16em}
+.laptop-base{position:absolute;left:0;right:0;bottom:0;height:4.4%;min-height:9px;max-height:30px;background:linear-gradient(var(--case-device-metal),var(--case-device-edge) 45%,var(--case-device-black));border:1px solid var(--case-device-metal);border-radius:2px 2px 45% 45% / 2px 2px 75% 75%;box-shadow:0 15px 25px color-mix(in srgb,var(--bg) 75%,transparent)}
+.laptop-base>span{display:block;position:absolute;left:43%;top:-1px;width:14%;height:32%;border:1px solid var(--case-device-edge);border-top:0;background:var(--case-device-edge);border-radius:0 0 8px 8px}
+@media(max-width:600px){.laptop-lid{padding:9px 5px 0;border-radius:10px 10px 4px 4px;border-width:1px}.laptop-camera{width:3px;height:3px;top:3px}.laptop-chin{height:9px;font-size:5px}.laptop-screen{border-radius:3px}.laptop-base{min-height:7px}}

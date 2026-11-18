@@ -1,0 +1,57 @@
+[
+  {
+    "file": "assets/current-games/home.png",
+    "source": "Actual current Games Web app and accepted playable game runtime",
+    "route": "/",
+    "viewport": {
+      "width": 852,
+      "height": 393
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "0908073ee15b6ad2c4f191c91e99aab2a126e78b9580a56e19c49326328b2575"
+  },
+  {
+    "file": "assets/current-games/longbow.png",
+    "source": "Actual current Games Web app and accepted playable game runtime",
+    "route": "/play/longbow/",
+    "viewport": {
+      "width": 852,
+      "height": 393
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "f6392bde72f2b8f1f167b471b3a624042ae657d85aa90d2afd4201dd8a76a30d"
+  },
+  {
+    "file": "assets/current-games/rally.png",
+    "source": "Actual current Games Web app and accepted playable game runtime",
+    "route": "/play/rally/",
+    "viewport": {
+      "width": 852,
+      "height": 393
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "e00bec1a0f6f046745b7db272bdd598c0e319d8fbb9bf0deca4c93da64903509"
+  },
+  {
+    "file": "assets/current-games/yorker.png",
+    "source": "Actual current Games Web app and accepted playable game runtime",
+    "route": "/play/yorker/",
+    "viewport": {
+      "width": 852,
+      "height": 393
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "029f827386a6259b6925c640a891522868c168668d36ee7eac979bbe490d349c"
+  },
+  {
+    "file": "assets/current-games/hoop-legacy.png",
+    "source": "Actual current Games Web app and accepted playable game runtime",
+    "route": "/play/hoop-legacy/",
+    "viewport": {
+      "width": 852,
+      "height": 393
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "3cb0f91fc1f676e566c6efc6f0f62d56653ad8faaccad575bd0418d3805518a9"
+  }
+]

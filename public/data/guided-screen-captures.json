@@ -1,0 +1,158 @@
+[
+  {
+    "file": "assets/walkthrough/matchday.png",
+    "scenario": "match",
+    "screen": "home",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "b7ba6a5e555761cb1e784d0134290a234a1bea1cd15b592b298e468b19408d40"
+  },
+  {
+    "file": "assets/walkthrough/stats.png",
+    "scenario": "match",
+    "screen": "match",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "70c192f11ac43ddc89652eb3e9906ef2b98f8e161467bfe42319d79c09319864"
+  },
+  {
+    "file": "assets/walkthrough/tops.png",
+    "scenario": "match",
+    "screen": "match",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "005aff40baecbc5c02165a0d3ea6a871ebe95ef7c2c7f966bcedee0430b6bbb2"
+  },
+  {
+    "file": "assets/walkthrough/lineups.png",
+    "scenario": "match",
+    "screen": "match",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "32e5e169a44c30758717b641ae10ee5420b245f26d7ec2e85b5308066da0e464"
+  },
+  {
+    "file": "assets/walkthrough/picks.png",
+    "scenario": "match",
+    "screen": "match",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "14782f5dff8e2445d2cee8ec7e7e97bfc49ad3a6c121a643d4acaa331de69d6d"
+  },
+  {
+    "file": "assets/walkthrough/predict-question.png",
+    "scenario": "prediction",
+    "screen": "question",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "19ad655aa132feb19b150fccd5706e0ff8701a4e68786b6e7d8d21eea2919bc0"
+  },
+  {
+    "file": "assets/walkthrough/predict-selection.png",
+    "scenario": "prediction",
+    "screen": "review",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "f035a012dafbc96a850bed21722a43ef1349e786b0dff726f4a5696aeb0af750"
+  },
+  {
+    "file": "assets/walkthrough/predict-locked.png",
+    "scenario": "prediction",
+    "screen": "review",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "0187b79fa5a6ab5e9789057365356d01bdd52ad51ecc9e9f75b8aefc7a5c65ac"
+  },
+  {
+    "file": "assets/walkthrough/predict-result.png",
+    "scenario": "prediction",
+    "screen": "result",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "10c182779e58b6352c3afe813fe8f5340918af858c1bb48aab9a74598250ed1c"
+  },
+  {
+    "file": "assets/walkthrough/quiz-home.png",
+    "scenario": "arena",
+    "screen": "lobby",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "0aa5c3f3bc530caa4582c61dd62e9249190748421d4c1091e0cce175103e7562"
+  },
+  {
+    "file": "assets/walkthrough/quiz-question.png",
+    "scenario": "arena",
+    "screen": "question",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "e439dad6d8688ecc08e295bdbcb5cd4ddc03aebb4ed4681c175334bb3a888018"
+  },
+  {
+    "file": "assets/walkthrough/quiz-feedback.png",
+    "scenario": "arena",
+    "screen": "question",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "3275a2a9bfdacf9620c27a2ed49530fc614d2c775fc35da718b66cacfbb741ce"
+  },
+  {
+    "file": "assets/walkthrough/quiz-result.png",
+    "scenario": "arena",
+    "screen": "result",
+    "viewport": {
+      "width": 390,
+      "height": 780
+    },
+    "deviceScaleFactor": 2,
+    "source": "Case-study UI components adapted from current StatOz product sources",
+    "sha256": "8403c5cc1a6c652ab2dccc7cb6e715e1398c478b13a0dd1278cf92543b981479"
+  }
+]

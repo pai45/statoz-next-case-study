@@ -1,0 +1,101 @@
+[
+  {
+    "file": "assets/current-admin/dashboard.png",
+    "route": "/admin?page=dashboard",
+    "source": "Local interactive reconstruction; original dashboard, weekly trends and matches supplied as admin-1.png through admin-3.png; remaining screens are local demo extensions",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "5beee3bf78bc9e74d71e269fd378dd776b3aedbf38cf8b0abfcb96e147f1313e"
+  },
+  {
+    "file": "assets/current-admin/stats.png",
+    "route": "/admin?page=stats",
+    "source": "Local interactive reconstruction; original dashboard, weekly trends and matches supplied as admin-1.png through admin-3.png; remaining screens are local demo extensions",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "a40bd68cbf1d318e84c316fa3af1b6cc8be5cfbe94243202315a611a241a2048"
+  },
+  {
+    "file": "assets/current-admin/weekly.png",
+    "route": "/admin?page=weekly",
+    "source": "Local interactive reconstruction; original dashboard, weekly trends and matches supplied as admin-1.png through admin-3.png; remaining screens are local demo extensions",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "f240a89c36a1e7bc93892325a63c393a5fa4f795b6c937244d7fef5956498e21"
+  },
+  {
+    "file": "assets/current-admin/matches.png",
+    "route": "/admin?page=matches",
+    "source": "Local interactive reconstruction; original dashboard, weekly trends and matches supplied as admin-1.png through admin-3.png; remaining screens are local demo extensions",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "015d9ca7c5731a31780d7ec40847bd5344e9a42c405b294f8ef09fec5827a328"
+  },
+  {
+    "file": "assets/current-admin/quizzes.png",
+    "route": "/admin?page=quizzes",
+    "source": "Local interactive reconstruction; original dashboard, weekly trends and matches supplied as admin-1.png through admin-3.png; remaining screens are local demo extensions",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "2e3bec04616f6848affaa380732d820b328c1379959fcd5db8f6cc9476661568"
+  },
+  {
+    "file": "assets/current-admin/predictions.png",
+    "route": "/admin?page=predictions",
+    "source": "Local interactive reconstruction; original dashboard, weekly trends and matches supplied as admin-1.png through admin-3.png; remaining screens are local demo extensions",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "04bf87d72db39c220371d284b5eed91c894c8d5aa5dbcb457375332774650e7b"
+  },
+  {
+    "file": "assets/current-admin/users.png",
+    "route": "/admin?page=users",
+    "source": "Local interactive reconstruction; original dashboard, weekly trends and matches supplied as admin-1.png through admin-3.png; remaining screens are local demo extensions",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "94a651dad6d5fa028848a53b064d6701e3a986290f329ae23d3d059563029963"
+  },
+  {
+    "file": "assets/current-admin/payments.png",
+    "route": "/admin?page=payments",
+    "source": "Local interactive reconstruction; original dashboard, weekly trends and matches supplied as admin-1.png through admin-3.png; remaining screens are local demo extensions",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "a01e4c136847d842a321da740289981c69503c90bae9a3684332aa44055d1208"
+  },
+  {
+    "file": "assets/current-admin/assets.png",
+    "route": "/admin?page=assets",
+    "source": "Local interactive reconstruction; original dashboard, weekly trends and matches supplied as admin-1.png through admin-3.png; remaining screens are local demo extensions",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "deviceScaleFactor": 2,
+    "sha256": "70a84da47afa7f241e28f2a75ae2b8654da96d13839f69bf6de7b0773a8188c2"
+  }
+]

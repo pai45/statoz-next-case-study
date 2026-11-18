@@ -1,0 +1,10 @@
+node_modules/
+test-results/
+.cache/
+/dist/
+/out/
+/demos/
+/output/
+/tmp/
+.env*
+*.tsbuildinfo

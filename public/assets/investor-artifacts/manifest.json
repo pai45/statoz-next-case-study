@@ -1,0 +1,11 @@
+{
+  "source": "Original editable SVG illustrations generated from public/assets/statoz-tokens.css",
+  "purpose": "Investor deck editorial artwork; not product captures or data visualizations",
+  "artifacts": [
+    "follow.svg",
+    "predict.svg",
+    "play.svg",
+    "network.svg",
+    "fan-pass.svg"
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "product": "StatOz Admin local demo",
+  "method": "Interactive reconstruction of three supplied screenshots with added local demonstration workflows; no production connection",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "referenceDate": "2026-11-01",
+  "referenceRows": [
+    {
+      "label": "Total payments",
+      "value": 50,
+      "unit": "INR",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "After 15% reduction",
+      "value": 42,
+      "unit": "INR",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Paying users",
+      "value": 2,
+      "unit": "users",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Users with asset purchases",
+      "value": 97,
+      "unit": "users",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Day-0 onboarded",
+      "value": 79,
+      "unit": "users",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Day-0 active",
+      "value": 36,
+      "unit": "users",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Day-0 inactive",
+      "value": 43,
+      "unit": "users",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Day-0 activation rate",
+      "value": 45.6,
+      "unit": "%",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Day-0 total actions",
+      "value": 146,
+      "unit": "actions",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Day-0 actions / active user",
+      "value": 2.17,
+      "unit": "actions/user",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Quiz submissions · reference day",
+      "value": 51,
+      "unit": "submissions",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Prediction submissions · reference day",
+      "value": 31,
+      "unit": "submissions",
+      "period": "1 Nov 2026 screenshot",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Daily user onboarding",
+      "value": 32,
+      "unit": "users",
+      "period": "26 Oct 2026",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Daily user onboarding",
+      "value": 85,
+      "unit": "users",
+      "period": "27 Oct 2026",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Daily user onboarding",
+      "value": 70,
+      "unit": "users",
+      "period": "28 Oct 2026",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Daily user onboarding",
+      "value": 73,
+      "unit": "users",
+      "period": "29 Oct 2026",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Daily user onboarding",
+      "value": 98,
+      "unit": "users",
+      "period": "30 Oct 2026",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Daily user onboarding",
+      "value": 72,
+      "unit": "users",
+      "period": "31 Oct 2026",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Daily user onboarding",
+      "value": 79,
+      "unit": "users",
+      "period": "1 Nov 2026",
+      "source": "admin-1.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Onboarding · this week",
+      "value": 509,
+      "unit": "count",
+      "period": "26 Oct 2026 week",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Onboarding · total",
+      "value": 10615,
+      "unit": "count",
+      "period": "26 Oct 2026 week",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Quiz submissions · this week",
+      "value": 262,
+      "unit": "count",
+      "period": "26 Oct 2026 week",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Quiz submissions · total",
+      "value": 4690,
+      "unit": "count",
+      "period": "26 Oct 2026 week",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 3,
+      "unit": "users",
+      "period": "5 Jan 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 0,
+      "unit": "users",
+      "period": "12 Jan 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 0,
+      "unit": "users",
+      "period": "19 Jan 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 3,
+      "unit": "users",
+      "period": "26 Jan 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 12,
+      "unit": "users",
+      "period": "2 Feb 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 0,
+      "unit": "users",
+      "period": "9 Feb 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 4,
+      "unit": "users",
+      "period": "16 Feb 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 8,
+      "unit": "users",
+      "period": "23 Feb 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 2,
+      "unit": "users",
+      "period": "2 Mar 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 4,
+      "unit": "users",
+      "period": "9 Mar 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 3,
+      "unit": "users",
+      "period": "16 Mar 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 15,
+      "unit": "users",
+      "period": "23 Mar 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 134,
+      "unit": "users",
+      "period": "30 Mar 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 162,
+      "unit": "users",
+      "period": "6 Apr 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 126,
+      "unit": "users",
+      "period": "13 Apr 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 64,
+      "unit": "users",
+      "period": "20 Apr 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 57,
+      "unit": "users",
+      "period": "27 Apr 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 80,
+      "unit": "users",
+      "period": "4 May 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 107,
+      "unit": "users",
+      "period": "11 May 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 94,
+      "unit": "users",
+      "period": "18 May 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 330,
+      "unit": "users",
+      "period": "25 May 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 223,
+      "unit": "users",
+      "period": "1 Jun 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 267,
+      "unit": "users",
+      "period": "8 Jun 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 478,
+      "unit": "users",
+      "period": "15 Jun 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 604,
+      "unit": "users",
+      "period": "22 Jun 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 678,
+      "unit": "users",
+      "period": "29 Jun 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 532,
+      "unit": "users",
+      "period": "6 Jul 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 543,
+      "unit": "users",
+      "period": "13 Jul 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 348,
+      "unit": "users",
+      "period": "20 Jul 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 357,
+      "unit": "users",
+      "period": "27 Jul 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 261,
+      "unit": "users",
+      "period": "3 Aug 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 133,
+      "unit": "users",
+      "period": "10 Aug 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 278,
+      "unit": "users",
+      "period": "17 Aug 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 311,
+      "unit": "users",
+      "period": "24 Aug 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 270,
+      "unit": "users",
+      "period": "31 Aug 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 457,
+      "unit": "users",
+      "period": "7 Sept 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 620,
+      "unit": "users",
+      "period": "14 Sept 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 512,
+      "unit": "users",
+      "period": "21 Sept 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 525,
+      "unit": "users",
+      "period": "28 Sept 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 652,
+      "unit": "users",
+      "period": "5 Oct 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 421,
+      "unit": "users",
+      "period": "12 Oct 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 428,
+      "unit": "users",
+      "period": "19 Oct 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly user onboarding",
+      "value": 509,
+      "unit": "users",
+      "period": "26 Oct 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 85,
+      "unit": "submissions",
+      "period": "8 Jun 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 317,
+      "unit": "submissions",
+      "period": "15 Jun 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 610,
+      "unit": "submissions",
+      "period": "22 Jun 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 712,
+      "unit": "submissions",
+      "period": "29 Jun 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 401,
+      "unit": "submissions",
+      "period": "6 Jul 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 358,
+      "unit": "submissions",
+      "period": "13 Jul 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 32,
+      "unit": "submissions",
+      "period": "20 Jul 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 147,
+      "unit": "submissions",
+      "period": "27 Jul 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 124,
+      "unit": "submissions",
+      "period": "3 Aug 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 81,
+      "unit": "submissions",
+      "period": "10 Aug 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 80,
+      "unit": "submissions",
+      "period": "17 Aug 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 78,
+      "unit": "submissions",
+      "period": "24 Aug 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 66,
+      "unit": "submissions",
+      "period": "31 Aug 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 147,
+      "unit": "submissions",
+      "period": "7 Sept 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 255,
+      "unit": "submissions",
+      "period": "14 Sept 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 122,
+      "unit": "submissions",
+      "period": "21 Sept 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 211,
+      "unit": "submissions",
+      "period": "28 Sept 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 208,
+      "unit": "submissions",
+      "period": "5 Oct 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 220,
+      "unit": "submissions",
+      "period": "12 Oct 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 174,
+      "unit": "submissions",
+      "period": "19 Oct 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    },
+    {
+      "label": "Weekly quiz submissions",
+      "value": 262,
+      "unit": "submissions",
+      "period": "26 Oct 2026",
+      "source": "admin-2.png",
+      "status": "Supplied reference; not independently verified"
+    }
+  ],
+  "reconciliation": [
+    "The captured actions-per-active-user value 2.17 is preserved as supplied; 146 / 36 is approximately 4.06.",
+    "The captured net payment 42 is preserved as supplied; 50 less 15% is 42.5.",
+    "Admin snapshot totals use their own cut-off and are separate from investor report evidence."
+  ],
+  "demoRecords": {
+    "matches": [
+      {
+        "id": "NBA-M365",
+        "home": "LAC",
+        "away": "MIA",
+        "homeName": "Los Angeles Clippers",
+        "awayName": "Miami Heat",
+        "sport": "Basketball",
+        "tournament": "NBA",
+        "date": "2026-11-05T09:00",
+        "status": "Scheduled",
+        "source": "Teams and fixtures from admin-3.png; local status"
+      },
+      {
+        "id": "NBA-M364",
+        "home": "SAC",
+        "away": "LAL",
+        "homeName": "Sacramento Kings",
+        "awayName": "Los Angeles Lakers",
+        "sport": "Basketball",
+        "tournament": "NBA",
+        "date": "2026-11-05T08:30",
+        "status": "Scheduled",
+        "source": "Teams and fixtures from admin-3.png; local status"
+      },
+      {
+        "id": "NBA-M363",
+        "home": "SAS",
+        "away": "DAL",
+        "homeName": "San Antonio Spurs",
+        "awayName": "Dallas Mavericks",
+        "sport": "Basketball",
+        "tournament": "NBA",
+        "date": "2026-11-05T08:00",
+        "status": "Scheduled",
+        "source": "Teams and fixtures from admin-3.png; local status"
+      },
+      {
+        "id": "NBA-M362",
+        "home": "PHX",
+        "away": "POR",
+        "homeName": "Phoenix Suns",
+        "awayName": "Portland Trail Blazers",
+        "sport": "Basketball",
+        "tournament": "NBA",
+        "date": "2026-11-05T07:30",
+        "status": "Scheduled",
+        "source": "Teams and fixtures from admin-3.png; local status"
+      },
+      {
+        "id": "NBA-M361",
+        "home": "DEN",
+        "away": "TOR",
+        "homeName": "Denver Nuggets",
+        "awayName": "Toronto Raptors",
+        "sport": "Basketball",
+        "tournament": "NBA",
+        "date": "2026-11-05T07:30",
+        "status": "Scheduled",
+        "source": "Teams and fixtures from admin-3.png; local status"
+      },
+      {
+        "id": "NBA-M360",
+        "home": "HOU",
+        "away": "MIN",
+        "homeName": "Houston Rockets",
+        "awayName": "Minnesota Timberwolves",
+        "sport": "Basketball",
+        "tournament": "NBA",
+        "date": "2026-11-05T07:00",
+        "status": "Scheduled",
+        "source": "Teams and fixtures from admin-3.png; local status"
+      },
+      {
+        "id": "NBA-M359",
+        "home": "OKC",
+        "away": "CLE",
+        "homeName": "Oklahoma City Thunder",
+        "awayName": "Cleveland Cavaliers",
+        "sport": "Basketball",
+        "tournament": "NBA",
+        "date": "2026-11-05T07:00",
+        "status": "Scheduled",
+        "source": "Teams and fixtures from admin-3.png; local status"
+      },
+      {
+        "id": "NBA-M358",
+        "home": "NOP",
+        "away": "UTA",
+        "homeName": "New Orleans Pelicans",
+        "awayName": "Utah Jazz",
+        "sport": "Basketball",
+        "tournament": "NBA",
+        "date": "2026-11-05T06:30",
+        "status": "Scheduled",
+        "source": "Teams and fixtures from admin-3.png; local status"
+      },
+      {
+        "id": "NBA-M357",
+        "home": "MEM",
+        "away": "IND",
+        "homeName": "Memphis Grizzlies",
+        "awayName": "Indiana Pacers",
+        "sport": "Basketball",
+        "tournament": "NBA",
+        "date": "2026-11-05T06:30",
+        "status": "Scheduled",
+        "source": "Teams and fixtures from admin-3.png; local status"
+      },
+      {
+        "id": "EPL-DEMO-01",
+        "home": "CHE",
+        "away": "FUL",
+        "homeName": "Chelsea",
+        "awayName": "Fulham",
+        "sport": "Football",
+        "tournament": "Premier League",
+        "date": "2026-11-06T19:30",
+        "status": "Draft",
+        "source": "Local demo fixture"
+      },
+      {
+        "id": "IPL-DEMO-01",
+        "home": "MI",
+        "away": "CSK",
+        "homeName": "Mumbai Indians",
+        "awayName": "Chennai Super Kings",
+        "sport": "Cricket",
+        "tournament": "IPL",
+        "date": "2026-11-07T19:30",
+        "status": "Live",
+        "source": "Local demo fixture"
+      },
+      {
+        "id": "RACE-DEMO-01",
+        "home": "Rally",
+        "away": "Stage 1",
+        "homeName": "Pine Ridge",
+        "awayName": "Stage attack",
+        "sport": "Motorsport",
+        "tournament": "Rally",
+        "date": "2026-11-08T15:00",
+        "status": "Draft",
+        "source": "Local demo fixture"
+      }
+    ],
+    "quizzes": [
+      {
+        "id": "Q-001",
+        "title": "Chelsea vs Fulham · Matchday quiz",
+        "matchId": "EPL-DEMO-01",
+        "question": "How many players does a football team start with?",
+        "options": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "answer": 2,
+        "status": "Published"
+      },
+      {
+        "id": "Q-002",
+        "title": "Clippers vs Heat · Basketball basics",
+        "matchId": "NBA-M365",
+        "question": "How many points is a free throw worth?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "answer": 0,
+        "status": "Draft"
+      },
+      {
+        "id": "Q-003",
+        "title": "Mumbai vs Chennai · Cricket knowledge",
+        "matchId": "IPL-DEMO-01",
+        "question": "How many legal balls are there in an over?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "8"
+        ],
+        "answer": 2,
+        "status": "Draft"
+      }
+    ],
+    "predictions": [
+      {
+        "id": "P-001",
+        "matchId": "EPL-DEMO-01",
+        "question": "Who will win Chelsea vs Fulham?",
+        "options": [
+          "Chelsea",
+          "Draw",
+          "Fulham"
+        ],
+        "status": "Open",
+        "outcome": ""
+      },
+      {
+        "id": "P-002",
+        "matchId": "NBA-M365",
+        "question": "Who will win Clippers vs Heat?",
+        "options": [
+          "Clippers",
+          "Heat"
+        ],
+        "status": "Draft",
+        "outcome": ""
+      },
+      {
+        "id": "P-003",
+        "matchId": "IPL-DEMO-01",
+        "question": "Who will win Mumbai vs Chennai?",
+        "options": [
+          "Mumbai",
+          "Chennai"
+        ],
+        "status": "Locked",
+        "outcome": ""
+      }
+    ],
+    "users": [
+      {
+        "id": "DEMO-U001",
+        "name": "Demo fan 01",
+        "email": "fan1@example.invalid",
+        "sport": "Football",
+        "joined": "2026-11-01",
+        "status": "Active",
+        "coins": 250,
+        "plays": 12
+      },
+      {
+        "id": "DEMO-U002",
+        "name": "Demo fan 02",
+        "email": "fan2@example.invalid",
+        "sport": "Cricket",
+        "joined": "2026-11-01",
+        "status": "Active",
+        "coins": 180,
+        "plays": 8
+      },
+      {
+        "id": "DEMO-U003",
+        "name": "Demo fan 03",
+        "email": "fan3@example.invalid",
+        "sport": "Basketball",
+        "joined": "2026-11-01",
+        "status": "Active",
+        "coins": 400,
+        "plays": 16
+      },
+      {
+        "id": "DEMO-U004",
+        "name": "Demo fan 04",
+        "email": "fan4@example.invalid",
+        "sport": "Motorsport",
+        "joined": "2026-11-01",
+        "status": "Active",
+        "coins": 75,
+        "plays": 3
+      },
+      {
+        "id": "DEMO-U005",
+        "name": "Demo fan 05",
+        "email": "fan5@example.invalid",
+        "sport": "Football",
+        "joined": "2026-11-01",
+        "status": "Active",
+        "coins": 600,
+        "plays": 24
+      },
+      {
+        "id": "DEMO-U006",
+        "name": "Demo fan 06",
+        "email": "fan6@example.invalid",
+        "sport": "Cricket",
+        "joined": "2026-11-01",
+        "status": "Active",
+        "coins": 120,
+        "plays": 7
+      },
+      {
+        "id": "DEMO-U007",
+        "name": "Demo fan 07",
+        "email": "fan7@example.invalid",
+        "sport": "Basketball",
+        "joined": "2026-11-01",
+        "status": "Suspended",
+        "coins": 0,
+        "plays": 0
+      },
+      {
+        "id": "DEMO-U008",
+        "name": "Demo fan 08",
+        "email": "fan8@example.invalid",
+        "sport": "Motorsport",
+        "joined": "2026-11-01",
+        "status": "Active",
+        "coins": 320,
+        "plays": 14
+      }
+    ],
+    "payments": [
+      {
+        "id": "DEMO-T001",
+        "user": "Demo fan 01",
+        "product": "Coin starter pack",
+        "amount": 25,
+        "status": "Completed",
+        "date": "1 Nov 2026 · 10:20"
+      },
+      {
+        "id": "DEMO-T002",
+        "user": "Demo fan 03",
+        "product": "Coin starter pack",
+        "amount": 25,
+        "status": "Completed",
+        "date": "1 Nov 2026 · 11:45"
+      },
+      {
+        "id": "DEMO-T003",
+        "user": "Demo fan 05",
+        "product": "Coin bundle",
+        "amount": 50,
+        "status": "Pending",
+        "date": "1 Nov 2026 · 12:10"
+      },
+      {
+        "id": "DEMO-T004",
+        "user": "Demo fan 08",
+        "product": "Coin starter pack",
+        "amount": 25,
+        "status": "Failed",
+        "date": "1 Nov 2026 · 12:30"
+      }
+    ],
+    "assets": [
+      {
+        "id": "A-001",
+        "name": "Matchday avatar",
+        "category": "Avatar",
+        "coins": 100,
+        "status": "Published"
+      },
+      {
+        "id": "A-002",
+        "name": "Cricket bat · Classic",
+        "category": "Equipment",
+        "coins": 250,
+        "status": "Published"
+      },
+      {
+        "id": "A-003",
+        "name": "Courtside frame",
+        "category": "Profile frame",
+        "coins": 150,
+        "status": "Draft"
+      },
+      {
+        "id": "A-004",
+        "name": "Rally driver helmet",
+        "category": "Equipment",
+        "coins": 300,
+        "status": "Draft"
+      },
+      {
+        "id": "A-005",
+        "name": "Football fan badge",
+        "category": "Badge",
+        "coins": 75,
+        "status": "Published"
+      }
+    ]
+  },
+  "extensionPages": [
+    "Quizzes",
+    "Predictions",
+    "Users",
+    "Payments",
+    "Assets"
+  ],
+  "originalScreens": [
+    "admin-1.png",
+    "admin-2.png",
+    "admin-3.png"
+  ]
+}

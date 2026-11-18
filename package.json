@@ -1,0 +1,43 @@
+{
+  "name": "statoz-case-study",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "npm ci --no-audit --no-fund",
+    "build": "node scripts/build.mjs",
+    "build:pages": "node scripts/build-pages.mjs",
+    "preview:pages": "node scripts/serve-pages.mjs",
+    "test:pages": "node tests/pages.browser.mjs",
+    "setup:demos": "node scripts/setup-demos.mjs",
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:browser": "node tests/browser.mjs && node tests/journeys.mjs && node tests/actual-sports.browser.mjs && node tests/actual-games.browser.mjs && node tests/walkthrough-accessibility.browser.mjs && node tests/stage.browser.mjs && node tests/admin.browser.mjs",
+    "test:mockups": "node tests/mockups.browser.mjs",
+    "test:home-views": "node tests/home-views.browser.mjs",
+    "typecheck": "tsc --noEmit",
+    "test:walkthrough": "node tests/actual-sports.browser.mjs && node tests/actual-games.browser.mjs && node tests/walkthrough-accessibility.browser.mjs",
+    "refresh:sports": "node scripts/refresh-sports.mjs",
+    "test:sports": "node tests/actual-sports.browser.mjs",
+    "refresh:games": "node scripts/refresh-games.mjs",
+    "test:games": "node tests/actual-games.browser.mjs",
+    "test:stage": "node tests/stage.browser.mjs",
+    "test:admin": "node tests/admin.browser.mjs",
+    "capture:admin": "node scripts/capture-admin.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "typescript": "^5.9.3",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/three": "^0.186.0",
+    "@types/node": "^22",
+    "playwright": "^1.55"
+  }
+}

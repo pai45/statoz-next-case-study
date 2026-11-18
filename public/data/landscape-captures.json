@@ -1,0 +1,108 @@
+[
+  {
+    "file": "assets/mockups/cricketer.png",
+    "game": "cricketer",
+    "label": "Cricketer",
+    "source": "statoz-games-web packaged static export + statoz-games accepted game library",
+    "route": "/statoz-next-games-web/play/cricketer/",
+    "state": "First Light Â· active innings Â· initial delivery",
+    "viewport": {
+      "width": 852,
+      "height": 393,
+      "deviceScaleFactor": 2
+    },
+    "pixels": {
+      "width": 1704,
+      "height": 786
+    },
+    "orientation": "landscape",
+    "capturedAt": "2026-11-17T10:59:59.943Z",
+    "sha256": "e6bf9fd3626edd158b2f0ed35dd01aa9bf99b7ab69f2bb1862a3d7c5a19dd397",
+    "errors": []
+  },
+  {
+    "file": "assets/mockups/penalty-cup.png",
+    "game": "penalty-cup",
+    "label": "Penalty Cup",
+    "source": "statoz-games-web packaged static export + statoz-games accepted game library",
+    "route": "/statoz-next-games-web/play/penalty-cup/",
+    "state": "Game menu",
+    "viewport": {
+      "width": 852,
+      "height": 393,
+      "deviceScaleFactor": 2
+    },
+    "pixels": {
+      "width": 1704,
+      "height": 786
+    },
+    "orientation": "landscape",
+    "capturedAt": "2026-11-17T11:00:32.139Z",
+    "sha256": "e93a76c3c5e55f4f7002592d881d1685f72aa3cdb88a18c4d3e37ffafcaefaae",
+    "errors": []
+  },
+  {
+    "file": "assets/mockups/longbow.png",
+    "game": "longbow",
+    "label": "Longbow",
+    "source": "statoz-games-web packaged static export + statoz-games accepted game library",
+    "route": "/statoz-next-games-web/play/longbow/",
+    "state": "Game menu",
+    "viewport": {
+      "width": 852,
+      "height": 393,
+      "deviceScaleFactor": 2
+    },
+    "pixels": {
+      "width": 1704,
+      "height": 786
+    },
+    "orientation": "landscape",
+    "capturedAt": "2026-11-17T11:00:39.315Z",
+    "sha256": "61e309e00ce46c3ae68c56d649f4ac81ebab245031f59e0f2c4f5e59c7876eca",
+    "errors": []
+  },
+  {
+    "file": "assets/mockups/portfolio-formula.png",
+    "game": "portfolio-formula",
+    "label": "Formula",
+    "source": "statoz-games-web packaged static export + statoz-games accepted game library",
+    "route": "/statoz-next-games-web/play/portfolio-formula/",
+    "state": "Game menu",
+    "viewport": {
+      "width": 852,
+      "height": 393,
+      "deviceScaleFactor": 2
+    },
+    "pixels": {
+      "width": 1704,
+      "height": 786
+    },
+    "orientation": "landscape",
+    "capturedAt": "2026-11-17T11:00:44.134Z",
+    "sha256": "c78dcbdc398dab9c1f6a6b0cbc76a4bd00a9001691175fba1d0f632ac62d7542",
+    "errors": []
+  },
+  {
+    "file": "assets/mockups/vibe-basketball.png",
+    "game": "vibe-basketball",
+    "label": "Vibe Basketball",
+    "source": "Source-verified investor demo gameplay; public/assets/vibe-clip.mp4, registered in asset-provenance.json",
+    "route": "/statoz-next-games-web/play/vibe-basketball/",
+    "state": "1v1 Street gameplay · frame at 1.6 seconds",
+    "viewport": {
+      "width": 852,
+      "height": 392,
+      "deviceScaleFactor": 1
+    },
+    "pixels": {
+      "width": 852,
+      "height": 392
+    },
+    "orientation": "landscape",
+    "frameTimeSeconds": 1.6,
+    "capturedAt": "2026-11-17T11:24:25.872Z",
+    "sha256": "79efe6f2f328db4ce89e809e3c8b9425ce5e96c1696d7230bf8bda34ff7f3493",
+    "errors": []
+  }
+]

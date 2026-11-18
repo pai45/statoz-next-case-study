@@ -1,0 +1,3329 @@
+{
+  "product": "StatOz Sports Web",
+  "source": "../statoz-sports-web",
+  "method": "Current source compiled in an isolated case-study directory; presentation transport added to document head",
+  "builtAt": "2026-11-17T17:01:44.931Z",
+  "mobileViewport": {
+    "width": 390,
+    "height": 844
+  },
+  "basePath": "/statoz-next-sports-web",
+  "sourceFiles": [
+    {
+      "path": "src/app/(fullscreen)/layout.tsx",
+      "sha256": "f08437acdff624043a067ec18aa8bc381ad8c4d5027df18f28d43e7fb789c1fe"
+    },
+    {
+      "path": "src/app/(fullscreen)/matches/[matchId]/predict/[quizId]/page.tsx",
+      "sha256": "a2a7c0f78a4caeb8859f6ae02c04ba5daa3ee718a292d954cfe99f9b480822be"
+    },
+    {
+      "path": "src/app/(fullscreen)/matches/[matchId]/track/page.tsx",
+      "sha256": "75e99a0695262a119c527bf12099b823455b76adc8eabcd91c09c5c26aae100a"
+    },
+    {
+      "path": "src/app/(fullscreen)/play/[...slug]/page.tsx",
+      "sha256": "df14dbc0079bdd987962d935705e46521d1065e04575965bd90c8c4bf1128bf6"
+    },
+    {
+      "path": "src/app/(fullscreen)/streaks/page.tsx",
+      "sha256": "6cb063c19eeb210450cf213303bcc839d735bfaeddf2f5b77196a760f05ee035"
+    },
+    {
+      "path": "src/app/(onboarding)/layout.tsx",
+      "sha256": "5bed3930ec55ccc99c48f8f6c9d6eebea43db857297a1430c49be543b3125f55"
+    },
+    {
+      "path": "src/app/(onboarding)/login/page.tsx",
+      "sha256": "07f81b10c7fae4db33f86720147bfa7d85f1c8a3015acba73f575598dbb2740d"
+    },
+    {
+      "path": "src/app/(onboarding)/onboarding/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/app/(onboarding)/onboarding/page.tsx",
+      "sha256": "445959c1356bfd8b4186e9761359dabbfb61057d5e600161339fe74eb1a4c1a5"
+    },
+    {
+      "path": "src/app/(platform)/friends/page.tsx",
+      "sha256": "4bb06a7c23000b9c70c77eb5c8e3c476111a8214e561bf998c4db5c76a06b5fd"
+    },
+    {
+      "path": "src/app/(platform)/friends/referrals/page.tsx",
+      "sha256": "b549e9fcd4cb6fc0cd413565f28192af9b2c2d9af8e8b19eaf0bfc0a69fd2177"
+    },
+    {
+      "path": "src/app/(platform)/games/[sport]/page.tsx",
+      "sha256": "6577c59aa8a0dfba98328d2da199a1acd2cb41895b833d66fa2c059ba107fd20"
+    },
+    {
+      "path": "src/app/(platform)/how-to-play/page.tsx",
+      "sha256": "dc2a2ae27fd57ad9b5ca12d5a922b6a10fca3954f41adbece19312496abdcbe6"
+    },
+    {
+      "path": "src/app/(platform)/how-to-play/[mode]/page.tsx",
+      "sha256": "cb323ba9605a11480b8b23ea0f9d9c9ea75980726fbb82af9d8cde7b8a64eed0"
+    },
+    {
+      "path": "src/app/(platform)/layout.tsx",
+      "sha256": "bcbac579f6887a614da54c7a9fdbfd2b2def41185f474ef5acafbecd28e28a7c"
+    },
+    {
+      "path": "src/app/(platform)/leaderboard/page.tsx",
+      "sha256": "e77cb34302290c890b56cf06e7cdafc25fecb44ff16c0b5e04fe2e5af6890a7c"
+    },
+    {
+      "path": "src/app/(platform)/leaderboard/search/page.tsx",
+      "sha256": "d4fc886359f9519173a4f942a64c973083fb5acd521d8de8e250e57336b058b7"
+    },
+    {
+      "path": "src/app/(platform)/leagues/[leagueId]/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/app/(platform)/leagues/[leagueId]/page.tsx",
+      "sha256": "ac14980236dd5be5203e8f1c05383029a651f42475a077faefb8314f1d38b90c"
+    },
+    {
+      "path": "src/app/(platform)/leagues/[leagueId]/players/[playerId]/page.tsx",
+      "sha256": "2991645dbdf6282428a33d77e5877bba49d8cc05188ab0e26dc14fb6ad0cb201"
+    },
+    {
+      "path": "src/app/(platform)/leagues/[leagueId]/teams/[teamId]/page.tsx",
+      "sha256": "2f4e84744d2e9ecd87e1fb2a34d6b6603557f3777e594d18e64524a6673b6f6b"
+    },
+    {
+      "path": "src/app/(platform)/matches/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/app/(platform)/matches/search/page.tsx",
+      "sha256": "3d73d526767be8fac0a3e38ff3525fa7077c5eda4bfb7f30984a30cbf5c7af32"
+    },
+    {
+      "path": "src/app/(platform)/matches/[matchId]/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/app/(platform)/matches/[matchId]/circle/page.tsx",
+      "sha256": "045fa46a08098329ff11e1287d35d1b62aa1a0dfcd81615076c0770d1e4c4165"
+    },
+    {
+      "path": "src/app/(platform)/matches/[matchId]/page.tsx",
+      "sha256": "77c0869e81293c4c205e140b8dd45f5fd3675575f801bae9ceb969b38b494fa5"
+    },
+    {
+      "path": "src/app/(platform)/matches/[matchId]/players/[playerId]/page.tsx",
+      "sha256": "431db20c1afc74b688e07ccc67a533efab187a9ef1994b40c94edd834bf688e2"
+    },
+    {
+      "path": "src/app/(platform)/page.tsx",
+      "sha256": "c346c308ce975820983f3e63c3e8f4d23dd63d0b37566199027675a586b3913d"
+    },
+    {
+      "path": "src/app/(platform)/picks/page.tsx",
+      "sha256": "e1143dde0a47e0ce28704a89bf840306b9160b127fce490ecb1b1a03baa668b2"
+    },
+    {
+      "path": "src/app/(platform)/picks/[marketId]/page.tsx",
+      "sha256": "51c4fc104d7de2eed580853ecb5d6df056e19c31f757de597716f997fdb14078"
+    },
+    {
+      "path": "src/app/(platform)/profile/achievements/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/app/(platform)/profile/history/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/app/(platform)/profile/history/games/page.tsx",
+      "sha256": "3238e3c4b8da0ad9fe7f0348e3d94602a83942ac64a2ad5f96781ea3022c6cf1"
+    },
+    {
+      "path": "src/app/(platform)/profile/history/page.tsx",
+      "sha256": "8ac27f9dbd5c9fa75db2c9a7741460aaa77d8eb079b55d26b8ff757f84ec22d5"
+    },
+    {
+      "path": "src/app/(platform)/profile/history/pick/page.tsx",
+      "sha256": "235683ec991f1e76af2497de1d20329ac2871535450dbeef7d014846a7e0550b"
+    },
+    {
+      "path": "src/app/(platform)/profile/history/predict/page.tsx",
+      "sha256": "93e9a6186702615536f0828dc2c30d8b143aa3ef67177e07fb89fa43cb0d0e4a"
+    },
+    {
+      "path": "src/app/(platform)/profile/page.tsx",
+      "sha256": "18ff6f41e05e9b169f86fcc394afd68397877b396a42363dd2e3708235728c9c"
+    },
+    {
+      "path": "src/app/(platform)/profile/talk-to-statoz/page.tsx",
+      "sha256": "7e895871bae63bab074938c4db2f30712bc86eb4ed40def284ac3536c5f1ad12"
+    },
+    {
+      "path": "src/app/(platform)/profile/talk-to-statoz/[channel]/page.tsx",
+      "sha256": "4acbcc2d1c34575d4c06a9cfc5f9c26b0662002685a63f6f43df96d47ec46528"
+    },
+    {
+      "path": "src/app/(platform)/profile/xp/page.tsx",
+      "sha256": "c07ec27dd9a176b2fabe30919831d9a3a21f21dc527ec3da846303ed4386d364"
+    },
+    {
+      "path": "src/app/(platform)/quiz/page.tsx",
+      "sha256": "d3569c935889d0b98c74f5a8c4f04748129d07f92132bbd576ef91525d40f38c"
+    },
+    {
+      "path": "src/app/(platform)/quiz/[sport]/page.tsx",
+      "sha256": "8c3a463e1cff9ffc05850e38373e38ccac6b8f4ce4b96c1b060aaaa2075d3e3d"
+    },
+    {
+      "path": "src/app/(platform)/shop/page.tsx",
+      "sha256": "adb8479fd455113859e2234bc6d5e5e927dcf9ee85f8bf7ccbdddc7d24a4c432"
+    },
+    {
+      "path": "src/app/(platform)/shop/search/page.tsx",
+      "sha256": "a1a51de465d46565af95c6796fcb4b5a67255003351297d212c535cda064d890"
+    },
+    {
+      "path": "src/app/(platform)/_components/home-hub.tsx",
+      "sha256": "2b2b44386a83471d7ee16fc4bcaab73e70ca38d5b7047d1ddfd48173303a3c01"
+    },
+    {
+      "path": "src/app/api/matches/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/app/api/picks/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/app/api/scores/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/app/favicon.ico",
+      "sha256": "2b8ad2d33455a8f736fc3a8ebf8f0bdea8848ad4c0db48a2833bd0f9cd775932"
+    },
+    {
+      "path": "src/app/fonts/orbitron-latin-variable.woff2",
+      "sha256": "c25a9f9da5d9f3db1bf2a01474722dc9b377675b7bbab6d0dfda6902794fd1ed"
+    },
+    {
+      "path": "src/app/fonts/space-grotesk-OFL.txt",
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+    },
+    {
+      "path": "src/app/fonts/space-grotesk-variable.ttf",
+      "sha256": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72"
+    },
+    {
+      "path": "src/app/globals.css",
+      "sha256": "fb121729d80129fb7b6e7aaf33c6a49d4e18fa1c8dd015671fb215cbd85aaabf"
+    },
+    {
+      "path": "src/app/layout.tsx",
+      "sha256": "e55e5fe53686da11cc9e27006325f41b53966a4459ca12c3f675a30549d0c4cb"
+    },
+    {
+      "path": "src/domain/athletes/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/domain/cards/card.ts",
+      "sha256": "14fe58347515603e747f307d8dfd54bb54ac7b00180247b2c39fc57918a3396a"
+    },
+    {
+      "path": "src/domain/cards/index.ts",
+      "sha256": "5a42e9abafd5de36f4f26e385aa2402defc0665761a004bca78511383c34d1ba"
+    },
+    {
+      "path": "src/domain/demo-product.ts",
+      "sha256": "bf571a883a8a9e4f93aef13dd08a212ec22ce8d5a9d9e183e189b0fa65745216"
+    },
+    {
+      "path": "src/domain/leagues/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/domain/leagues/index.ts",
+      "sha256": "8f2d83118be7459f661b925f7adcc99b8d0c850e713806cbadc4effa1ac716b0"
+    },
+    {
+      "path": "src/domain/leagues/league-hub.ts",
+      "sha256": "6f2386e4dd377404d4c33acdd157721ef3c747ed85541c8d1c07a8cb0146360d"
+    },
+    {
+      "path": "src/domain/matches/circle.ts",
+      "sha256": "f6083f2bb9b5a913be4398a0e2528c992548e27b6094e542b28a9d8d7e205d67"
+    },
+    {
+      "path": "src/domain/matches/detail.ts",
+      "sha256": "38c48d4112a2f2c5e417eea180b1fe43fd44835dac8fc9fcfbe12a84eec0d837"
+    },
+    {
+      "path": "src/domain/matches/index.ts",
+      "sha256": "c4af3d63984575455805d475969e5a5387cc7923a36c732784b811248f2b3808"
+    },
+    {
+      "path": "src/domain/matches/match.ts",
+      "sha256": "7698f334a568ce64e4776e39bb5f7ea7ab00d54137ef63a9adb470c992937e24"
+    },
+    {
+      "path": "src/domain/matches/race.ts",
+      "sha256": "8c0da7e1660a0d10fce418325599a2c306cdc4b88d8c6194576a2c2c529ebbfb"
+    },
+    {
+      "path": "src/domain/matches/report.ts",
+      "sha256": "70407c2ce46540553c69dc61565804f763e5e1b7dd80f55872fcfb867e7b7ac0"
+    },
+    {
+      "path": "src/domain/onboarding/followable-league.ts",
+      "sha256": "8b3543ae577159887f5d56d983315029e5797973f3f24aa2a4692eac72fbc714"
+    },
+    {
+      "path": "src/domain/onboarding/index.ts",
+      "sha256": "04a27a5daead6fc5cc0ac6a4be114d3b7fd250aedb8e31a77afa90898704f176"
+    },
+    {
+      "path": "src/domain/predictions/card-result.ts",
+      "sha256": "736d159bd454653d2d2dcf766c61dabc7bfe905ac0b188f0225e6f66bbecacfe"
+    },
+    {
+      "path": "src/domain/predictions/index.ts",
+      "sha256": "8172640f8f463416ca0570d5ebec5337ed391b11e1cf456146fcfce0f2d056db"
+    },
+    {
+      "path": "src/domain/predictions/market.ts",
+      "sha256": "ada90798e5f0044a967e9751821dfd005dc66e8d0d68b37955cf8cc94e88957d"
+    },
+    {
+      "path": "src/domain/predictions/quiz.ts",
+      "sha256": "1c6d0cd05a0f80abb5ae5a008cd1ce899347e37e61c6e9c032dab998146e604c"
+    },
+    {
+      "path": "src/domain/progression/index.ts",
+      "sha256": "b44a31931b93202b1a319b2c3471beae47bb37cd6cd6a410098e04b1169598a7"
+    },
+    {
+      "path": "src/domain/progression/ledger.ts",
+      "sha256": "1700b99492e7e8270447e7f9979b25040d7ced77177c54467787a039a4289d03"
+    },
+    {
+      "path": "src/domain/progression/level.ts",
+      "sha256": "6f438285cfacdec13cd466ea8f7645420f24a122d81b2d1bce0550d9261c44d9"
+    },
+    {
+      "path": "src/domain/progression/track.ts",
+      "sha256": "ef3ab7a4c1688ed0bcda0c06ba16cf43c73204ef9dd96f53750887d6ac3f480f"
+    },
+    {
+      "path": "src/domain/README.md",
+      "sha256": "5ca3a3bb9fe725559b07f77b1e0913d5f0a0aa2dc277e5c9fb1989ad7b91ce11"
+    },
+    {
+      "path": "src/domain/sports/index.ts",
+      "sha256": "1ac441311a26cb548d642607261bd8fc3dc4b1643e70a3c43211389c20373f22"
+    },
+    {
+      "path": "src/domain/sports/sport.ts",
+      "sha256": "76fd22b8420d1f11a3c1d83a74a44521b836378c7c4b9f60ef3bfe63d029b482"
+    },
+    {
+      "path": "src/features/ads/components/ad-slot.module.css",
+      "sha256": "f11c3b905fa29414dd69ff5ac199a8fb69182546a3d58b869b5c086169f23c42"
+    },
+    {
+      "path": "src/features/ads/components/ad-slot.tsx",
+      "sha256": "ba5d7113ac1d6b7b14fda6cb7859b75b4469876d01410aea732032e37335f90c"
+    },
+    {
+      "path": "src/features/ads/index.ts",
+      "sha256": "813129661beec3389600e27a85b456f12ea015394b891a2e250e7891bf44da6d"
+    },
+    {
+      "path": "src/features/ads/types.ts",
+      "sha256": "2febc8797594a708d8d0003fb929e48bb124b99b8486c4f1eef0d12fc1334709"
+    },
+    {
+      "path": "src/features/auth/components/auth-boundary.tsx",
+      "sha256": "318dbead66fa2a11416de1d2d7beec58af027d867bd76d9c5a76c6af903c1204"
+    },
+    {
+      "path": "src/features/auth/components/auth-gate-dialog.tsx",
+      "sha256": "644be8a80506ce5b022853f80ff8e0a2edf883b0d0086c08114449f66d5c96b3"
+    },
+    {
+      "path": "src/features/auth/components/auth-hero.tsx",
+      "sha256": "4ad8fd5f9cf531f956e61a3b31fdc762e622b4d221257fe8732298a1620b98dd"
+    },
+    {
+      "path": "src/features/auth/components/auth-panel.tsx",
+      "sha256": "b75fd39e7a582d7a6028431d04a6ce20b97b34f5a25ed80c53089e3092cc6fc2"
+    },
+    {
+      "path": "src/features/auth/components/auth-provider.tsx",
+      "sha256": "fe46b40f90a1270d5d5d1817caa186303e2d40d673e1e2d5df4a98c9353f7fc9"
+    },
+    {
+      "path": "src/features/auth/components/auth-screen.tsx",
+      "sha256": "6dcc7268080d159260864629708a9410eb5eccd1185ee473740305cbf5ecc66f"
+    },
+    {
+      "path": "src/features/auth/constants.ts",
+      "sha256": "fe819fdaf6191aaffff513ed582d62c1d478602c652f76e1a30d4596969a5547"
+    },
+    {
+      "path": "src/features/auth/index.ts",
+      "sha256": "74aaa9237b9e9097cadddc91cdf4e8d81d19dbcaf6a32d430de0db57944324c0"
+    },
+    {
+      "path": "src/features/auth/return-path.ts",
+      "sha256": "3cfd4bf5ab78f85e7887002106586510a1aa723d9e0c9ae851b849ff18560414"
+    },
+    {
+      "path": "src/features/auth/state/auth-session.ts",
+      "sha256": "22b9c751bcbd724caf1a8ee0d2f56c27fd26c37340e0f2c539fb217573bd346c"
+    },
+    {
+      "path": "src/features/auth/types.ts",
+      "sha256": "220c4fb8fb4715e1272881520fbd5adb536a8dff68cb26fd4d1a081fcb4cb359"
+    },
+    {
+      "path": "src/features/auth/validation.ts",
+      "sha256": "3916a444786cd0bb935eed5756a30a3b3204a7e87d74cdc2285f30268b8cd5aa"
+    },
+    {
+      "path": "src/features/cards-decks/components/deck-card.tsx",
+      "sha256": "ca26df8d00e450a4a65864472322b92c296858ac1c828e2d20e632b4e00d0bff"
+    },
+    {
+      "path": "src/features/cards-decks/components/deck-editor.tsx",
+      "sha256": "f1f73610cb2f0aadbc490df21150de1d3124ad1ca1305109e709f74786f0d802"
+    },
+    {
+      "path": "src/features/cards-decks/components/deck-locker.tsx",
+      "sha256": "6b677f272c600bd6fce9ec18a47ddb760ca334c94daf6492a421accf23a4628a"
+    },
+    {
+      "path": "src/features/cards-decks/components/deck-system.module.css",
+      "sha256": "6861a3c6a32b77ec9eac5a955529a07ff4c19eff30d120c6ca24a5b15f2055ca"
+    },
+    {
+      "path": "src/features/cards-decks/index.ts",
+      "sha256": "5668a491a85461489472c55396b45750e9d9173f63316756fcd06accbe677b83"
+    },
+    {
+      "path": "src/features/cards-decks/state/deck-store.ts",
+      "sha256": "e09f10b4375929dfe01b2dc2477781e5b1a8c29e943f0cca00b14d0996eb2d88"
+    },
+    {
+      "path": "src/features/cards-decks/types.ts",
+      "sha256": "b813197ec0cc7e0b56907d137282f9ce48212c25ef8fb33cf337005c6df70c43"
+    },
+    {
+      "path": "src/features/economy/index.ts",
+      "sha256": "f5ab1e7c8e6fce89f1b1dd056c38cdaea1b9535c3256de63051f9608632ebfea"
+    },
+    {
+      "path": "src/features/economy/state/economy-store.ts",
+      "sha256": "1543fb3800c9a2bcc7d09a03e68a0f7f814f25c9ac07b09f778e2eb3ffbe592a"
+    },
+    {
+      "path": "src/features/economy/types.ts",
+      "sha256": "2ade6d1380ca08e700517f244043cb20535c7e068937b6ed5f4677a3871f48c7"
+    },
+    {
+      "path": "src/features/friends/components/friend-request-sent.module.css",
+      "sha256": "5f44027764cec5b1496d16824d68f1329f59821b0293afea6ef4aa6fc9229da9"
+    },
+    {
+      "path": "src/features/friends/components/friend-request-sent.tsx",
+      "sha256": "6a0c3bd085c19c5b81b20a455b9ad2f062b21bdd9f2c0bab81474f1013a34f61"
+    },
+    {
+      "path": "src/features/friends/components/friends-arena.tsx",
+      "sha256": "f48366907c091e3cb97dd62104d1db91d5bbb2c96b54fe2d5cff045d993f6498"
+    },
+    {
+      "path": "src/features/friends/components/friends.module.css",
+      "sha256": "a31660e88321e61b43a266ffc165650224b2619a47885401656b9029697f9e9b"
+    },
+    {
+      "path": "src/features/friends/components/referral-invite-card.tsx",
+      "sha256": "b42a8344f167d14ee59656e5a9076e83dc1ecca0caab31d6cec59e9c45b3ef3e"
+    },
+    {
+      "path": "src/features/friends/components/referral-screen.tsx",
+      "sha256": "14af9223f0cce070d9a3a1d2169ff28380faa253e1e00742023e279b16ebcc6e"
+    },
+    {
+      "path": "src/features/friends/index.ts",
+      "sha256": "6e02ae3f0d20ca3f3f95b6b65998dd752d61e8a20fd174a2ccb4324b61ec092f"
+    },
+    {
+      "path": "src/features/friends/state/friends-store.ts",
+      "sha256": "0d66cbff00f292baea73a5cf48e8d09ac7615dc2822252d777006a916f8adc40"
+    },
+    {
+      "path": "src/features/friends/state/referral-store.ts",
+      "sha256": "724e93da302366558e990dfc4af1e5cc86a875e655c88b780df5a6016eacacab"
+    },
+    {
+      "path": "src/features/friends/types.ts",
+      "sha256": "4048892d0988d15e8531992394de5f3a1572b627929d5719d6a5602497382806"
+    },
+    {
+      "path": "src/features/games/basketball/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/features/games/basketball/components/hoop-duel-arena.tsx",
+      "sha256": "5236e3610f6c25c508af2958c20fbc42dcb61c05aa08558d25eb24b39670aee3"
+    },
+    {
+      "path": "src/features/games/basketball/components/hoop-duel-controls.tsx",
+      "sha256": "37e907c7f35c6e99ebd3bd76a9b8c0f04848a3db0ec2581cc01989a8dac15d6d"
+    },
+    {
+      "path": "src/features/games/basketball/components/hoop-duel-hud.tsx",
+      "sha256": "8e94b7949d7c56cf510eb36c7e0d3a7f57b4284618854ea9018efbccfc07bf9c"
+    },
+    {
+      "path": "src/features/games/basketball/components/hoop-duel-lobby.tsx",
+      "sha256": "930de8fcb24470a10a9aa2d51eb83a8213e4cca5025e76abf97e4bfa2273a36a"
+    },
+    {
+      "path": "src/features/games/basketball/components/hoop-duel-overlays.tsx",
+      "sha256": "268e7ced58a5fd9af587c14bc9c097687d093bc105b76daa63c0abaf93ccc82f"
+    },
+    {
+      "path": "src/features/games/basketball/components/hoop-duel-result.tsx",
+      "sha256": "df5f915a61e5a001e7984e563f4cce544fff054a813ffdfadcb14ffd66c3cda9"
+    },
+    {
+      "path": "src/features/games/basketball/components/hoop-duel.module.css",
+      "sha256": "69e026eccf3a202c8dee608357ef7086c563c06131eae3a6ffcec26ed5b9f33e"
+    },
+    {
+      "path": "src/features/games/basketball/components/hoop-duel.tsx",
+      "sha256": "0c8d81102287d6769616c148fe7fd2e44deb711ccb295462f5d40c2127ed4607"
+    },
+    {
+      "path": "src/features/games/basketball/components/renderer/ball.ts",
+      "sha256": "1dd74ac14abcee9b535036c8c4d39c61300f0be59f79da80d5c352e658d78632"
+    },
+    {
+      "path": "src/features/games/basketball/components/renderer/court.ts",
+      "sha256": "cd0ac629c654dff8ab360bcec1045d81d100637736e14fe854ebe58fe6d6647f"
+    },
+    {
+      "path": "src/features/games/basketball/components/renderer/effects.ts",
+      "sha256": "b5bd0f2b822816ed9c9980371f5aa464e17905aa86ad26868fadb2e1bf14a740"
+    },
+    {
+      "path": "src/features/games/basketball/components/renderer/geometry.ts",
+      "sha256": "0ea0553b2a5243e400caad13b743bd5e24221de8907866f3054983a1891b2c66"
+    },
+    {
+      "path": "src/features/games/basketball/components/renderer/marker.ts",
+      "sha256": "2087a3827c2da6415734b743921136193f07ee8f377486a63be3b21aefd17461"
+    },
+    {
+      "path": "src/features/games/basketball/components/renderer/palette.ts",
+      "sha256": "a8b4e834bd897c5f072396f6774d090824280ff212f0f1e53b13cc986ba5c933"
+    },
+    {
+      "path": "src/features/games/basketball/components/renderer/rig.ts",
+      "sha256": "d512c95d785a156be1ccc89d2bb76010b101382c11700d6d0871f308fb20136a"
+    },
+    {
+      "path": "src/features/games/basketball/constants.ts",
+      "sha256": "44953eafdf38fcae36ebb830145e6056f5eb931a91eed3f7938bd27fa0a876ec"
+    },
+    {
+      "path": "src/features/games/basketball/data/athletes.ts",
+      "sha256": "a8b4a130e4aadd46771926e1b75a569439564fb948d2b41f5c4f19533b0f4856"
+    },
+    {
+      "path": "src/features/games/basketball/data/liveries.ts",
+      "sha256": "3eef3cc713944d4beba6d9f8e00708bea906e12ce82ed150cf2110e1fa20c451"
+    },
+    {
+      "path": "src/features/games/basketball/data/looks.ts",
+      "sha256": "766a32d10e3a79f9ca40026e538d59cfcf0f593d785325458f2904abbe273c76"
+    },
+    {
+      "path": "src/features/games/basketball/engine/ai.ts",
+      "sha256": "f994ffe55c890add3c30c08b2aedf642ef63217c6da442938b3189cfd48d61d5"
+    },
+    {
+      "path": "src/features/games/basketball/engine/engine.ts",
+      "sha256": "a729329ea7b049b2c54579fafb21d4d3f9eec4a673e1c1b0035a62037355e6fa"
+    },
+    {
+      "path": "src/features/games/basketball/engine/game-loop.ts",
+      "sha256": "9419655459f3123d206069f34b485b66700494811a785b600e27565d81857656"
+    },
+    {
+      "path": "src/features/games/basketball/engine/random.ts",
+      "sha256": "44ae4474b7b71af8ae39491f5bec6240874ebfe30383074e30b4574eab68e1a1"
+    },
+    {
+      "path": "src/features/games/basketball/index.ts",
+      "sha256": "b195a6259ec101fbe13e4ebcbea59d375771cf48ce5134aa8f384c7a44519ca1"
+    },
+    {
+      "path": "src/features/games/basketball/state/hoop-duel-progress.ts",
+      "sha256": "f44e5430b2148082828c855c8378f154d049955ac6874839ce8866ccdc00a991"
+    },
+    {
+      "path": "src/features/games/basketball/state/use-hoop-duel-engine.ts",
+      "sha256": "c6c68a05c789cf429f185d59594ec6ef31133a0a887ed8c49874c882fbaf62e3"
+    },
+    {
+      "path": "src/features/games/basketball/tuning.ts",
+      "sha256": "a04a49e217ede9e393d24f7b6b7c8bca54b2dd62f937a885bf4bebd715391bfc"
+    },
+    {
+      "path": "src/features/games/basketball/types.ts",
+      "sha256": "3a80d4fb390d8fdef9f8f2319a7a175eddb8cb3041683eecab7f5fca8e567b99"
+    },
+    {
+      "path": "src/features/games/components/arcade-hero-tile.tsx",
+      "sha256": "ef30cad2f4a35a427b2be5b478b4b57d9f95c6b817c8ae0abbdbf8a2e5ade2dd"
+    },
+    {
+      "path": "src/features/games/components/discovery-card.module.css",
+      "sha256": "019f5aa7c159fe8d92ae5aa4f084e23d76869167b96844754e52729c7782268c"
+    },
+    {
+      "path": "src/features/games/components/discovery-game-tile.tsx",
+      "sha256": "5b52f751df7b956de0c152ebd4264bbd88737b9f87c83bd08830c2e14101a59f"
+    },
+    {
+      "path": "src/features/games/components/discovery-motion.ts",
+      "sha256": "c0a31c8738793a3c47f36a48874775285de2d3600a27e00b34fbd117a2da23e7"
+    },
+    {
+      "path": "src/features/games/components/game-discovery.generated.ts",
+      "sha256": "a9a3a134bd8e326a489bedadc0787a59d1ed93d9f661170ed3a7716aba7526c1"
+    },
+    {
+      "path": "src/features/games/components/game-launcher.tsx",
+      "sha256": "1fce3d57367334224b2bc4167a2cabf674e4ec5c7b5884e78e9e3775f3689a8f"
+    },
+    {
+      "path": "src/features/games/components/game-leaderboard-cta.tsx",
+      "sha256": "d6494ea5838435e0c9872b0ccbbaa5c5612e5674cecd19209c15255d95bde241"
+    },
+    {
+      "path": "src/features/games/components/game-placeholder.tsx",
+      "sha256": "f30d33b99d54dde540d70e615791bad6f2acf4d5cf40e3ae028073fae8a1d2e1"
+    },
+    {
+      "path": "src/features/games/components/game-scenes.tsx",
+      "sha256": "d762d42c0177b779c8de2ef622245077022b903944bacaa576b28aa55f03ad82"
+    },
+    {
+      "path": "src/features/games/components/games-trending-feed.tsx",
+      "sha256": "21ccab22af4b5160283e667740c93c4b2a20fdf6e0c4e2823a2e2e216b517164"
+    },
+    {
+      "path": "src/features/games/components/quick-game-tile.tsx",
+      "sha256": "8e8f1c250144635d7ab3556447ac9b5cef5a25f838e483641e5cd2ab20b1a626"
+    },
+    {
+      "path": "src/features/games/components/quick-play-header.tsx",
+      "sha256": "45355817606e1d6e1e9282f472ccf04b81247068da395e9f72d97367109ba308"
+    },
+    {
+      "path": "src/features/games/components/sport-game-deck.tsx",
+      "sha256": "3e8ae7a69d8e2fb45b142182aa413911c678aa0534645e09c2c2ea3933af0168"
+    },
+    {
+      "path": "src/features/games/components/sport-games-hub.tsx",
+      "sha256": "6febae6fb7b9a0b7c0f606b24e424634873b7444b7f9a792aa29cb8f7abdec0b"
+    },
+    {
+      "path": "src/features/games/connections/components/football-connections.tsx",
+      "sha256": "f91005c6fce193e6c38b6ce7c038135810253aff002396c5f85802f1d717bb8d"
+    },
+    {
+      "path": "src/features/games/connections/constants.ts",
+      "sha256": "363e4e2c08a1f7d582a049bdc8fb105508742c5760653b8be939631b196f6dcf"
+    },
+    {
+      "path": "src/features/games/connections/engine/connections.ts",
+      "sha256": "f1b06163b7db1efdf310c2b899ebc5a4653e67e7de86c81a0e825161455c38b5"
+    },
+    {
+      "path": "src/features/games/connections/index.ts",
+      "sha256": "3278a2cdfec9c6863ec26759f1262271c5bdeac993509a3386532b8657bb3307"
+    },
+    {
+      "path": "src/features/games/connections/state/connections-store.ts",
+      "sha256": "38f9b41ecb43da5ce39e43c6087458119215b1a503be3b8daeaa5ac01f3d1b28"
+    },
+    {
+      "path": "src/features/games/daily/daily-status.ts",
+      "sha256": "e591ea41a3f9b106bb678c270cd4d691c6f756abdd15da8b1e20a7dd8cbad103"
+    },
+    {
+      "path": "src/features/games/daily/day.ts",
+      "sha256": "e720f2f7eebd6bc8e60e680da14ed9641544d0cd069f358dbcfd883577660902"
+    },
+    {
+      "path": "src/features/games/daily/seeded.ts",
+      "sha256": "5a4a2d1bdd9e6fb7765741e08bac563fc940ba60e533bd395e9dc24a462565e8"
+    },
+    {
+      "path": "src/features/games/daily/share.ts",
+      "sha256": "2184f12040d7d7dc9bef2b691e48f298be698b09d63eb07500ee169a95d39ae2"
+    },
+    {
+      "path": "src/features/games/daily/use-countdown.ts",
+      "sha256": "a8f763b36720e4fed839c294842753ba6a18668de2b2ef3dd6e2edff36b5faaa"
+    },
+    {
+      "path": "src/features/games/daily-quiz/components/daily-quiz.tsx",
+      "sha256": "aaa0753a93147b45a8f5c734c4e6dd0fcd2a733112277be950a47d51a9ba9de4"
+    },
+    {
+      "path": "src/features/games/daily-quiz/constants.ts",
+      "sha256": "1bce43a013caf66d12d1751cb2acf537b9f8f813ed2811e9f340ef248b6b581d"
+    },
+    {
+      "path": "src/features/games/daily-quiz/engine/pick.ts",
+      "sha256": "e970994c5c969c5d396a4199b657fc0206685379cd9ecd36b98cc5ac51154497"
+    },
+    {
+      "path": "src/features/games/daily-quiz/index.ts",
+      "sha256": "8422e745243efff85a770bf5b8962f2d3b4f89c8e8c6b016bcb594347b7b8f00"
+    },
+    {
+      "path": "src/features/games/daily-quiz/state/daily-quiz-store.ts",
+      "sha256": "3a694d63e6c3fb57b9585be72cf403d5051c9d1372751c2a2434d8f1f34fd478"
+    },
+    {
+      "path": "src/features/games/final-over/components/final-over-arena.tsx",
+      "sha256": "4f332e4dff1586288adc03705f3c1f735e92b243654cfcc779183a96948351c4"
+    },
+    {
+      "path": "src/features/games/final-over/components/final-over-controls.tsx",
+      "sha256": "f59fab20ea5a3cea3e32cd7dcf7491a938f446a9a994488cbadbde0c9ad3d467"
+    },
+    {
+      "path": "src/features/games/final-over/components/final-over-hud.tsx",
+      "sha256": "a09916a567a9fdee72b18a8ffdf474bbeba1cd18408569faf46b7162a788754a"
+    },
+    {
+      "path": "src/features/games/final-over/components/final-over-lobby-hero.tsx",
+      "sha256": "f4c277312eb16a8a1ef85507d9afdc3bf58ee7c3dab2d60726932b919ec7aa28"
+    },
+    {
+      "path": "src/features/games/final-over/components/final-over-lobby.module.css",
+      "sha256": "3966a1a204e88834d7b48ff842f31e2693570b95a4d73ca00b4201d4e3d378c8"
+    },
+    {
+      "path": "src/features/games/final-over/components/final-over-lobby.tsx",
+      "sha256": "e5dd72b2762f9caef06dedd44aabc2fb7c8f6df76d37663421726cbfcf06abbf"
+    },
+    {
+      "path": "src/features/games/final-over/components/final-over-overlays.tsx",
+      "sha256": "4cc84dbf9e83f5265182177f09ee8f1241adff10e3d3e09d1c9dd4efdf3f8375"
+    },
+    {
+      "path": "src/features/games/final-over/components/final-over.module.css",
+      "sha256": "0f2efd8f8146bc6c846282faff31349ecb02f275607f398dbd68bf67127e1805"
+    },
+    {
+      "path": "src/features/games/final-over/components/final-over.tsx",
+      "sha256": "44283b871c9287a8998682ba53e8b4b6212b9e75b91e7fab61e24bbffdce1f8c"
+    },
+    {
+      "path": "src/features/games/final-over/components/renderer/batting-view.ts",
+      "sha256": "151c1b29edbfbd475a468b15ad9a177b78a7572ebb810f3504c99185651015c2"
+    },
+    {
+      "path": "src/features/games/final-over/components/renderer/effects.ts",
+      "sha256": "341cb2ca2b36324e3e037076f23cea19590f7f7932a6426f121f6257c4f0efc8"
+    },
+    {
+      "path": "src/features/games/final-over/components/renderer/field-view.ts",
+      "sha256": "6cc21e06e1beaf71921afc9cc6c61725a2b72548cdcd5b1f8fd4158146e8a5d4"
+    },
+    {
+      "path": "src/features/games/final-over/components/renderer/geometry.ts",
+      "sha256": "31ea8c854d7944ede2b50529d3e477b32bab668b0e63e03c6fc492ee2d7b12e1"
+    },
+    {
+      "path": "src/features/games/final-over/components/renderer/palette.ts",
+      "sha256": "50e7024404663c2f5236cc20c8ce103be88738e2117feae775fa3f8324ecbf02"
+    },
+    {
+      "path": "src/features/games/final-over/components/renderer/rig.ts",
+      "sha256": "09d31e3cfa0ef78051a2f4c910ffe7bf3580a1e6f5961b2a00b251a30234e18d"
+    },
+    {
+      "path": "src/features/games/final-over/components/renderer/stadium.ts",
+      "sha256": "2a763b9d9d4e42a657d1a27d50281bfde4a9633a8906080c68a3e9be5b75d670"
+    },
+    {
+      "path": "src/features/games/final-over/components/result-cinematic.tsx",
+      "sha256": "bb445fd529039d7a023d5ea2b98d4ecdbd65e44eb5a025f0b53c7d86aa3edfbb"
+    },
+    {
+      "path": "src/features/games/final-over/components/swing-surface.tsx",
+      "sha256": "53b3613c6b5156c3fea6134edce92712d08f456951385137341934338d1750c7"
+    },
+    {
+      "path": "src/features/games/final-over/constants.ts",
+      "sha256": "6c03a61489ee51e8efacdc3568b6768cc0e3bd268cb5635fccacd085ce83dc6a"
+    },
+    {
+      "path": "src/features/games/final-over/data/bowlers.ts",
+      "sha256": "6ec8ce508fd75b21ea4862017767d9542c16a203840383970aa623512b5b66a0"
+    },
+    {
+      "path": "src/features/games/final-over/data/kits.ts",
+      "sha256": "60de42e1663502de450c1f739374cb2261a4f83bcce7b19490b5b0055dc835b2"
+    },
+    {
+      "path": "src/features/games/final-over/engine/commands.ts",
+      "sha256": "5a6ef5b8ef86ca2ed6ab9d04412087b875149f811ce3b7960fc8014ae5e9cba3"
+    },
+    {
+      "path": "src/features/games/final-over/engine/delivery-generator.ts",
+      "sha256": "cbf532c154b9b2863dfd8f0415c81a40d7ad9411eda895c26d0bd809f7d02527"
+    },
+    {
+      "path": "src/features/games/final-over/engine/match-controller.ts",
+      "sha256": "6fa2bcf77b6495e2b72127b7073c978daacd8325ac25f49341dc20865becaff6"
+    },
+    {
+      "path": "src/features/games/final-over/engine/random.ts",
+      "sha256": "d1bdd0314e99c3cc071bd8bd4506d0b2d67e4efad268158c4207b9df7bb0a7a6"
+    },
+    {
+      "path": "src/features/games/final-over/engine/resolvers.ts",
+      "sha256": "6a1c844f50c719e4f34cb46529c997b28dda37b79f3b355c3bbdf7b38c034277"
+    },
+    {
+      "path": "src/features/games/final-over/index.ts",
+      "sha256": "46b080f9008d5022afb37ead96789e8834843e81a1ff43fe1aab59df29b7bc5a"
+    },
+    {
+      "path": "src/features/games/final-over/state/final-over-progress.ts",
+      "sha256": "fa392d285a15798a43ed762466ff0510f36009095ab694dca1becf034c56fa3e"
+    },
+    {
+      "path": "src/features/games/final-over/state/use-match-engine.ts",
+      "sha256": "5c96cdb72eeb2c2b343a36360e44fd30e3e445455430248b76e15f7cd753f6ac"
+    },
+    {
+      "path": "src/features/games/final-over/tuning.ts",
+      "sha256": "59a4eb60118c979525b3b48cff86ac94690aa02598603cd180a3d237b80b1a47"
+    },
+    {
+      "path": "src/features/games/final-over/types.ts",
+      "sha256": "3328ce83795fe1a5b52185eedd056bac09f74d449dcbb0cffbfa2002d3de24ae"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/active-player.tsx",
+      "sha256": "9726afba5646fd060a7328744abf21f734bcb0aa546ffa7d40929602d941197d"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/bingo-chrome.tsx",
+      "sha256": "a5fffce132535557be728d05b68401c4fabaf50583d783c5b6ac8d4f86c004c3"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/bingo-grid.tsx",
+      "sha256": "a537769d5baed6768d7a4372d7740bdcf3924d07ca1dbd8b5b137f6d45f41bb2"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/bingo-home.tsx",
+      "sha256": "bf62e33a9c5e7845d1febe9c7aed0e4f6a2c077f83e607deb070871a8b242c5f"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/bingo-logs.tsx",
+      "sha256": "ac2df858ee4844d88998afb161991c070ecaa7ebec9d0318ab8977836d808f58"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/bingo-play.tsx",
+      "sha256": "5911905ed2ef66d81950644684fef2eb660754a6ce22ed4ea7dfcb351f67fa04"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/career-sheet.tsx",
+      "sha256": "fb874f2f3d3f772c348e160793d68bcefe61cd69c284340c0746419f4f38b37c"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/completion-overlay.tsx",
+      "sha256": "d6cecbb88c395435bf1ad635ab93c42b5f9d4091708b70549600c5b617f8fe73"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/football-bingo.module.css",
+      "sha256": "7ebc95be0539ed11ee85893aff371e8c270b678fa48602c761e00b3b5efcac01"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/football-bingo.tsx",
+      "sha256": "2c824e13da6cb05370e9ef8acfce9df13c30b1d3f67a4cc4171c8bec66b8609e"
+    },
+    {
+      "path": "src/features/games/football-bingo/components/lifeline-dock.tsx",
+      "sha256": "54a2736a1af0383ab0e9256526f7fc22eb95fe5daa14e5a43501a455e1485b56"
+    },
+    {
+      "path": "src/features/games/football-bingo/constants.ts",
+      "sha256": "3bb5fa418e158455e8b63363dc8398b71d355cecea8c80c7a6861bf2b2b8f485"
+    },
+    {
+      "path": "src/features/games/football-bingo/data/careers.ts",
+      "sha256": "eeead4230eae97447dfaba0eba371f3947ed4c65ad089433a8b6fcc19d9f1c72"
+    },
+    {
+      "path": "src/features/games/football-bingo/data/club-colours.ts",
+      "sha256": "c7026191730d667ec6fe38fe28e460d276ada916df090a17c513729e7485d200"
+    },
+    {
+      "path": "src/features/games/football-bingo/data/clubs.ts",
+      "sha256": "715bf947f974c303a7030af01ae19030697bbc0a11ad5c922295c8d00230c17b"
+    },
+    {
+      "path": "src/features/games/football-bingo/data/puzzles.ts",
+      "sha256": "684f2b45bdded86f6fb721e21df45ea3bfd06afee34977c7f04f72ef8995e4ed"
+    },
+    {
+      "path": "src/features/games/football-bingo/engine/archive.ts",
+      "sha256": "012a007c39bc9ae40f686a13d7f1f2fd6108222b033c084eedd7a448ea347497"
+    },
+    {
+      "path": "src/features/games/football-bingo/engine/dart-random.ts",
+      "sha256": "df057168e8789483fbaf4ec9c0d2dad4ad209946990578d7b2b6202f0e215df3"
+    },
+    {
+      "path": "src/features/games/football-bingo/engine/day-keys.ts",
+      "sha256": "5af38c1a7e90bcf14dc9e13ef9772ba842229ab3572cc5f604dc98ec685c572e"
+    },
+    {
+      "path": "src/features/games/football-bingo/index.ts",
+      "sha256": "0663e2b481b31cff34417687042698ebf0605b185ebd0191e41a0389d8c9d2ab"
+    },
+    {
+      "path": "src/features/games/football-bingo/state/bingo-archive-store.ts",
+      "sha256": "bffc064e1b42be2641cddd2dfddb36c2facb8d0098376ce14b3a34dc3358d517"
+    },
+    {
+      "path": "src/features/games/football-bingo/types.ts",
+      "sha256": "d4d9de654ed09499ca337cd442886bc94ba670f65d800177fc010f4d41bf0d45"
+    },
+    {
+      "path": "src/features/games/football-chess/components/chess-board.tsx",
+      "sha256": "9e9f1e5709322ec8afab9a01d6a628654253961099461c9876334554be80fa84"
+    },
+    {
+      "path": "src/features/games/football-chess/components/chess-chrome.tsx",
+      "sha256": "50561b0e66d59db11594c538ccbc979d2398a69a73712ddd21cce33b7c726a7c"
+    },
+    {
+      "path": "src/features/games/football-chess/components/chess-lobby.tsx",
+      "sha256": "7db5ff87bd688ba774fc8ff80e35118271c6e44fe24d500ba712b803b8cee913"
+    },
+    {
+      "path": "src/features/games/football-chess/components/chess-result.tsx",
+      "sha256": "101462636cf28960cd3d8e5954b1ad25f73185ac6245d53b97da5aa5fd765455"
+    },
+    {
+      "path": "src/features/games/football-chess/components/football-chess.module.css",
+      "sha256": "9c4084c5a577f547279ef1e22af210fb693bd881e7cd71021d373bb203d0c07f"
+    },
+    {
+      "path": "src/features/games/football-chess/components/football-chess.tsx",
+      "sha256": "96812d383d0a412762ce7df6357b8df3d5d4d9a52a1453a20ac254b8a468a91f"
+    },
+    {
+      "path": "src/features/games/football-chess/components/toss-phase.tsx",
+      "sha256": "f6871efb4dc7365f76ecd5d34e5be0956a34b218e5ba2494c103cb8bf5f6539b"
+    },
+    {
+      "path": "src/features/games/football-chess/constants.ts",
+      "sha256": "276287710f4d81ac122422d0547aee97bf5ae86e79005f46e79561260dc7ff9c"
+    },
+    {
+      "path": "src/features/games/football-chess/data/formations.ts",
+      "sha256": "ba553a39c28534fc95d2b5d939f83fa308055aa89ef266a4ca182758ac181a5b"
+    },
+    {
+      "path": "src/features/games/football-chess/engine/cpu.ts",
+      "sha256": "37cab74587977f499b480525674e8e13be9b7b95b4253a9bd35afe2250552eef"
+    },
+    {
+      "path": "src/features/games/football-chess/engine/match.ts",
+      "sha256": "22e624a2dfe95efb6e1249e3061754d0da2ec35ff73640893deb567a0ef69503"
+    },
+    {
+      "path": "src/features/games/football-chess/engine/rules.ts",
+      "sha256": "1dc0484346357c6fa0b874932851f7acffe906577a857928129cb98b2662a82b"
+    },
+    {
+      "path": "src/features/games/football-chess/index.ts",
+      "sha256": "a953f90a9e9ea396bab0ee6f6616996022ddc96249a38e33e81a1f0f109cc445"
+    },
+    {
+      "path": "src/features/games/football-chess/state/football-chess-progress.ts",
+      "sha256": "99a0b2a442d64462c3c9e14bae6b6ac29057ca87ae779ac5414634ffdcce108e"
+    },
+    {
+      "path": "src/features/games/football-chess/state/use-match.ts",
+      "sha256": "d292c042f1b1d00d427ff72eb90d927776a855f064401fa25e86d343c628caa1"
+    },
+    {
+      "path": "src/features/games/football-chess/types.ts",
+      "sha256": "b888790c0df66d4d33258a54a3f1727a1c2d01243d67a71b1779567881276201"
+    },
+    {
+      "path": "src/features/games/grand-prix/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/grand-prix-arena.tsx",
+      "sha256": "6655ce246213af0f3552532c7ac294c941b454ae62b291c85bc9f3f69ee6827b"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/grand-prix-controls.tsx",
+      "sha256": "acb9f66bca7ed54b1a35450e70b92398c58450a9cf6703ba72ba525b8941ccd9"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/grand-prix-hud.tsx",
+      "sha256": "700f0d9c588ffa133d446661beaa3b84af7c63b0ee79fe77797e19ae1ea5deb0"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/grand-prix-lobby.tsx",
+      "sha256": "908bda78400a4046917769cc931dac4ef5c1a495d8e65e4f2e46a16bf53cd243"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/grand-prix-result.tsx",
+      "sha256": "a18cbdd7a5a334d81027e0c175deea03e8942d7305795a9605b9857b0f376ab5"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/grand-prix.module.css",
+      "sha256": "f358b4bdb21377d2b47c3b632f83be488b5b01942afd0fb79ed214382e837942"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/grand-prix.tsx",
+      "sha256": "86e469e90f6f08a4de3bda0bf864709fb3c6be0564bb154d72b406d6cb0426d9"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/livery-locker.tsx",
+      "sha256": "98fe8e02376019cc1cb3b55c3f5ab2c7330206627c198e38d59adfb247008fc7"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/race-overlays.tsx",
+      "sha256": "a647d761e3510276d3e36a15427ec4921ec2f850dcf68eab3429605294ce9518"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/renderer/car.ts",
+      "sha256": "107cbce6bb7ac9380f4d86c9b73ac2e7ef58e16808fd43ae190d9600aafe7b37"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/renderer/effects.ts",
+      "sha256": "72a67d7f7968199a8a47aded8bb721ec8c4fc6fc7dad37b19d69debfec14690a"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/renderer/palette.ts",
+      "sha256": "b70e6f528845888a85b071ff31f17fac4b38557739ed5682a2b5fcb5ab393b03"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/renderer/projection.ts",
+      "sha256": "a531c4d8fad2e56b24747015946f7a803ddeca72d15631bec2bda0d0b48d1643"
+    },
+    {
+      "path": "src/features/games/grand-prix/components/renderer/track.ts",
+      "sha256": "541ce6cf67dee103315607766851e53a320e81429fc44724c2c2508ade3a0238"
+    },
+    {
+      "path": "src/features/games/grand-prix/constants.ts",
+      "sha256": "18c5d28ea9f65eecfa60a5b813a14185aafaa96aff95a6117c19b0476b923a75"
+    },
+    {
+      "path": "src/features/games/grand-prix/data/circuits.ts",
+      "sha256": "82e8a0b1b33466f847feb442cf8ed7e41dc067c4fca5db7d9e40366a7f039696"
+    },
+    {
+      "path": "src/features/games/grand-prix/data/drivers.ts",
+      "sha256": "c789ada84d2706e180068362fbc00942aabc08a36c901d6c938c764fcc5453d3"
+    },
+    {
+      "path": "src/features/games/grand-prix/data/liveries.ts",
+      "sha256": "1c7f89372aa14c4d2f93a832dfcad0522b98fcb696973538305f5246accc19f4"
+    },
+    {
+      "path": "src/features/games/grand-prix/engine/engine.ts",
+      "sha256": "97621f33e3ac7d6f5cd031e30f4e6f6a5c98b7f1b7df670de7a135a4b372dca3"
+    },
+    {
+      "path": "src/features/games/grand-prix/engine/field.ts",
+      "sha256": "28a19c643c98bf05229de9e478eb5d08c7bff1f9cf3668978f8c771f90662170"
+    },
+    {
+      "path": "src/features/games/grand-prix/engine/geometry.ts",
+      "sha256": "d19d8ee7d2cd981a2f6f741d906e08164b1e7a889591c747d2034aa3c626edf1"
+    },
+    {
+      "path": "src/features/games/grand-prix/engine/race.ts",
+      "sha256": "d4d9df34a2325c2cae0f33e83e21051622a03e219b9490b05ea0c025d84bddd4"
+    },
+    {
+      "path": "src/features/games/grand-prix/engine/random.ts",
+      "sha256": "bbf2df365a4c82cdf4a0e013bc5739050130c419a163282d50434b685b36d14e"
+    },
+    {
+      "path": "src/features/games/grand-prix/index.ts",
+      "sha256": "b2d7f2a34642e38965846bf2cac86a81ee01f72ff26ef65dab9aa6f658345a2b"
+    },
+    {
+      "path": "src/features/games/grand-prix/state/grand-prix-progress.ts",
+      "sha256": "22ede79cf514101d80d836ceaf6f38b0ba4917f3d8887431a979a5786b2e3211"
+    },
+    {
+      "path": "src/features/games/grand-prix/state/use-race-engine.ts",
+      "sha256": "671be576a178752cb6aa9a773ee61dedfed69d70030532b21c63f8084cd1d7dd"
+    },
+    {
+      "path": "src/features/games/grand-prix/state/use-start-sequence.ts",
+      "sha256": "e6555da6708ed4734819daca415e3b83a87fd511b070e7d38beaace2de64a5df"
+    },
+    {
+      "path": "src/features/games/grand-prix/tuning.ts",
+      "sha256": "123e5f0e3e92bffb16d0df0bb40dbd2b3431286c8e4cbed2da87f53114cc2cda"
+    },
+    {
+      "path": "src/features/games/grand-prix/types.ts",
+      "sha256": "fa590291e3d3db0be495123a363ecc89f705a8e152bdcedfd23aa7116bcb9613"
+    },
+    {
+      "path": "src/features/games/grid/components/football-grid.tsx",
+      "sha256": "6b8150ebc49b5a94528c5d58dfd85f45dd7d3f22259913603771daef174eae33"
+    },
+    {
+      "path": "src/features/games/grid/constants.ts",
+      "sha256": "05f19689be231795dc944fa54c856d5a854f907865d26c28ab2343fd7637944f"
+    },
+    {
+      "path": "src/features/games/grid/engine/grid.ts",
+      "sha256": "a9a910255344d2a3f4c418df519313c44c82487bdb9fb96c590e042d0c3c7a84"
+    },
+    {
+      "path": "src/features/games/grid/index.ts",
+      "sha256": "c4273f4af28c224a6d14403f9f0902942112c7a02aca0c73604bdaccd24ac23e"
+    },
+    {
+      "path": "src/features/games/grid/state/grid-store.ts",
+      "sha256": "e2c5463ce68de4f6d23d952a62036fdad03e0a40ddb8512e18345806a76795fc"
+    },
+    {
+      "path": "src/features/games/guess-driver/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/features/games/guess-player/components/action-dock.tsx",
+      "sha256": "87a28d2213fcc7327d2b4e31de3af538b580062002d553be7354767323c508f2"
+    },
+    {
+      "path": "src/features/games/guess-player/components/career-route.tsx",
+      "sha256": "b1c22f5f73ea751e6257a45dc6d6ecc84bb38bef40b52fec6795ab62c6dc95da"
+    },
+    {
+      "path": "src/features/games/guess-player/components/guess-chrome.tsx",
+      "sha256": "f0c76e00e2ced73044b8b7c70b73563118b1cbe0b1b40c00bac944ab107d94b7"
+    },
+    {
+      "path": "src/features/games/guess-player/components/guess-home.tsx",
+      "sha256": "3ad9ba770888992aa00bcac2cd08bc8e5bdefae02d147b1f3b741fcfaf39251a"
+    },
+    {
+      "path": "src/features/games/guess-player/components/guess-logs.tsx",
+      "sha256": "498ff8a8634c5558be93190b9d7d94811e9c3d6064d9bdbc5a39b091f05588c8"
+    },
+    {
+      "path": "src/features/games/guess-player/components/guess-play.tsx",
+      "sha256": "58a149221a45979106576b03233535cc3790811fd6a2ee24ed9aef7329c41083"
+    },
+    {
+      "path": "src/features/games/guess-player/components/guess-player.module.css",
+      "sha256": "6a5c3653c96efba010277935365902c558e5867160432b572cedde80bc5d0f48"
+    },
+    {
+      "path": "src/features/games/guess-player/components/guess-player.tsx",
+      "sha256": "a23e83d77bb865dfe3ad81e9fadb2811cf8890de52f7365ccce95f01d65a1bbc"
+    },
+    {
+      "path": "src/features/games/guess-player/components/guess-result.tsx",
+      "sha256": "cf6586126430df5ce4dc2adab83a7a373508ac856881db5622722aad9b841418"
+    },
+    {
+      "path": "src/features/games/guess-player/components/intel-market.tsx",
+      "sha256": "44eb4b58dc09a3ddfd2f93bbc05670df254e6049f3a0236cc109c3c48720b238"
+    },
+    {
+      "path": "src/features/games/guess-player/components/player-search.tsx",
+      "sha256": "014a02ff5d59df82f0ae3bf5e4b8f1a049296c64501a8c5fe31902f475e7a37b"
+    },
+    {
+      "path": "src/features/games/guess-player/constants.ts",
+      "sha256": "9e84cb6b3284ae67a9a17414d1891046ee76976da15f3fbe2e2e2e0c2681fa4e"
+    },
+    {
+      "path": "src/features/games/guess-player/data/timelines.ts",
+      "sha256": "34bed7cb5ffca01362a9686d97708b312b62c5ae047d188381474090fd3a93be"
+    },
+    {
+      "path": "src/features/games/guess-player/engine/archive.ts",
+      "sha256": "15c00075a54da6e576ec57d7afcb04422dfcc78066d36bb06acca4e436f7dafa"
+    },
+    {
+      "path": "src/features/games/guess-player/engine/compare.ts",
+      "sha256": "cfbd43a75b6d79346505bf49ce9e88e0cc804a3810f7bf148874735f09b70786"
+    },
+    {
+      "path": "src/features/games/guess-player/engine/day-keys.ts",
+      "sha256": "a006b4c0db19cadbfaa7a7467042baf98a01b59a0dbd33247d3186806fd65e94"
+    },
+    {
+      "path": "src/features/games/guess-player/engine/deck.ts",
+      "sha256": "6a502814bbdca47e1219fc3b5c4af5ebe2c8c0b3723350d5b09c8b19b0a2125b"
+    },
+    {
+      "path": "src/features/games/guess-player/engine/normalize.ts",
+      "sha256": "70c657fc9c7bf5f5ba03bf70555fc5366f28edf7e0d0a6f236f62e25d15586a3"
+    },
+    {
+      "path": "src/features/games/guess-player/engine/puzzles.ts",
+      "sha256": "ff49ed2c1315aca32b0a5c6d1c96a61633827a75701f65003e4259eda216994b"
+    },
+    {
+      "path": "src/features/games/guess-player/index.ts",
+      "sha256": "b67feea638ab1dbe8f13a8b40bac79c6630533d2c0a06bbd105ba8fe97351575"
+    },
+    {
+      "path": "src/features/games/guess-player/state/guess-player-store.ts",
+      "sha256": "98cd768e1a75ccd291dbbd8b17cae884dabf7ba7388da8dadeb14514924e723c"
+    },
+    {
+      "path": "src/features/games/guess-player/types.ts",
+      "sha256": "0d848a857a26f2ec0f7fbf8d6558a6b4ba96655e0cf0f2c0355817713a7f8643"
+    },
+    {
+      "path": "src/features/games/guess-winner/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/features/games/higher-lower/components/higher-lower.tsx",
+      "sha256": "7a8b3af31cd6e00e9e7aaff70171981b022e33ca3a5ee75ab0cb4aa16788ce81"
+    },
+    {
+      "path": "src/features/games/higher-lower/constants.ts",
+      "sha256": "f52b7797ac7cf7716e53a936b4f1d19708c1addcf8a3fa1ef8f7628529c7b31b"
+    },
+    {
+      "path": "src/features/games/higher-lower/engine/chain.ts",
+      "sha256": "c49e5285c7d1c1070ce7789d95445cd38de3e2c8c3bf53554ddb2eea102ba502"
+    },
+    {
+      "path": "src/features/games/higher-lower/index.ts",
+      "sha256": "a692900edfc2990c40936f2a2109dd4166ca5f9605b9f699744d1f5dcbbbfad2"
+    },
+    {
+      "path": "src/features/games/higher-lower/state/higher-lower-store.ts",
+      "sha256": "b3f728c0074b0aa8539ddf6eefbf5ad19979324e56a827836bd8843b9f1dd16f"
+    },
+    {
+      "path": "src/features/games/hub/hub.module.css",
+      "sha256": "b5c6a2b837393866a43964b045712bb05f67f1eb3328fd851dab85a9e14ad9f6"
+    },
+    {
+      "path": "src/features/games/hub/index.ts",
+      "sha256": "2559037454e99d397b3fc8d7d8bf88b5b34695eff489af1191b15425bda2fb5b"
+    },
+    {
+      "path": "src/features/games/hub/links.ts",
+      "sha256": "d57f4915c374562597e708695adb769402416aa98e878c0d0a6093c477c99138"
+    },
+    {
+      "path": "src/features/games/hub/quiz-cover.tsx",
+      "sha256": "acf8f98337d90a2df46648fd15883c0bafdb9ba29ce564780a52be2e3b01d3f0"
+    },
+    {
+      "path": "src/features/games/hub/quiz-hub.tsx",
+      "sha256": "d883deac9d6c08fff4dc288d2dbd0d6c4a0c52cf9ac5b29f59daa9d865f13d96"
+    },
+    {
+      "path": "src/features/games/hub/quiz-paths.tsx",
+      "sha256": "bf16729b2dac68e96f9dda2b68519cba962b32cfb6b23cf781ba91b11c6f3a12"
+    },
+    {
+      "path": "src/features/games/index.ts",
+      "sha256": "20a5d9d54ff0c6417f2826375799520c583121fc2ebf70460aed6a720d5de1a9"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/goal-frame.tsx",
+      "sha256": "84427233a1e118a9b44d962d26b4dc4effde5f2e506eddf83c11b0b7c7314b26"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/hud-cta.tsx",
+      "sha256": "65f924ceef0e5bd48aec81e4c63d0956ab5fa939089aafa02ba69330ac250d9b"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/keeper-rig.tsx",
+      "sha256": "a4d90bb00afd30ec2bbc3aca189a9203cecd5879229df011a6379e1d794f9d13"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/kick-history-row.tsx",
+      "sha256": "2627e0929e9a7b509aed526863fcc1d37006365705d62845d846558d7f439053"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/kick-phase.tsx",
+      "sha256": "045f032c78bee37d4ece84b81c386528ccdc2dea324b3d0a5d8bbe126c279433"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/kick-scene.tsx",
+      "sha256": "1ee8cd0b88b627a2b7cf515b68a12ad97c4b68c1cf9fce479a3861004ae0f5c7"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/lineup-phase.tsx",
+      "sha256": "9416f036d176ef16c3bf2e5117e4f1d044d6ab64c68526100ef1ec13a1a8d417"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/opponent-reveal-phase.tsx",
+      "sha256": "a39ebe544aa8f065f3a19f82c869977d85cbcb13195d13da96730e6b3d743774"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/penalty-arena.tsx",
+      "sha256": "3f5a66ef044b36a90623b5fce5f53c33282651b9c6e46bac992b4f6232c0594f"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/penalty-shootout.module.css",
+      "sha256": "2acef96443de46e26cb35f40ff59adccecc599dbe12817a916b08712e05e963a"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/penalty-shootout.tsx",
+      "sha256": "b6a90eeab8642694b2941d83e97de41b3ba910e9ab2f6d0143349cf348a67c72"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/shooter-action-panel.tsx",
+      "sha256": "2bbfdd25e5d704e821c79a1780e20977054fb9e73c3c1627914ccd000e585edb"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/shootout-emblem.tsx",
+      "sha256": "db1a9cdd66cb90bee7f777c0d392a7a62ceb6dcf0918a0277a6b4d0d6cff2c34"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/shootout-lobby.tsx",
+      "sha256": "9cd596c4bb3abac7beffe20e08af201dff5461b737e3d5537104a3dd6afe65a4"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/components/summary-phase.tsx",
+      "sha256": "a0201e8b6d222d39a33bd77f2212acb33dab08aef93437acd6239b87cb1e5c8a"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/constants.ts",
+      "sha256": "cb646e4e92cc0455ea61c4167846d25b4d363ee2c3e9e594df659e17f463c981"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/engine/cpu.ts",
+      "sha256": "c9e30cc76590c75186ed9251cc47e6937c5b624e416775c1d6f8458781d983e8"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/engine/odds.ts",
+      "sha256": "3fd11036deb8e7d98d38c09e8bbd258ae668dbcaea88d8e1e645431fda542013"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/engine/shootout.ts",
+      "sha256": "acb046bb226987aee0a3fa1d2a101685874f3d505bd94507fa20cdba4538e0fc"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/index.ts",
+      "sha256": "7fcdb59508510c1239886efeb7409be916795dad6d0de0d2dd61ee931d45802b"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/state/shootout-progress.ts",
+      "sha256": "552b799a459f601cb29bf408b5eb1c767529f49cc7d7e461eb5609e4d7bca546"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/state/use-kick-timeline.ts",
+      "sha256": "e13c00209977be6c62aaf6fd6267e6616a2495019bb667d02df2e122d6a0576d"
+    },
+    {
+      "path": "src/features/games/penalty-shootout/types.ts",
+      "sha256": "3789f798e34414186a5044476c5f2f2ea347bd76ba7d762ec162fb9f13c42099"
+    },
+    {
+      "path": "src/features/games/pitch-duel/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/features/games/pitch-duel/components/pitch-duel-how-to.tsx",
+      "sha256": "3750bf2611c826f9bd8e456d02387d9556d775f0bd932d4b723dab5750320179"
+    },
+    {
+      "path": "src/features/games/pitch-duel/components/pitch-duel-lobby.tsx",
+      "sha256": "daab7318372a4206c959fc2dd53f60d4ebf4460531b81c1e8746874a2abaf86a"
+    },
+    {
+      "path": "src/features/games/pitch-duel/components/pitch-duel.module.css",
+      "sha256": "5f75b8d9b4da642cf9ca98c39e4438a3f01ad213e8f2f534ab20c7b86acceba6"
+    },
+    {
+      "path": "src/features/games/pitch-duel/components/pitch-duel.tsx",
+      "sha256": "55c91f657cce5f615e65107b94e477045ec664b94ff5768bf972af9666984d35"
+    },
+    {
+      "path": "src/features/games/pitch-duel/data/scenarios.ts",
+      "sha256": "bb7c55c52d6561193eae6ad7f1dfd43ecfdab0586152823b3e2ce00edb0e3d23"
+    },
+    {
+      "path": "src/features/games/pitch-duel/engine/pitch-duel-engine.ts",
+      "sha256": "8eae8f06c7fd9e7ae3d8c3b3b864df1f7fa1d9154cfefa02ae440748029ff096"
+    },
+    {
+      "path": "src/features/games/pitch-duel/index.ts",
+      "sha256": "48277f1cd21f41dd427c80967a12aeed2c77cbd436410ec8433f4a3586881ce6"
+    },
+    {
+      "path": "src/features/games/pitch-duel/state/pitch-duel-progress.ts",
+      "sha256": "41d8154d73ab045dcaa69185bb5e156a7dc2801a9a559b97f87144d5fa835b40"
+    },
+    {
+      "path": "src/features/games/pitch-duel/types.ts",
+      "sha256": "d377bc96165f9df9da0c77267358ea1a160a18f25ae35429f9dffbd6fb7e985d"
+    },
+    {
+      "path": "src/features/games/quiz/components/arena-shell.tsx",
+      "sha256": "ce3d2e639c211e859bf9658d89e07bba63849f65472720bd0de6aed168da9e4d"
+    },
+    {
+      "path": "src/features/games/quiz/components/arena.module.css",
+      "sha256": "fb11576375515238f59fa180635ba153a5ae3cdcaaa00787238977e063d0f92e"
+    },
+    {
+      "path": "src/features/games/quiz/components/quiz-briefing.tsx",
+      "sha256": "550141f14ab0c0712e48f31e45a2ec4cb1474b908a9bfdc6568ad69dcd17f64a"
+    },
+    {
+      "path": "src/features/games/quiz/components/quiz-debrief.tsx",
+      "sha256": "9fbc03827a65362acbcc5268386e186b0b32dd47d2d6f708687188b6baf6fbda"
+    },
+    {
+      "path": "src/features/games/quiz/components/quiz-ladder.tsx",
+      "sha256": "44bd3fad502ff4a0e9098719cd3959194295896750366ea311180349a89a3347"
+    },
+    {
+      "path": "src/features/games/quiz/components/quiz-lobby.tsx",
+      "sha256": "aae79a9a195e4129ed5808970ccde27157102bfca9eb717a25ec8035a1e65cb1"
+    },
+    {
+      "path": "src/features/games/quiz/components/quiz-option.tsx",
+      "sha256": "bcfd266ee245a4f199ca3c81b5225ac3fef53c83f2f793aa3c36752173cb2e36"
+    },
+    {
+      "path": "src/features/games/quiz/components/quiz-play.tsx",
+      "sha256": "c907e930762de2bf6e77ddc28bf8c0f1e5dac301df657d998a77586efa5e77a3"
+    },
+    {
+      "path": "src/features/games/quiz/components/quiz-reveal.tsx",
+      "sha256": "fd0585798888ee7c1aec803f71fc4069b50cd78d9a21c0db44f9e75e7210b48a"
+    },
+    {
+      "path": "src/features/games/quiz/components/quiz-set-tile.tsx",
+      "sha256": "bee3f211fa6aaf98d29d2a16273f0ba79d98797279ac4c6687b942d53d32c9f7"
+    },
+    {
+      "path": "src/features/games/quiz/components/quiz.module.css",
+      "sha256": "334a2fe8f7cbce6689043bfd7310bbceb95221515165f3f25a5ffadf8e3259a7"
+    },
+    {
+      "path": "src/features/games/quiz/components/signal-lock.tsx",
+      "sha256": "03e8c5ef9c34992bc247fe28cb22d2fbd4e6d0147b0e13e464fc5bb073ee7360"
+    },
+    {
+      "path": "src/features/games/quiz/components/sport-quiz.tsx",
+      "sha256": "fd40a2bd317352a86c191de2de8637be7883278efcb2b60f3d1a0b56179c0720"
+    },
+    {
+      "path": "src/features/games/quiz/constants.ts",
+      "sha256": "f328848f10ad54a43f4407faf1078a0fbf50c34ef7a5b3eee6edd36ab1de1cf2"
+    },
+    {
+      "path": "src/features/games/quiz/index.ts",
+      "sha256": "7e86c77a46c15f29d8d594b3bb0563d30c57ddd7e862843bd3523fbc00b4a727"
+    },
+    {
+      "path": "src/features/games/quiz/state/continue-target.ts",
+      "sha256": "4001069e4e0a0f01c445e8e5da882e6c49fd58fba49a2af545210b2da31b4b01"
+    },
+    {
+      "path": "src/features/games/quiz/state/ladder.ts",
+      "sha256": "5e5af7654672d7c7f2c829612cc1a3ca1c1ae0544229e55dd2ec98dea1b17391"
+    },
+    {
+      "path": "src/features/games/quiz/state/question-bank.ts",
+      "sha256": "7fea15e5f3e3c68b3b744f574cc11b378177e2d769146cb40f06a08a9da0902b"
+    },
+    {
+      "path": "src/features/games/quiz/state/quiz-progress.ts",
+      "sha256": "d2b47ba3dd80b90ad9d6e55787c4af6bbc7d0c309ace90f4068230d51d8ae427"
+    },
+    {
+      "path": "src/features/games/quiz/state/run.ts",
+      "sha256": "ca41b060ba866ac143e7de47d17b199090f294da90fcc905230b0b97fdce2867"
+    },
+    {
+      "path": "src/features/games/quiz/state/use-stage-timer.ts",
+      "sha256": "ac91c31152ca38de9525940ac8282263bc534e051fb95798fce73e439d095809"
+    },
+    {
+      "path": "src/features/games/quiz/types.ts",
+      "sha256": "14eab5d132a980b5ec9c05836e34f1a3b43d2670bb6cc1495dab011f139d151f"
+    },
+    {
+      "path": "src/features/games/README.md",
+      "sha256": "dc9768ba9a94fedc804b27ee3cca1f9af9cd2e32c3e6ed5c76304e0221bb749f"
+    },
+    {
+      "path": "src/features/games/retro-circuit/art.ts",
+      "sha256": "3fd8cade0206ea02c5e9f0b3009e5bb4e5494fd1488aac5b9cb4e08e18ccb6e4"
+    },
+    {
+      "path": "src/features/games/retro-circuit/audio.ts",
+      "sha256": "a01b5cd74dc83a3bf06457bd5d12576677be22412b434a0ebb570ad2a8986580"
+    },
+    {
+      "path": "src/features/games/retro-circuit/circuit.css",
+      "sha256": "4d1316adb3fc105d5ef38acf44e8078b19f9b1588f80a4a6a6b665fca9e52ab8"
+    },
+    {
+      "path": "src/features/games/retro-circuit/data.ts",
+      "sha256": "e7657f284af6ddeabc6a733692296c12b4ba27024884cb627ff12f60e980d102"
+    },
+    {
+      "path": "src/features/games/retro-circuit/definition.ts",
+      "sha256": "d6e03d1341d068a27d987729c62b9f63b6c1e4a94c923d01de3ffa52d8b1e967"
+    },
+    {
+      "path": "src/features/games/retro-circuit/detailed-art.ts",
+      "sha256": "30775f91e9ab74a8fee35916f29ef5018279b71016cd15aa95d041db3b7f5d01"
+    },
+    {
+      "path": "src/features/games/retro-circuit/index.ts",
+      "sha256": "f5ca8537927b2b394481b371272d3fb56d7b7753ad2f63102ec2949b93b95db0"
+    },
+    {
+      "path": "src/features/games/retro-circuit/menus.ts",
+      "sha256": "3c0d44d7768a509c34c820d30bcca5e274e6f4b1ee174dba24e15d5d12fd6437"
+    },
+    {
+      "path": "src/features/games/retro-circuit/mount.ts",
+      "sha256": "5198243d658142dce9b4d03b2d720e2bcf5f40c894f1a74d72cd4c9ea7048ffc"
+    },
+    {
+      "path": "src/features/games/retro-circuit/persistence.ts",
+      "sha256": "192ea2c0c248cc6a855876562e0403c22dd96f20c5715f4300aadbf3f17459e5"
+    },
+    {
+      "path": "src/features/games/retro-circuit/pixel-ui.ts",
+      "sha256": "5a6c2b28bbf53228409dc3ad002affb22b16da954f72c1686e18f429d462f5bb"
+    },
+    {
+      "path": "src/features/games/retro-circuit/presentation.ts",
+      "sha256": "11d2adf534baeaa0ef07b6f70065ce472048fe06d83a9c82b7990ecbbf7052d5"
+    },
+    {
+      "path": "src/features/games/retro-circuit/projection.ts",
+      "sha256": "77d2acd439443f561f060c04e84cd4c04089fe150dd46df45510385cac6c9578"
+    },
+    {
+      "path": "src/features/games/retro-circuit/renderer.ts",
+      "sha256": "314aec6c9417560bc8741b9473f7d3dab747461f0b5ffe507f34ce7f2a265b08"
+    },
+    {
+      "path": "src/features/games/retro-circuit/retro-circuit.ttf",
+      "sha256": "2e9660b1e918b39e7188e6c399907d7f0ea241af829651dd9dbbfb6418c38ff6"
+    },
+    {
+      "path": "src/features/games/retro-circuit/screen.tsx",
+      "sha256": "2a86cb2601420ad4648077f328e56b735fa502aae122360ed46eb6fa090ac03f"
+    },
+    {
+      "path": "src/features/games/retro-circuit/simulation.ts",
+      "sha256": "991bf03a7d43843fba8a73075da360ddca7ee63351027fdfcf2161a6bfc8fe8d"
+    },
+    {
+      "path": "src/features/games/retro-circuit/types.ts",
+      "sha256": "7205dcaa7ac117427810de7db2de61a32997d6a081e7719c8ba94e1578bc4994"
+    },
+    {
+      "path": "src/features/games/retro-football/persistence.ts",
+      "sha256": "b8db3c3ac9c408dcbd4bab48bc1591649d96264cc333002e4feb6a008ff19955"
+    },
+    {
+      "path": "src/features/games/retro-football/protocol.ts",
+      "sha256": "92779f8c1ba56a4399d51db5539d5b5c6cc30092d117e5c1767d66ce5ade196b"
+    },
+    {
+      "path": "src/features/games/retro-football/screen.module.css",
+      "sha256": "4fbd0ec61e32a4e84a6b74c9fe6440a3f03bd0b21092fd8059f9f54f126f3adb"
+    },
+    {
+      "path": "src/features/games/retro-football/screen.tsx",
+      "sha256": "eadd191a839ada4f6f5bcb3606e8be0fe609ab31a54b8d061bece3ffd56019d4"
+    },
+    {
+      "path": "src/features/games/retro-hoops/audio.ts",
+      "sha256": "0c9ee7617eaf2bff543e31c53eae851cde287fef83ba5620332ba0c2ccf14547"
+    },
+    {
+      "path": "src/features/games/retro-hoops/game.tsx",
+      "sha256": "5e4cd7b79395de11810b763fdb66685ceef7f4c0cefe8cf9b39422a6312b77d9"
+    },
+    {
+      "path": "src/features/games/retro-hoops/index.ts",
+      "sha256": "56dad8e0863217abbd6b383912d4e00ec6b81c121ad6687c1461bc6422259a8f"
+    },
+    {
+      "path": "src/features/games/retro-hoops/input.ts",
+      "sha256": "21458b4d303f40c66603e80c2569364912c673aa92d1b3b76ff1b01a4b1caf76"
+    },
+    {
+      "path": "src/features/games/retro-hoops/persistence.ts",
+      "sha256": "b1301be26ab3327f71d76ae26ee1ca64f60704393d12a8e8a45d37cb5a329cc7"
+    },
+    {
+      "path": "src/features/games/retro-hoops/presentation.ts",
+      "sha256": "7ac8032313b043a64df3d0b79771e894e707b982e2509bf0a7284b93f1c4a48a"
+    },
+    {
+      "path": "src/features/games/retro-hoops/protocol.ts",
+      "sha256": "9b089b9ad3ffa434f9a5b5fd4123b4da359887c83dd1cde6870579dfb39e89de"
+    },
+    {
+      "path": "src/features/games/retro-hoops/renderer.ts",
+      "sha256": "90f84ab5826e7fc8c99a249ca42f97e8a8fcc67644127958c07bb74d4b67a2b7"
+    },
+    {
+      "path": "src/features/games/retro-hoops/screen.module.css",
+      "sha256": "efdc88d758ce394299d55706c57c131c79543c85c9ab4ba17956882f411dfc22"
+    },
+    {
+      "path": "src/features/games/retro-hoops/screen.tsx",
+      "sha256": "52d52f184e550a1556f6db895ee06cc89c08a0e911d58b2de9bb169c7e2f93a6"
+    },
+    {
+      "path": "src/features/games/retro-hoops/simulation.ts",
+      "sha256": "7580e1d36a775a428733747f5171bf4a367e1b4a791ca2f2e7c9430ae82131ac"
+    },
+    {
+      "path": "src/features/games/retro-innings/index.ts",
+      "sha256": "87201e56ff9474289625dc00ac8470cb91682ceb6d4518f89e5f7a3bfa054f85"
+    },
+    {
+      "path": "src/features/games/retro-innings/screen.module.css",
+      "sha256": "172b71b3a4dd7b2934f418303b4d615b68a9d8fa89787d7cecf42de5b00d012e"
+    },
+    {
+      "path": "src/features/games/retro-innings/screen.tsx",
+      "sha256": "24b17810a84a7284e05eeed95089675cf3efca01f7beeb114ecd0c3e43df6730"
+    },
+    {
+      "path": "src/features/games/shared/components/game-landing-ad.module.css",
+      "sha256": "dd9d5deb6b338cce3f7f6644bbb35a61810e9dfaded8348c84ac705ede60390e"
+    },
+    {
+      "path": "src/features/games/shared/components/game-landing-ad.tsx",
+      "sha256": "735d3bd2431871352665ab35c4a1d29a76ca376f1a78b6067c80a816f3d35a84"
+    },
+    {
+      "path": "src/features/games/shared/components/match-chrome.tsx",
+      "sha256": "478a23ba94ff5096e6b17adc3515d9003a8fe11654da87f3a09dcf11e50b148a"
+    },
+    {
+      "path": "src/features/games/shared/components/matchmaking/constants.ts",
+      "sha256": "597c9f5dcf02d25dc47b15b394fb1da62149092b2c895b2a67ef56760bd47bc0"
+    },
+    {
+      "path": "src/features/games/shared/components/matchmaking/game-kickoff-countdown.tsx",
+      "sha256": "ae4562dbec64ea15afedfc4636175775d5126253d74e93e380fe40ec6271a238"
+    },
+    {
+      "path": "src/features/games/shared/components/matchmaking/game-match-gate.tsx",
+      "sha256": "022190a2f1f417d92bfa2996e7857b49a484dd21f2cebe51c33266d7c968d8ba"
+    },
+    {
+      "path": "src/features/games/shared/components/matchmaking/game-matchmaking-view.tsx",
+      "sha256": "02518530f2217e3c183c4f927577a6dcff952702e3ab81164e6215712d2e37f7"
+    },
+    {
+      "path": "src/features/games/shared/components/matchmaking/index.ts",
+      "sha256": "c92784b3b7191bfb9306c1cce61aaa0515ffad709a658f8f3459aaf00dfd839e"
+    },
+    {
+      "path": "src/features/games/shared/components/matchmaking/matchmaking-arena-background.tsx",
+      "sha256": "f4057efd505cd4adfc3eaf4fe4d50b94ed454b5206dbaa131dbc79c611f2564a"
+    },
+    {
+      "path": "src/features/games/shared/components/matchmaking/matchmaking-player-banner.tsx",
+      "sha256": "2078cad0f90acd7b996f96fa04f672d8a336fd157fa7fafdbef1fc85c9eaba8e"
+    },
+    {
+      "path": "src/features/games/shared/components/matchmaking/matchmaking.module.css",
+      "sha256": "2fe127e2de69697fbd3c66e09a2719032ba9dc5b97098e7581d56762c82b757f"
+    },
+    {
+      "path": "src/features/games/shared/components/matchmaking/types.ts",
+      "sha256": "d73aa1fb7bae5754db586c43e149cbe2cf9599fd40f8d145ff6e55405fac9ace"
+    },
+    {
+      "path": "src/features/games/shared/components/matchmaking/use-matchmaking-fighters.ts",
+      "sha256": "c24c333efee97c2660aed46be21bdacab6bdd03b9c47da1ce66cd0a707333cf8"
+    },
+    {
+      "path": "src/features/games/shared/data/opponent-names.ts",
+      "sha256": "052368e95cda9145fea8754ce5bb4d34b5d81d0b808b345496b10696cb3167f0"
+    },
+    {
+      "path": "src/features/games/shared/engine/curves.ts",
+      "sha256": "5d2786efbb7d708ca4b53b4c73ef2e02431c7180cefcfa43649b93368abd3031"
+    },
+    {
+      "path": "src/features/games/shared/engine/opponent.ts",
+      "sha256": "8947b428f2561cc6ee1a491494b00b3ba4e1887ecc9b8107be55ae6dda23b7c8"
+    },
+    {
+      "path": "src/features/games/shared/engine/random-source.ts",
+      "sha256": "fb2c9d67084d6e13b954ba2b0c9f7b5635c17d8f681cd64e19c33f66cad8560b"
+    },
+    {
+      "path": "src/features/games/shared/hooks/use-game-return.ts",
+      "sha256": "ef254c31933f86fb0fe5afb6199d560d8020fc2dc83e4742552513227e1a9277"
+    },
+    {
+      "path": "src/features/games/shared/state/use-clock.ts",
+      "sha256": "85a202e4aab959acac2fde8f8dffde94e63a24ad955bd7697fe073d29d2f7e30"
+    },
+    {
+      "path": "src/features/games/shared/state/use-reduced-motion.ts",
+      "sha256": "3960e9b881e319cf12ab9e9b09035a635c65ff40b5d4d76f2c542b75c354d2ff"
+    },
+    {
+      "path": "src/features/games/state/game-career.ts",
+      "sha256": "54556d074e556932e967fbdbeed0090de97d3ec92b45dcdc2245ecc734bfd203"
+    },
+    {
+      "path": "src/features/games/tennis/components/renderer/actors.ts",
+      "sha256": "8d2c4e7f47d872f9e00205ce630553b716f6f03fcff41db494eae60ecf640dd4"
+    },
+    {
+      "path": "src/features/games/tennis/components/renderer/ball.ts",
+      "sha256": "13c30de814ce617cbf5902331075a8322c13ad17f734736f20d262b2d828c755"
+    },
+    {
+      "path": "src/features/games/tennis/components/renderer/court.ts",
+      "sha256": "0c371232d842bf4635c145502380e87d8f96a68c553a11aa41b9f01f99419611"
+    },
+    {
+      "path": "src/features/games/tennis/components/renderer/geometry.ts",
+      "sha256": "2f41b264930380202c6db31b5f55b52ee3c359887e8fdc183308c500bfd54196"
+    },
+    {
+      "path": "src/features/games/tennis/components/renderer/palette.ts",
+      "sha256": "72e0bc96356b5f1365a8003638bec8385ee893fbd25508ae68151c4c1558def3"
+    },
+    {
+      "path": "src/features/games/tennis/components/tennis-arena.tsx",
+      "sha256": "84b804a614ae1fc3113edf4d3b29f562cc887d9251fdf82ddd4b3f833b4ae23b"
+    },
+    {
+      "path": "src/features/games/tennis/components/tennis-controls.tsx",
+      "sha256": "3536fc5746272ca887c9bf1184dcfcfa3f80ac567990667f21742af2ed2035f2"
+    },
+    {
+      "path": "src/features/games/tennis/components/tennis-hud.tsx",
+      "sha256": "28d3688f767837a26628e4e8a26fdec921ef8ec214937559b5993ba8ee4cd9da"
+    },
+    {
+      "path": "src/features/games/tennis/components/tennis-lobby.tsx",
+      "sha256": "5ab1baa0569a785536920f516ce594827004aadc42f3843e12bee3e0300ffefa"
+    },
+    {
+      "path": "src/features/games/tennis/components/tennis-overlays.tsx",
+      "sha256": "4512b6d5e6144df9d934db5f53eb0bf8705a5c4cc4635f011c5886cda521878f"
+    },
+    {
+      "path": "src/features/games/tennis/components/tennis-rally.tsx",
+      "sha256": "a95b0217acb2a29cf59cd792e9fde0f66f22c4f7f98cc81a550379a3119e4a55"
+    },
+    {
+      "path": "src/features/games/tennis/components/tennis.module.css",
+      "sha256": "3145707185292dc499b3ce5e96ad40040a39177abfb6faf65df6eb160a8bba2a"
+    },
+    {
+      "path": "src/features/games/tennis/constants.ts",
+      "sha256": "7ab353ec7db9adcf7b90c619fd5191edec0abe8d4e120f61a946d0f340059a2b"
+    },
+    {
+      "path": "src/features/games/tennis/data/athletes.ts",
+      "sha256": "237c11a46e2a49bf6443c2885441062a099f1fdeedb1866d7cf9bb7de0fd9daa"
+    },
+    {
+      "path": "src/features/games/tennis/engine/ai.ts",
+      "sha256": "e874e544c2f9b1aadf69703f4003b3bf1f5983759ed6944dbecf2e034106c92f"
+    },
+    {
+      "path": "src/features/games/tennis/engine/random.ts",
+      "sha256": "942d8fce251c07df59c609c5a8072b9401ccff4e7bb4f988c561655fa1bf1aa4"
+    },
+    {
+      "path": "src/features/games/tennis/engine/scoring.ts",
+      "sha256": "02284af6bd3f4431a1d078184f5d11725fd2596faa3a3ab1ddb8419a07a48621"
+    },
+    {
+      "path": "src/features/games/tennis/engine/simulation.ts",
+      "sha256": "c639d9920abe7700913b35030603f580b984e1ef053b40833cac70cf0de32e17"
+    },
+    {
+      "path": "src/features/games/tennis/engine/tennis-game.ts",
+      "sha256": "964491c40745712d9901da8be0b92b280dda0f6743dfeef9f8c8830cadf12bb3"
+    },
+    {
+      "path": "src/features/games/tennis/index.ts",
+      "sha256": "34891bfa0cf99adc341763c282b51e2a2d93c48b160726a11ead690600a30af1"
+    },
+    {
+      "path": "src/features/games/tennis/state/tennis-progress.ts",
+      "sha256": "0f4c60e3bd50e40bd3ef09e4724e3f8d6fb6caeba159b13dde86147db1512c93"
+    },
+    {
+      "path": "src/features/games/tennis/state/use-tennis-engine.ts",
+      "sha256": "ccc13511daaf56973bfb81de8ae3a00cbc0ba0e75fe052a97e49ad60c57f6877"
+    },
+    {
+      "path": "src/features/games/tennis/types.ts",
+      "sha256": "8dcebdc6060fe5525ec52293c3aed6ebb836f6e1d2f64e5bd3869132ec93ee7c"
+    },
+    {
+      "path": "src/features/games/types.ts",
+      "sha256": "321b534f9866c1f40b16fce9515c5ea3e4e56585b9439fa5700b88b17da38bc4"
+    },
+    {
+      "path": "src/features/games/who-are-ya/components/who-are-ya.tsx",
+      "sha256": "e904e3b00736e6398c80dcf9ece3e6d5200bf4a8ab42b94ef9732b687ab09341"
+    },
+    {
+      "path": "src/features/games/who-are-ya/constants.ts",
+      "sha256": "94d870c6ac2a2de6e155409e3b0d1afa30a02e2a73a6dffddf827af63af35e17"
+    },
+    {
+      "path": "src/features/games/who-are-ya/engine/compare.ts",
+      "sha256": "d58d50e69549d6e77bec840c20f3b260b910ff0f4ab31640f5a0370d2636681e"
+    },
+    {
+      "path": "src/features/games/who-are-ya/engine/daily.ts",
+      "sha256": "316b7967c723c56a40ecc35b371242bb39b9e1353637c40932d01cc50ec6cdbc"
+    },
+    {
+      "path": "src/features/games/who-are-ya/engine/pool.ts",
+      "sha256": "f8934ddc8573a3dcd18cac38a60d7c2b033691c123284b1352be328dba9b3cc3"
+    },
+    {
+      "path": "src/features/games/who-are-ya/index.ts",
+      "sha256": "bbd86729d931844760f9658e6dc42964f48972d103a7d7f03fd2d2fa7af24df2"
+    },
+    {
+      "path": "src/features/games/who-are-ya/state/who-are-ya-store.ts",
+      "sha256": "6565a7a19f1ab98f087c8aed7311b1f68f648df74ce69a20bb91db08b5aa4aa7"
+    },
+    {
+      "path": "src/features/how-to-play/components/guide-parts.tsx",
+      "sha256": "0fc80539eb3d87d1cff8055ca975725ac326c56c7b5833d27d41689e67f49070"
+    },
+    {
+      "path": "src/features/how-to-play/components/how-to-play-button.tsx",
+      "sha256": "2305680d7d8c74f73bc802664b0585b38fd4ea45d4f395ea4360b7dbfdc84c60"
+    },
+    {
+      "path": "src/features/how-to-play/components/how-to-play-guide.tsx",
+      "sha256": "d400b6733d8e581401a3351cf5b69b2d17fe6545cf0675e8d433fbeb43ddef42"
+    },
+    {
+      "path": "src/features/how-to-play/components/how-to-play-hub.tsx",
+      "sha256": "5eb1b2a8542d58b444d8859219a4e258fa52a824cd440d5dc023d6fcf11687a1"
+    },
+    {
+      "path": "src/features/how-to-play/components/how-to-play.module.css",
+      "sha256": "0927f02cc4f7282011afbb403c329a917d52d6781674b1cc7c3f4fa116eefaa4"
+    },
+    {
+      "path": "src/features/how-to-play/data/guides.ts",
+      "sha256": "c1091df2b4b110978e144d8300be946133bcd5dc6948534644d8209e9edd128d"
+    },
+    {
+      "path": "src/features/how-to-play/index.ts",
+      "sha256": "fd6123605ce9e2cd91263162070bff0fcc04ff62a69f0b77c24139a0b32a09a8"
+    },
+    {
+      "path": "src/features/how-to-play/types.ts",
+      "sha256": "735a728e97eb8f6aaf87d09c2fbb533c3996b8febbbc96600002898689975103"
+    },
+    {
+      "path": "src/features/leaderboard/components/board-picker.tsx",
+      "sha256": "f260ae4440a205a6b39fbfedcf173726e7a36c0efb994079c1f26e1397ce11c4"
+    },
+    {
+      "path": "src/features/leaderboard/components/board.module.css",
+      "sha256": "8df485b0cb1e44fa4c659a17272e2f79588a0d8c2a9df949c47f6a361fadee34"
+    },
+    {
+      "path": "src/features/leaderboard/components/leaderboard-details.tsx",
+      "sha256": "1768debe675b61d4ab99742297a63e15907ce1bdce73de4ccb005683f9e64ebe"
+    },
+    {
+      "path": "src/features/leaderboard/components/leaderboard-screen.tsx",
+      "sha256": "518e296a3c7d970c67602c836193cbe325de3f46590c386dde3122cf4eaed16f"
+    },
+    {
+      "path": "src/features/leaderboard/components/leaderboard-search-screen.tsx",
+      "sha256": "536239e2d38d545f66efcceea94a6151376a0106e3d6b6250555ba84de3481b7"
+    },
+    {
+      "path": "src/features/leaderboard/components/leaderboard.module.css",
+      "sha256": "917ba013de42fdb80801aa81ab7b631edbadeb30f210c98ef7fb27044b825a5a"
+    },
+    {
+      "path": "src/features/leaderboard/components/podium-stage.tsx",
+      "sha256": "3bc8898d58c2c8cbb303cb723c62042a25b4bc9d1f1563ee85630d648ef208d8"
+    },
+    {
+      "path": "src/features/leaderboard/components/podium.module.css",
+      "sha256": "4728e012f64917211645699f7a0367c5558974734e3a31431a39feef4b5c34af"
+    },
+    {
+      "path": "src/features/leaderboard/components/rank-parts.tsx",
+      "sha256": "e406d6a66781e1039dd0313605788f6fc43bd2b7ad8b9848eb63b995433fe244"
+    },
+    {
+      "path": "src/features/leaderboard/components/rank-plate.tsx",
+      "sha256": "ba2d52ea72acc98d6cf159975a96cba464cecb15d362024d86cad39ba3e94d48"
+    },
+    {
+      "path": "src/features/leaderboard/components/rank-podium.tsx",
+      "sha256": "9d4e6b7294297101e8cb0532031159254fb96f31ed9a672752c56b85405f7189"
+    },
+    {
+      "path": "src/features/leaderboard/components/rank-row.tsx",
+      "sha256": "bdd6d505d0454b67fd14cd629ea17e306ecbaba2c9541490e8a79772174a2f38"
+    },
+    {
+      "path": "src/features/leaderboard/components/rank-user-bar.tsx",
+      "sha256": "6fd441b7fa7ba5ca6ae737c3bc7071124b035a850a4aac68d22ca167d86dc009"
+    },
+    {
+      "path": "src/features/leaderboard/components/standings.tsx",
+      "sha256": "97fe678c24e87e7b57ff4c10649972809128b17a6754d9c1681aa55d08df0ea6"
+    },
+    {
+      "path": "src/features/leaderboard/components/your-standing.tsx",
+      "sha256": "e23b6939afc59f9ae8e68c048ecea95fd1bc5622c443b233f789fab3262c337b"
+    },
+    {
+      "path": "src/features/leaderboard/index.ts",
+      "sha256": "a963c5e6d6c2286fffd54cea2a7a545cf82cefeca8581c80aa9a5ccbb8fd4791"
+    },
+    {
+      "path": "src/features/leaderboard/leagues.ts",
+      "sha256": "ee10136e77dccac7d2752b79afde40a56ecb4a23786ed23f2f9d1874c91443f7"
+    },
+    {
+      "path": "src/features/leaderboard/periods.ts",
+      "sha256": "4b54c461ca255ca2c88c98aaea937079029a3dfe10009344d79138d7993740ec"
+    },
+    {
+      "path": "src/features/leaderboard/roster.ts",
+      "sha256": "a85ca1c120b13bd84eac0ff4248de2cb03576ed22417541fc39bba2bd83db28b"
+    },
+    {
+      "path": "src/features/leaderboard/scoring.ts",
+      "sha256": "55f033c300e60891564b5727586046d4613b297ddf2087c27a6cb1745b880bdd"
+    },
+    {
+      "path": "src/features/leaderboard/selection.ts",
+      "sha256": "d901eebf026d9a0f80da85a76e2800d3c71783c6840b6dcdd92fa8f3ba55c879"
+    },
+    {
+      "path": "src/features/leaderboard/state/use-board-countdown.ts",
+      "sha256": "df605b7f76baf351367c47a99e4238e162bbda4e39c17b4539b4d48983443ab1"
+    },
+    {
+      "path": "src/features/leaderboard/state/use-board-entries.ts",
+      "sha256": "94a65ca0bf425ad11244b32f17f27f524fb2f8350485c5cac813766ffc7141bf"
+    },
+    {
+      "path": "src/features/leaderboard/state/use-leaderboard-clock.ts",
+      "sha256": "3d778367c50f99e94427138e8d6b2e098a4a8594bc0547c9c3ffde5a68f13faa"
+    },
+    {
+      "path": "src/features/leaderboard/types.ts",
+      "sha256": "9b1dbf84c9bc68139b4c6e640051cdb1bd929a8dcdff22881e71de52afcd0ab9"
+    },
+    {
+      "path": "src/features/leagues/components/league-hub-screen.tsx",
+      "sha256": "368fd81d55befff3f33bd815404881ab468196e9a9c2516c333283471c0b8a6c"
+    },
+    {
+      "path": "src/features/leagues/components/league-hub.module.css",
+      "sha256": "44ea3e2a767b26ba8fa04e287682f0e1daf6fb2d473fe85feec63031b17d2cbd"
+    },
+    {
+      "path": "src/features/leagues/components/league-player-dossier-screen.tsx",
+      "sha256": "f67b8ecc1308e862a193bfe3030247dc9156279f522849845c53b69596f8a533"
+    },
+    {
+      "path": "src/features/leagues/components/league-player-dossier.module.css",
+      "sha256": "749e1238fb1b96c70ff325c5cbdc864f5fadb6f41f8806093d1144c4247f86f1"
+    },
+    {
+      "path": "src/features/leagues/components/team-detail-screen.tsx",
+      "sha256": "a9df52f068e47f4585e0aa0bd0ddeffeb5b919f4e6b6504427a2651fd4f107d7"
+    },
+    {
+      "path": "src/features/leagues/index.ts",
+      "sha256": "d491eecb1cf6ff101bf1430b04544c8e748fea09495de16ab5eee1648c60e455"
+    },
+    {
+      "path": "src/features/matches/card-activity.ts",
+      "sha256": "fff7173c11787ac54c455b96fe673b5e6616efe149e4fbb766d57b6d36638325"
+    },
+    {
+      "path": "src/features/matches/components/all-sports-selector.module.css",
+      "sha256": "6e86470af3f62812b62cfdf579cc83efcdb97fe814576f213f2fe4845c85b453"
+    },
+    {
+      "path": "src/features/matches/components/all-sports-selector.tsx",
+      "sha256": "b16db67b153d1dfb763ac9fe94d7b26082cd9e3a6c1a6e00122555c2eb44b58b"
+    },
+    {
+      "path": "src/features/matches/components/basketball-shot-map.module.css",
+      "sha256": "3e8c73d846a5c6d3b280ab971b897234f929d85067ce92154e3af652f1defffb"
+    },
+    {
+      "path": "src/features/matches/components/basketball-shot-map.tsx",
+      "sha256": "2628c9a3a10304b9bcbce6d621a58bf03c4037cfcccb1adc99dae67efcfaec5c"
+    },
+    {
+      "path": "src/features/matches/components/basketball-stats-view.tsx",
+      "sha256": "53701915aefb2563cc355aa54d35f1ebae7c0d37688477142508ffbe73ea3f17"
+    },
+    {
+      "path": "src/features/matches/components/card-participation.module.css",
+      "sha256": "4f1da2205278a1be9b34aff6ebb0a3d1a530bb7739bd31423f45c61fe1cb575d"
+    },
+    {
+      "path": "src/features/matches/components/card-participation.tsx",
+      "sha256": "0ba69e2e104c375f7565106fb0093885ce9dbea7e6f9f4118edd7a9a122380bc"
+    },
+    {
+      "path": "src/features/matches/components/cricket-stats-view.tsx",
+      "sha256": "052762706e60a20aa96c08a8963a9545e472f5939080854aeaeec8cf2f0cf399"
+    },
+    {
+      "path": "src/features/matches/components/editorial-discovery.module.css",
+      "sha256": "498c5697f5e2e9af5dd6648ea1f840683e5af0854702be3e7285f09c44d8b64a"
+    },
+    {
+      "path": "src/features/matches/components/editorial-discovery.tsx",
+      "sha256": "1325c7eb10a292c6843bc413c4931167a7c69f588214f24a4fe1a8bad773f2d9"
+    },
+    {
+      "path": "src/features/matches/components/editorial-events-panel.tsx",
+      "sha256": "93edd529acf86da787fd57c96b76cef48a417a7a2543267ba613a3c98d38ed83"
+    },
+    {
+      "path": "src/features/matches/components/editorial-market-card.tsx",
+      "sha256": "c6c68c2cf2a7ec185bde7ceca07254054c7c9fd918756665d491e6b29e3ab66f"
+    },
+    {
+      "path": "src/features/matches/components/editorial-match-card.tsx",
+      "sha256": "dc6f39ca4953d74d812315ca0519858ee24165e6c1584f8b9f3b0cecda8dcfd8"
+    },
+    {
+      "path": "src/features/matches/components/editorial-mission.tsx",
+      "sha256": "7958b22470641e715cb4dfae82ed54aad96b2492bfe5ba1f44bf0ef7be0577de"
+    },
+    {
+      "path": "src/features/matches/components/editorial-presentation.tsx",
+      "sha256": "c38d15e07bde2f65b8536b6bd7e62db9d3ef25a2e8d49e14e47348b778b5ee47"
+    },
+    {
+      "path": "src/features/matches/components/editorial-reveal-card.tsx",
+      "sha256": "7d0cc8e97c6b8a37830a8d13a07f55a6f4492ee6e833fc2cde64712178076cf8"
+    },
+    {
+      "path": "src/features/matches/components/editorial-sport-quiz.tsx",
+      "sha256": "864b32694728390082641f171e149bca228ec4677a75ecb71c37545554a2dbae"
+    },
+    {
+      "path": "src/features/matches/components/f1-track-map-screen.module.css",
+      "sha256": "47e41bd0bdf4ce6e6410cf8d1882f29ff217f16edf8d1bf51950e07c8bff7bdc"
+    },
+    {
+      "path": "src/features/matches/components/f1-track-map-screen.tsx",
+      "sha256": "858fbaac44c006b294ef766b3f32adec7f4da4d8f11538d11beb9eca196b1e55"
+    },
+    {
+      "path": "src/features/matches/components/featured-picks.tsx",
+      "sha256": "ffc5b2344e6d5c0a411f8570d671b16e789ec35663bb24d54e44dc150b182e7b"
+    },
+    {
+      "path": "src/features/matches/components/football-shot-map.module.css",
+      "sha256": "aa19ed9d3e343ad4ca36f71fe1e08a81cd3d8a7431f515958c29b2b945b5877c"
+    },
+    {
+      "path": "src/features/matches/components/football-shot-map.tsx",
+      "sha256": "d725347f0da74639dcf1fceec969a254bf3044a19cbd75510b40d3a3f628f1b4"
+    },
+    {
+      "path": "src/features/matches/components/football-stats-view.tsx",
+      "sha256": "d3067d4f7019add312aea453e1831d64eeba5bf4e026f3df86374d60d5bc1c1b"
+    },
+    {
+      "path": "src/features/matches/components/market-outcome-mark.tsx",
+      "sha256": "2531f59e8b275f807c44e9e00c637555cb927d5013f640e5de4febb5d10f3881"
+    },
+    {
+      "path": "src/features/matches/components/market-outcome-row.module.css",
+      "sha256": "6942cf67c71ba1565ce8a1a4f21f89036164944404e5771dec4a9a0e020ff88c"
+    },
+    {
+      "path": "src/features/matches/components/market-outcome-row.tsx",
+      "sha256": "97a9bea28306656f5285223ebb36faecf496b605aee13668560cac385b414410"
+    },
+    {
+      "path": "src/features/matches/components/match-circle-cta.tsx",
+      "sha256": "1d75a94420fc2f12a569105a6a0649e6ab08fe66a3b4216d6d69eff25f7ad5e5"
+    },
+    {
+      "path": "src/features/matches/components/match-circle-screen.tsx",
+      "sha256": "524e2859c996d955ed5bdc66f4eb09c0a43820eafa9a68fc1ced83ae89e25765"
+    },
+    {
+      "path": "src/features/matches/components/match-circle.module.css",
+      "sha256": "91656f68737d588e1229b379797012dcc47675ab7cc65bfc37fe2315bba0d846"
+    },
+    {
+      "path": "src/features/matches/components/match-detail-context.tsx",
+      "sha256": "3ccdbe05e6e721e4ba8822e9ab68cb6040a3c3ae8e571b65e460192d01fab9af"
+    },
+    {
+      "path": "src/features/matches/components/match-detail.module.css",
+      "sha256": "f706f93a8e419f846420824078cc2c44f09e5a0125435fbcba871f1933ee5e13"
+    },
+    {
+      "path": "src/features/matches/components/match-hub-intro.module.css",
+      "sha256": "bc1fff77661edccd3cd6ff46737450d5e3182cb245cbda42902b585904e5adfd"
+    },
+    {
+      "path": "src/features/matches/components/match-hub-intro.tsx",
+      "sha256": "42d12032e9eda28ac75b10f321e7a6b8044615f930b6464588ae0a2141457887"
+    },
+    {
+      "path": "src/features/matches/components/match-leaderboard-tab.tsx",
+      "sha256": "61e3f245036f0249692d449a0a3bd3fb00f99447cc8a1d8d706d65c181bcc4e3"
+    },
+    {
+      "path": "src/features/matches/components/match-pitch-view.tsx",
+      "sha256": "497f33c4eb6b99e11679359348994e7d29269cf584ac007096d0da7d9efaeaf3"
+    },
+    {
+      "path": "src/features/matches/components/match-pitch.module.css",
+      "sha256": "c0805865188a2bcd17621be16059d0b8d062b579525b2c9ca0fb2274b2ba3440"
+    },
+    {
+      "path": "src/features/matches/components/match-player-dossier-screen.tsx",
+      "sha256": "ed5e754a5d856210e5b158783b932162e9d5a775d334c6ed19f2955d84169060"
+    },
+    {
+      "path": "src/features/matches/components/match-player-dossier.module.css",
+      "sha256": "9fb8d749d053e7fbed8cae1bb2eb0b0b8000da74fe0048f039779dfd40218e0f"
+    },
+    {
+      "path": "src/features/matches/components/match-player-sheet.module.css",
+      "sha256": "72e4b445949d18e74d73f5ddfbd4fb40d05c14dd33e883e78e9114ea5e43d69a"
+    },
+    {
+      "path": "src/features/matches/components/match-player-sheet.tsx",
+      "sha256": "7ed3e4c6b40237ed8a38275a62673e914e443532ad4f2e80a3ccafb6fa13f982"
+    },
+    {
+      "path": "src/features/matches/components/match-report-parts.tsx",
+      "sha256": "93ad1cde399e79bf1781e06948fdab284585c1d34ead6404e24aeb868b4d7294"
+    },
+    {
+      "path": "src/features/matches/components/match-scoreboard.tsx",
+      "sha256": "8922f4bcc6eb1ebff1ef3909e45ebbc7acef663d36aef2922e3319c2938805aa"
+    },
+    {
+      "path": "src/features/matches/components/match-search-screen.tsx",
+      "sha256": "5b77d74742754b6ee6e8c7eedb1f3f31f299e19257876accb35ebca50befaae0"
+    },
+    {
+      "path": "src/features/matches/components/match-stats-layout.tsx",
+      "sha256": "617d35737c643a94efa919912ed40fc8946cb871524e68f3a0d289827d78daf6"
+    },
+    {
+      "path": "src/features/matches/components/match-stats-shell.tsx",
+      "sha256": "8bac5f6d2e38658b7f43cdf22a2536b6db82f34267fa7d3efad4c2c853e749d0"
+    },
+    {
+      "path": "src/features/matches/components/match-stats.module.css",
+      "sha256": "184cb36c308901169337d500e98debaa27ed4f1e6e79ed13c340b19219a972bf"
+    },
+    {
+      "path": "src/features/matches/components/match-summary-header.tsx",
+      "sha256": "a619f0581fb31cbb16091b080af745d951ef17f0ce8e1fdb330d71de00a71b1f"
+    },
+    {
+      "path": "src/features/matches/components/match-tabs-view.tsx",
+      "sha256": "1832f07d5170a0852854261246b61c66e632ae26ff052b1113a0683be0eb01b9"
+    },
+    {
+      "path": "src/features/matches/components/match-trace-chart.tsx",
+      "sha256": "e3cbcffeb5482ee553981f6a470d39c18234043b5feb6881c0d5298c9f022061"
+    },
+    {
+      "path": "src/features/matches/components/motorsport-stats-view.module.css",
+      "sha256": "6d3e9282599c7d50f71c04f5cc9aa401dd14df38071ee35ae72b13d3aa45abf0"
+    },
+    {
+      "path": "src/features/matches/components/motorsport-stats-view.tsx",
+      "sha256": "eea471c48f0784d8e99812848069fd5933ffce64a62020c8dd2175b880914466"
+    },
+    {
+      "path": "src/features/matches/components/personal-predictions.tsx",
+      "sha256": "fbb10f3c90e219db49bd3cd6e0d12fa390cbdf4a762cfae2d5d95e524bda5bde"
+    },
+    {
+      "path": "src/features/matches/components/prediction-carousel.tsx",
+      "sha256": "253a5eef0e54c39311167b8227919cea9806e481d7341ac17d74101d1dc14a57"
+    },
+    {
+      "path": "src/features/matches/components/sport-fixture-card.module.css",
+      "sha256": "4bce1e5d61f9134b8a773d7dd6fa5b97fc7819b702ebb086da01a27a6ef86af4"
+    },
+    {
+      "path": "src/features/matches/components/sport-fixture-card.tsx",
+      "sha256": "701c54286a4526a4eb2fc4af9c6aadfcec7eb9e5a5ddea444d5a1ac31bb2d819"
+    },
+    {
+      "path": "src/features/matches/components/sport-hub-tabs.module.css",
+      "sha256": "387b80621a4e8d707252b1481c38702d8ed6dcbfa1716ea4112a3eaa52339c55"
+    },
+    {
+      "path": "src/features/matches/components/sport-hub-tabs.tsx",
+      "sha256": "a7f6be8efb291acc0467c239328ad7570de688617d0397ebe04c7ecf74cb864d"
+    },
+    {
+      "path": "src/features/matches/components/sport-icon.tsx",
+      "sha256": "14883ae41787bce2fbaebc68ca6c42b3690b3de59a0dbb0ff51d1dbb15dcc42c"
+    },
+    {
+      "path": "src/features/matches/components/sport-match-feed.module.css",
+      "sha256": "8c2816738437e0819bb732d739efebf6766bfd65d0dc0ddf7d06c0a29ba0b6b0"
+    },
+    {
+      "path": "src/features/matches/components/sport-match-feed.tsx",
+      "sha256": "c33384eebc227d173c24dd17b9a11fc029273f0e16d928bb84b7d77dd5965a91"
+    },
+    {
+      "path": "src/features/matches/components/team-badge.module.css",
+      "sha256": "7bfec214755c1b404e408bb5c568b9de672c2a7682cf46b7bd4581c945cdc581"
+    },
+    {
+      "path": "src/features/matches/components/team-badge.tsx",
+      "sha256": "7b23c9fbd8ad76d1f823b0dfe3b3c3becde71a1ed63e0a83ae8724ff14b2d415"
+    },
+    {
+      "path": "src/features/matches/components/tennis-stats-view.tsx",
+      "sha256": "03f1da835ac72048ce313825f80a4dd2f44aaebd090c10d7682407ca66f1a581"
+    },
+    {
+      "path": "src/features/matches/components/trending-feed.tsx",
+      "sha256": "c41c5189bff9be32f353d91f3db0e2dae03281e2ac9b6cacd40d9ee784eabb25"
+    },
+    {
+      "path": "src/features/matches/components/use-editorial-cycles.ts",
+      "sha256": "ed428396797036d17fee7cd06607161ff384ff6fc51fee791b0b0fa8d51c6dfd"
+    },
+    {
+      "path": "src/features/matches/editorial-accent.ts",
+      "sha256": "71f7f600701df7ecab9c1ddce47cf5b73c7bc7ef42e9d3b2c8bc4fc9cea4168e"
+    },
+    {
+      "path": "src/features/matches/editorial-cycle.ts",
+      "sha256": "f843049ee67a42b68b20976b600ce8ac7e565e6bdac3ec0e49495aeb85a81ff2"
+    },
+    {
+      "path": "src/features/matches/editorial-entrance.ts",
+      "sha256": "98295e319ecc2c0ad27e850cc88a425f17c8ee15c3b8b2ff448063f184ae0a7c"
+    },
+    {
+      "path": "src/features/matches/editorial-format.ts",
+      "sha256": "9fd75d0ce99410c858426a5cbacaa4e565db74e3defcdc640a003e5b2763282e"
+    },
+    {
+      "path": "src/features/matches/editorial-layout.ts",
+      "sha256": "3ec9053dd5d55c952fbb62f263314a4b3592b54cfa7c7bbfd005059b98c5212f"
+    },
+    {
+      "path": "src/features/matches/editorial-personal-predictions.ts",
+      "sha256": "c6d8f7503684572f5d4b26c24029c3d2dc27c0f064815ca759ce8a4d50068b3d"
+    },
+    {
+      "path": "src/features/matches/index.ts",
+      "sha256": "dee714a1f1512d29e7237583a0dcac9c3ec3304192ec3950d18f071002f40d99"
+    },
+    {
+      "path": "src/features/matches/market-team.ts",
+      "sha256": "227653cf5c8f6a962b63c9d6fa5f7d2c979fb5925d92c999244f0b869b3cddd3"
+    },
+    {
+      "path": "src/features/matches/state/match-circle-store.ts",
+      "sha256": "390b945a438813d715021cbd022576e26ef03a2559ccb7363874117960110703"
+    },
+    {
+      "path": "src/features/matches/stats-presentation.ts",
+      "sha256": "d37063ce3be97e55a5b02a85e48d6d5fb16df1d462bff2739a22663a31b403dc"
+    },
+    {
+      "path": "src/features/matches/types.ts",
+      "sha256": "e855a5bb04846264c70c5760be3c5b9ac15c2eb6f7169c7e4b0c52c234a2f737"
+    },
+    {
+      "path": "src/features/onboarding/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/features/onboarding/components/arena-backdrop.tsx",
+      "sha256": "06db65b3eff48fe3ad27bae9bc44de22cae0b8c3d613f6c6ed31398d5f87322d"
+    },
+    {
+      "path": "src/features/onboarding/components/avatar-step.tsx",
+      "sha256": "6a160b0b13b284e7d9f61909aeb76217d13a2e95c6947504ef12c2f25008165d"
+    },
+    {
+      "path": "src/features/onboarding/components/banner-step.tsx",
+      "sha256": "44e6510aae737cc71a24683dfccea830a873d43fc83ceccfe660ef7729a1d44b"
+    },
+    {
+      "path": "src/features/onboarding/components/banner-visual.tsx",
+      "sha256": "78dd74eab6f0c846a16e36f9ecabc40c3b96ceca6e168be7d2ff5a0de855c3a9"
+    },
+    {
+      "path": "src/features/onboarding/components/clubs-step.tsx",
+      "sha256": "cbb1cfa18a2d7a376429ba066912cb6ba54953c698c87b4dd52dd193b88c8339"
+    },
+    {
+      "path": "src/features/onboarding/components/launch-countdown.tsx",
+      "sha256": "3a886f2691a5eef6a8971b5c1f5eb1d78fc347d37456544acd59fefcc6d2a76f"
+    },
+    {
+      "path": "src/features/onboarding/components/league-pills.tsx",
+      "sha256": "6b3fbc42a71d746e9da52603c9e8214ee6761d04a643724d21823b5770003bd2"
+    },
+    {
+      "path": "src/features/onboarding/components/motion.module.css",
+      "sha256": "978f3d3b178c829bce781c1c37282dc763ddfb4c8df28b934312731ab2d704d6"
+    },
+    {
+      "path": "src/features/onboarding/components/name-step.tsx",
+      "sha256": "eebc3f2ee6f18e1819d14d24639ac30b80233f3182862621bb4baa6ab853c0d9"
+    },
+    {
+      "path": "src/features/onboarding/components/onboarding-coin-reward.module.css",
+      "sha256": "1b393f4603f0c73eb980024f9eca8e5ea662800c4c3afc074faeef67f497cc6e"
+    },
+    {
+      "path": "src/features/onboarding/components/onboarding-coin-reward.tsx",
+      "sha256": "bc5e3a1b0d157d9fc1ade97ee68b1aae28eb714fe5b47e85c554f1ada4f1daa8"
+    },
+    {
+      "path": "src/features/onboarding/components/onboarding-screen.tsx",
+      "sha256": "7a2adc128392b7660cc35913b3eb26a5088ad828686950a60ed00d387128b1a2"
+    },
+    {
+      "path": "src/features/onboarding/components/setup-dock.tsx",
+      "sha256": "3c8d26ec66557227d981916cc081125a97b4b71450fe48e32c60b23a8228e529"
+    },
+    {
+      "path": "src/features/onboarding/components/setup-top-bar.tsx",
+      "sha256": "36c0e84d4d5d7ed4a1e869d517206874e7b1d86d28d78fd02edea214d9874134"
+    },
+    {
+      "path": "src/features/onboarding/components/sport-pills.tsx",
+      "sha256": "00aa55aa9a3f12ae82990c087c20973e53b473e5b1f1a2ba7a583fb09c840a27"
+    },
+    {
+      "path": "src/features/onboarding/components/step-shell.tsx",
+      "sha256": "e0c5e0e1f12860543d1f46e95a633e8bdc30d7e89a2e9d222952565fb4e692b5"
+    },
+    {
+      "path": "src/features/onboarding/components/welcome-reveal.tsx",
+      "sha256": "70757c3ccd066cd47d51fee523e0bc8350934c869d30cdc473875091c39b95bf"
+    },
+    {
+      "path": "src/features/onboarding/constants.ts",
+      "sha256": "c27291cadedcee3b652f56fec7655246b59df3ec2b164ccccfce3566d4f2b491"
+    },
+    {
+      "path": "src/features/onboarding/index.ts",
+      "sha256": "e2e54b3236714b35c35ef6a39e9384f2eecea286e5a91325ab17f87cc12bec74"
+    },
+    {
+      "path": "src/features/onboarding/types.ts",
+      "sha256": "d7c8d1094b51c414c0f2881d895d00744cc96c0fce27a607071f22ac9e243309"
+    },
+    {
+      "path": "src/features/packs/components/card-unpack.module.css",
+      "sha256": "58be04c9085718d926b2a0283f4ce4c5f43bb346a1e75fd30bfe5adf3e928ab9"
+    },
+    {
+      "path": "src/features/packs/components/card-unpack.tsx",
+      "sha256": "0be7b46eaed061ba3cd28e457beadb93ae4b01d0ffa2816030da677af2eb27e0"
+    },
+    {
+      "path": "src/features/packs/components/daily-drop.module.css",
+      "sha256": "b8707c759b95e98dce34618262e0866f0ba586f11d06a242a7c2f8004496f413"
+    },
+    {
+      "path": "src/features/packs/components/daily-drop.tsx",
+      "sha256": "9448fb7722bba4c1ddf1871bb641a0f36758800183a472c27d938dee94181b02"
+    },
+    {
+      "path": "src/features/packs/components/pack-chrome.tsx",
+      "sha256": "1132282fee9417f8fb0d1b8963366fa85ead155676622a49e60f96a290900c1d"
+    },
+    {
+      "path": "src/features/packs/components/pack-reveal-sequence.tsx",
+      "sha256": "2b72523c31b6f43b919dd1ac0fada50249b38f6a5be6bb5db3896f59411d0e1c"
+    },
+    {
+      "path": "src/features/packs/components/reveal-card-face.tsx",
+      "sha256": "491ea5fcec6009912501bd69650739ec047f1517c082bc6f680a8902231fe49e"
+    },
+    {
+      "path": "src/features/packs/components/reveal-effects.module.css",
+      "sha256": "c7899da38c52a01c2c2b9ff275bca87bed1c176611012fcd3cf59ada415c109d"
+    },
+    {
+      "path": "src/features/packs/components/reveal-effects.tsx",
+      "sha256": "ad32f35f449524d95d61ef352240f704af19a283dcb2e1bfe5bf51dc0c7987c0"
+    },
+    {
+      "path": "src/features/packs/components/starter-pack-reveal.module.css",
+      "sha256": "011ca5b3be25713bcd159c3aa2a477fb97ccdc203590e141e6a6f6a71d818b75"
+    },
+    {
+      "path": "src/features/packs/components/starter-pack-reveal.tsx",
+      "sha256": "13e9c9bf84b04012b34a09b232ecbda0e59d7fc4c7e1eaac11a1775376bf2bae"
+    },
+    {
+      "path": "src/features/packs/constants.ts",
+      "sha256": "756866660af69e635e43aebc891f994fc893d255053d7b483fcc59eaa1bd3907"
+    },
+    {
+      "path": "src/features/packs/data/catalog.ts",
+      "sha256": "3909bac974dc5f147a5bfc5b66515d15fdc8154e444249862b76bfba1fc83a29"
+    },
+    {
+      "path": "src/features/packs/data/collection.ts",
+      "sha256": "f7ace1b66733bc4cc729009e26ef1a932387e735c578b8b4f086e89634f7afa7"
+    },
+    {
+      "path": "src/features/packs/data/daily-drop.ts",
+      "sha256": "f9d0e8b7f6ea1def433818e43374dbc54696978371b10a9fd6face29dc9d631a"
+    },
+    {
+      "path": "src/features/packs/data/portrait-assets.card-game.generated.ts",
+      "sha256": "263e686e753b3a22277fa1504e963e3befc3f39e8e16a78e8cde53feadc1cba3"
+    },
+    {
+      "path": "src/features/packs/data/portrait-assets.generated.ts",
+      "sha256": "a9b8cb8e3ea3196b4def9dd322806ba1d15ece5f2039ac17727cbbf530cf04db"
+    },
+    {
+      "path": "src/features/packs/data/portraits.ts",
+      "sha256": "d9b7618d8f01912b55a2e385db895280dade8e9d97cbd2d686135f59974a338e"
+    },
+    {
+      "path": "src/features/packs/data/starter-packs.ts",
+      "sha256": "39f376e1d886ad938b394a4dc45e406ded584ef26e6ed46f03a3c003ad447667"
+    },
+    {
+      "path": "src/features/packs/index.ts",
+      "sha256": "fd07c82fb5e5abd0951beb947ea1b2199004c7ff65fdf7f50fa90c7c34925323"
+    },
+    {
+      "path": "src/features/packs/rolling.ts",
+      "sha256": "234582b38373ad83a1ba8e2d4ea7d99640847cf4ef1208edee5da049c3e6ca9b"
+    },
+    {
+      "path": "src/features/packs/state/claimed-packs.ts",
+      "sha256": "23057acc449bccafe450853ee132d67106b3167dc3dddfc148733f9f7db665c7"
+    },
+    {
+      "path": "src/features/packs/types.ts",
+      "sha256": "b23b5cb86d3372b57dca109828829a805508865419226d592b3bb215585095d4"
+    },
+    {
+      "path": "src/features/picks/components/editorial-market-list.tsx",
+      "sha256": "1dff01869ad3743576dea4e34a640c69c23e03c2cfaaf66a3841b3a75beb38d2"
+    },
+    {
+      "path": "src/features/picks/components/market-detail-screen.tsx",
+      "sha256": "b78c893e0ef5e360fb2127bafb58661a13450508f4a47af014c3a8a080851758"
+    },
+    {
+      "path": "src/features/picks/components/market-detail.module.css",
+      "sha256": "35eb84bb60a0fda73a46cf230de26b8faf1734084992eaa3b5ce1b0ddcbfeddb"
+    },
+    {
+      "path": "src/features/picks/components/match-picks-panel.tsx",
+      "sha256": "f1c9fb3af2c9f3782192bde5c89e1c325d2f8bed3174f7f4193f6f2b1b6e7be0"
+    },
+    {
+      "path": "src/features/picks/components/pick-market-card.tsx",
+      "sha256": "84b85f40f79c4f19c2fe306d5299b99d360115b69e95d4e4ae1c3b0f77b77091"
+    },
+    {
+      "path": "src/features/picks/components/pick-order-form.module.css",
+      "sha256": "6b1792bcd13edffc46d5f9b574c0c859e49c2535a0a760ea1918169c5a2ba607"
+    },
+    {
+      "path": "src/features/picks/components/pick-order-form.tsx",
+      "sha256": "27d8ff7612ae92b9c74ad3962fbf5fe2c55a8260d13ac6c87a2d674b79296e72"
+    },
+    {
+      "path": "src/features/picks/components/pick-overlays.module.css",
+      "sha256": "d3f4bd86d960b3ee51bd19819a82b32983b127021b653f52fb5f30c7cc8461e5"
+    },
+    {
+      "path": "src/features/picks/components/pick-overlays.tsx",
+      "sha256": "c1f8ec52b6a0659345d61331d163985d8183509b46629c070be6d6381801123e"
+    },
+    {
+      "path": "src/features/picks/components/pick-trade-sheet.module.css",
+      "sha256": "3661739e9955480c727d493457e68654c51317fb493facd1f199ac31a660ee6a"
+    },
+    {
+      "path": "src/features/picks/components/pick-trade-sheet.tsx",
+      "sha256": "a6a3ce5b9062212c40655693e246b5e237472ca4c641932749fc48d7797ecc20"
+    },
+    {
+      "path": "src/features/picks/components/pick-trading.tsx",
+      "sha256": "d6170aca9cae39d237bca86fa911b61f62c8eeb661c183a7aa5fa236c4d3dc48"
+    },
+    {
+      "path": "src/features/picks/components/picks-screen.tsx",
+      "sha256": "5157032b9f2b4c8a6b233a599c74da1206861ee0bdd76f8c4dbb4ac2d0d015ef"
+    },
+    {
+      "path": "src/features/picks/components/picks-settings-sheet.tsx",
+      "sha256": "9b6fac84d5e222dfc8adb841916d16c0fcc0d3a6784dbe4e1c71c17521850311"
+    },
+    {
+      "path": "src/features/picks/components/picks.module.css",
+      "sha256": "8f0d02efd29ed62814d18346d73f9c6e579b868f6ba73d90bd273ba3c17f5584"
+    },
+    {
+      "path": "src/features/picks/index.ts",
+      "sha256": "6f0ff4b627990fb2cce6ff60d8e769cc08bccad5570dd84205525fb4ac7d8534"
+    },
+    {
+      "path": "src/features/picks/market-detail-presentation.ts",
+      "sha256": "8f3ff01868aecbd55ad6d95baa1ec7f668ca54b83f29f32ee91f648320c444c1"
+    },
+    {
+      "path": "src/features/picks/order.ts",
+      "sha256": "8824d8bf1b8d54516eab57726b853d8bcd5860a7b9ee52345f8bcbf085179f95"
+    },
+    {
+      "path": "src/features/picks/state/picks-store.ts",
+      "sha256": "a4ac94330ae468e7aec636e5f3c3cc62205bcd6a73dda8a6d3bf1acd4004c64a"
+    },
+    {
+      "path": "src/features/picks/status.ts",
+      "sha256": "675b81ccedace5ea87db43fa2843c1c4c30daef272ff04f0c7ba28711f841218"
+    },
+    {
+      "path": "src/features/predictions/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/features/predictions/components/match-predict-tab.tsx",
+      "sha256": "769ff70923b368e9fe2faad4fed98fd10c2c3aeb2810dac51ff9e656b4ed464a"
+    },
+    {
+      "path": "src/features/predictions/components/match-prediction-screen.tsx",
+      "sha256": "a33e5ed1f97e46a701ac8b5ce6873106c11ec4df5f9c56594ddd8ac3ef6be3b5"
+    },
+    {
+      "path": "src/features/predictions/components/prediction-overlays.tsx",
+      "sha256": "b08cbf1b2c5160399e83e2b35ec3040961763fdc473303d19b88b25c5976e054"
+    },
+    {
+      "path": "src/features/predictions/components/predictions.module.css",
+      "sha256": "4f5e3ca65e6ac3960af4c3914f892ef3881f13c23609b4f9b6cf5dd0d35cf9ed"
+    },
+    {
+      "path": "src/features/predictions/components/quiz-flow.tsx",
+      "sha256": "e9d4164b0bcad3afd328daf32b52757b46ad05bdced0506309c8f8b8408ee71d"
+    },
+    {
+      "path": "src/features/predictions/components/quiz-hub-card.tsx",
+      "sha256": "2fdbebbdfd09580156f2244e567d7345e307bd26a6bf739eeb8c5d3da8ecbd42"
+    },
+    {
+      "path": "src/features/predictions/components/quiz-review.tsx",
+      "sha256": "e0636525d29a83db93c09c291c584f5dc4e318740a09ffe82504acf84e1d1cb0"
+    },
+    {
+      "path": "src/features/predictions/hub-visual.ts",
+      "sha256": "0ac79d3f31abbc9d007eeca8d5e715f2d48c6dd2918d94e05e5b0b881255dccd"
+    },
+    {
+      "path": "src/features/predictions/index.ts",
+      "sha256": "4d13395ecaddac631c8bd1802e6471b3c3a7a41defd370dc497a3d2f09fc4009"
+    },
+    {
+      "path": "src/features/predictions/state/prediction-store.ts",
+      "sha256": "7e0eadabd22806f9bfb94a5a3cec756657c0970f1f8b89ef2d7b0e099b2383bd"
+    },
+    {
+      "path": "src/features/predictions/state/use-quiz-session.ts",
+      "sha256": "38594b136fd1c8ddbd3e336421b4a4b3d5dd4ff0bf04193985512efb85093d18"
+    },
+    {
+      "path": "src/features/profile/components/achievement-showcase.tsx",
+      "sha256": "93878fe798d2ce602a8851b9dda0276246dc91e6d3e003921da273887f8a3e8c"
+    },
+    {
+      "path": "src/features/profile/components/all-cards-screen.module.css",
+      "sha256": "2991c1aabbff4366964175339d87db382a88cc532cde865b9a3acf5c1a2346f8"
+    },
+    {
+      "path": "src/features/profile/components/all-cards-screen.tsx",
+      "sha256": "fc7903b50642e3880f3e19d505af2ec375606208a29431aa7429fd65be31cd29"
+    },
+    {
+      "path": "src/features/profile/components/following-band.tsx",
+      "sha256": "5f9edf9bf6d750b41e71faad9de7fad8fc6dde400f248dbb512cedf9fabe61d8"
+    },
+    {
+      "path": "src/features/profile/components/following-editor.tsx",
+      "sha256": "ca46c6585ac341ee2f0d0dfce4c719663415556135d39e957259aefd270188d2"
+    },
+    {
+      "path": "src/features/profile/components/identity-editors.tsx",
+      "sha256": "12e0610691552be909271117dca56ebbe4a8ce987a83c9090b971eaec37418b8"
+    },
+    {
+      "path": "src/features/profile/components/level-badges.tsx",
+      "sha256": "c1ad075bfb793082d4a11c9a6006e01db84c746ce4579d9a44a4beca9bd7e44f"
+    },
+    {
+      "path": "src/features/profile/components/loadout-card.tsx",
+      "sha256": "fa93abba5b59061853bcf9aadec0f4f4b8f5140aed3f6572b3f289c3ccd0ee3a"
+    },
+    {
+      "path": "src/features/profile/components/oz-coin-tracker.module.css",
+      "sha256": "c6c50892cfa9be2ba2baf7d0262104cafc828d8d546119edc0b1263dc38ec991"
+    },
+    {
+      "path": "src/features/profile/components/oz-coin-tracker.tsx",
+      "sha256": "8497ae3848ab27ff171a084efab53bdfed02a53f5b3a5c58a6a6a561eba45691"
+    },
+    {
+      "path": "src/features/profile/components/profile-actions.tsx",
+      "sha256": "ea55f8933556a4b54ed0be55955b9a5659ed1a7ca6aaee32a5c37c02be8f715b"
+    },
+    {
+      "path": "src/features/profile/components/profile-hero.tsx",
+      "sha256": "20dc9c6bc861257f8c1b025cf743f742611c43db4b2c4f83cb571219da9db669"
+    },
+    {
+      "path": "src/features/profile/components/profile-history.module.css",
+      "sha256": "f18a437d426720c25f3e34aaa9c55833e30876c2a8eaab04a12582e6475fcf66"
+    },
+    {
+      "path": "src/features/profile/components/profile-history.tsx",
+      "sha256": "72276f370317457c0094f74123f383d24b025828597f02a857df594e13f039db"
+    },
+    {
+      "path": "src/features/profile/components/profile-overlay.tsx",
+      "sha256": "53ea47609ed7e847b9693530ada223e37f86fa3874ab3e680123427020b94859"
+    },
+    {
+      "path": "src/features/profile/components/profile-panel.tsx",
+      "sha256": "447d71d3dcebf94664c4d6f58f94c29dd9db743529c4a298a02269b8fcad9b5a"
+    },
+    {
+      "path": "src/features/profile/components/profile-screen.tsx",
+      "sha256": "565f4101e8f62bbc44a7221934a218a612b295300b0af37ab12ebad3245c38ce"
+    },
+    {
+      "path": "src/features/profile/components/profile.module.css",
+      "sha256": "fa233a20a3ce8856a065f68074a9db52434b174a38b082cb0c8d04f425180fd1"
+    },
+    {
+      "path": "src/features/profile/components/rival-dossier.tsx",
+      "sha256": "ba17cf0e25ab183e39390d12a5c1aabac26b84b70c18c41eb693f98729c40683"
+    },
+    {
+      "path": "src/features/profile/components/stat-band.tsx",
+      "sha256": "8e8579ed31e41fae1bd37f27387632fb35e960e76e728357ab821ec6ac0f9113"
+    },
+    {
+      "path": "src/features/profile/components/talk-to-statoz.module.css",
+      "sha256": "84688ab77fe21d48b66bb4a513cf7a0294107c4c7194d9c3e74f78f0c8c00d8c"
+    },
+    {
+      "path": "src/features/profile/components/talk-to-statoz.tsx",
+      "sha256": "af2a736ae4e9b39727c0a03dd602ed1627a4185c636242b8ea2965d574e190f9"
+    },
+    {
+      "path": "src/features/profile/components/time-zone-card.tsx",
+      "sha256": "87ed494a239884c6286ebefb598b2c5ed2f70185ecce4e6d00ed0ed4bb7870d4"
+    },
+    {
+      "path": "src/features/profile/components/transmission-compose.tsx",
+      "sha256": "fcfc74f34f5d605e08459db6a7b1454f6b1e5bf8bf48eaad3c73a097c8231291"
+    },
+    {
+      "path": "src/features/profile/components/xp-progress-screen.tsx",
+      "sha256": "80c36d686ed7b3a8d4ec5652fe12dcc9f056b88f3fc2ade62f92979a3c80a3f2"
+    },
+    {
+      "path": "src/features/profile/components/xp-progress.module.css",
+      "sha256": "348c24e4b475efd8dcf0150a206864493ab33055f12f98527d82ba294d965ab0"
+    },
+    {
+      "path": "src/features/profile/data/achievements.ts",
+      "sha256": "998391c574f7f3d9326914861471c83a20a04643d8d7871858f55313cd75f90c"
+    },
+    {
+      "path": "src/features/profile/data/rival-dossier.ts",
+      "sha256": "d28a38225d84b0c1162c8c3d6ef3e23406abc6ca48737d3f88919b7f8b51da40"
+    },
+    {
+      "path": "src/features/profile/data/support-channels.ts",
+      "sha256": "a5ddc159dc6c90139d578b5c3cd29ed71c4c3c6aedd59638b8740d2076d995c0"
+    },
+    {
+      "path": "src/features/profile/data/time-zones.ts",
+      "sha256": "bcb51e2a59ebb564cf57a03678ecbf4f618f7dd07f5041bb08a7863578964f29"
+    },
+    {
+      "path": "src/features/profile/index.ts",
+      "sha256": "07c7c13567694a171513be06a8e40a20a69d888340bc72afee7f59df24914420"
+    },
+    {
+      "path": "src/features/profile/state/player-progress.ts",
+      "sha256": "b0d9d0958775015b03e6759fa4f605e3b932bf016fcae9d9ad3d766d8d0a1030"
+    },
+    {
+      "path": "src/features/profile/state/player-standing.ts",
+      "sha256": "01984ebc82850e39945291437b064e3c6789a629890fe0b49ffdc77d340f754d"
+    },
+    {
+      "path": "src/features/profile/state/profile-identity.ts",
+      "sha256": "a92adc37f6b5eba9949d6ddb840bae0f2a3a1aa8b52e88d71a859f4c017fef49"
+    },
+    {
+      "path": "src/features/profile/state/xp-ledger.ts",
+      "sha256": "133f09bff043eafc8fb0770f11719ab16aa7384f37b4b13628508b624bd8005b"
+    },
+    {
+      "path": "src/features/profile/types.ts",
+      "sha256": "717c723bf09802aac3e2633d9345c624342a33226b71401e8b7a8f5583e0b174"
+    },
+    {
+      "path": "src/features/progression/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/features/README.md",
+      "sha256": "0f5df6b9b3f137f2159dd29cd8d82f59d998b581e566dba4177916013722462b"
+    },
+    {
+      "path": "src/features/shell/components/home-hub-surface.module.css",
+      "sha256": "6070a05bda239c905d7bacb91f0bf59beb89d92d65e0188a0088fa501b1d9ba7"
+    },
+    {
+      "path": "src/features/shell/components/home-hub-surface.tsx",
+      "sha256": "923dce587ee907836af72ea9be333a00a831ce320af64dac8ac47b39830efb3d"
+    },
+    {
+      "path": "src/features/shell/components/platform-breadcrumbs.tsx",
+      "sha256": "3fc365d989989977a06ca03719edf11b7bed17781f12277a1ae10f6e98cf0130"
+    },
+    {
+      "path": "src/features/shell/components/platform-frame.module.css",
+      "sha256": "6d54b52532e335ea019ff5b3a4eee3ba00d046b512bf83a1f58251816f9feaed"
+    },
+    {
+      "path": "src/features/shell/components/platform-nav.tsx",
+      "sha256": "5edbecf17cf8ceff32b29198242956a1d07240da738204f2d0a350e9d89a4995"
+    },
+    {
+      "path": "src/features/shell/components/platform-primary-nav.tsx",
+      "sha256": "ad3d9e0e8d7584f60216b7b169ac14dad6f369d10fbffc8c7e5efcc97a028064"
+    },
+    {
+      "path": "src/features/shell/components/platform-top-bar.module.css",
+      "sha256": "11a3864f04d34694c009256e409b4eeba5b5fa1944d4430498692760657f3b9a"
+    },
+    {
+      "path": "src/features/shell/components/platform-top-bar.tsx",
+      "sha256": "0d36007d9e782be2cf2fb498d9db12432eefd85ec2af540cb1885b89751d9e8c"
+    },
+    {
+      "path": "src/features/shell/index.ts",
+      "sha256": "9935690d46ef17dff1b99cd137575189817172f149c8f519b6098c67e37517b6"
+    },
+    {
+      "path": "src/features/shop/components/avatar-frame-ring.tsx",
+      "sha256": "0d2b6465124f22f3c3c0ff8a96cca69cef576cc033ea61074fbe3fe8a2679aa9"
+    },
+    {
+      "path": "src/features/shop/components/banner-art.module.css",
+      "sha256": "33366a5ffa5b31c6a468c834db18e316afea6a19a8b416d90fe8770a938ba84b"
+    },
+    {
+      "path": "src/features/shop/components/banner-art.tsx",
+      "sha256": "8220f41062dac3aceb1dfe8958e00fd5bf30aaafc21d0a33808cc3d2d9eb3233"
+    },
+    {
+      "path": "src/features/shop/components/coin-checkout.tsx",
+      "sha256": "80b9a36f9f49d906fa97fd95b52b529425f4ce78c98886f1eecb2753f55fff80"
+    },
+    {
+      "path": "src/features/shop/components/coin-reward.tsx",
+      "sha256": "abe96ebe39c29e0902c663ef646a9e35fa27d451638cc6c50320a2981bd8ffdb"
+    },
+    {
+      "path": "src/features/shop/components/coin-vault.module.css",
+      "sha256": "c6cc7e15cb2064f8f4f607c57fcc7d5b6ee0958ffe7de28a6dc2b524607ef3e1"
+    },
+    {
+      "path": "src/features/shop/components/shelves/coins-shelf.tsx",
+      "sha256": "2c26015154674b3191f619f4fdb0549dc712246dbcdbc958f00664acba1a0c18"
+    },
+    {
+      "path": "src/features/shop/components/shop-acquire-overlay.module.css",
+      "sha256": "4aa3ec6f0bf35647acd4098f0667eda753e9bbd02f283d4ed2ecc90dd152df65"
+    },
+    {
+      "path": "src/features/shop/components/shop-acquire-overlay.tsx",
+      "sha256": "8e3d73d39a1f3f3f0103e9a7ec361cf65bb3d70bca9033f211e76caba6d1f849"
+    },
+    {
+      "path": "src/features/shop/components/shop-card.module.css",
+      "sha256": "b6be17b0d72d9a6a3f0f3552db290b76719dc7940509cda470b0dfe8125923bc"
+    },
+    {
+      "path": "src/features/shop/components/shop-card.tsx",
+      "sha256": "782f7719a2023e06052cafb3efac35e2ac5322328ce7ffe12625967a43404909"
+    },
+    {
+      "path": "src/features/shop/components/shop-equip-celebration.module.css",
+      "sha256": "62f66bd38148e950b4975b2e338688f02dd183049a10b3f725b918187ac8f8d0"
+    },
+    {
+      "path": "src/features/shop/components/shop-equip-celebration.tsx",
+      "sha256": "aa0496b573336379641f69f6afa4d340a00866caaa3ca825423b6943e7f32eae"
+    },
+    {
+      "path": "src/features/shop/components/shop-hero.tsx",
+      "sha256": "02f38bb1e5e406d43ea1153cf31a737d505c7d18c608fe1ae04f316d848c5af4"
+    },
+    {
+      "path": "src/features/shop/components/shop-item-card.module.css",
+      "sha256": "b702f609fffdd906e08db6a0bb01878f2f411b5015a10da37fd3c6245f279f7c"
+    },
+    {
+      "path": "src/features/shop/components/shop-products.tsx",
+      "sha256": "f4b03d152fe5aebaa22347851be048a94a726c6e40a919acbdce48529cfc6fc2"
+    },
+    {
+      "path": "src/features/shop/components/shop-screen.module.css",
+      "sha256": "28f77ef9abecf155e259861f97a49d6acef60f078aaf72608dd26ffcd376de9b"
+    },
+    {
+      "path": "src/features/shop/components/shop-screen.tsx",
+      "sha256": "8f1b122d99c32a375fd6cee40f69a214eb1c8a5720679daa8aa95b83e8bcc01f"
+    },
+    {
+      "path": "src/features/shop/components/shop-search-screen.tsx",
+      "sha256": "f3d844af026b80d0b5b04975c8540e21a298e47baab29536450e3c88b7bb13af"
+    },
+    {
+      "path": "src/features/shop/components/shop-tiles.module.css",
+      "sha256": "edb28c29fba256cffc78204668081301f527604a25f0682af46831e85302cfcb"
+    },
+    {
+      "path": "src/features/shop/components/shop-tiles.tsx",
+      "sha256": "1941fb3f36768b715dd0a00ab09995a0488b2238ca074f9701a863e2776ebc10"
+    },
+    {
+      "path": "src/features/shop/components/sports-storefront.module.css",
+      "sha256": "176bce5e391705c8f9fbfa727fedb883d25b4055dfece807ca3cc0bee224f258"
+    },
+    {
+      "path": "src/features/shop/data/frames.generated.ts",
+      "sha256": "47f1bf76f99cafade3546807f2947197f6f7f192fb0410e361c06ef63730ecaf"
+    },
+    {
+      "path": "src/features/shop/hooks/use-shop-actions.tsx",
+      "sha256": "2d4fcf7f975c9cc7608aebaf796ca4aa65d3c3228bcdf46d47a306623533dfd4"
+    },
+    {
+      "path": "src/features/shop/hooks/use-shop-dialog.ts",
+      "sha256": "e64610b727a552abf0a5336df674d39df26f8efef598a5fbb7a5093db5fdb681"
+    },
+    {
+      "path": "src/features/shop/index.ts",
+      "sha256": "3748143eda52192ff56f829bbddb0c2e283ad822fe3673f7185a1c68e29e0170"
+    },
+    {
+      "path": "src/features/shop/lib/coin-bundles.ts",
+      "sha256": "5558b3d98bf3bc90b78c22313491cced46f83c24d0af5464bcd6fd5fa3f84db8"
+    },
+    {
+      "path": "src/features/shop/lib/equip-shop-item.ts",
+      "sha256": "cce66573f71ac97666bae89f2b3a20cb0ab3f039784fba8a16f8664e9826c0a4"
+    },
+    {
+      "path": "src/features/shop/lib/shop-catalog.ts",
+      "sha256": "f65b857e9c0301712d53d74b64f1b5ce8e335caf22c76c92bdd734cbf9203339"
+    },
+    {
+      "path": "src/features/streaks/activity.ts",
+      "sha256": "5a5c658c2048e2052aff0dc67e44e22ade22ac58b72d8660226a5aa71426eacb"
+    },
+    {
+      "path": "src/features/streaks/components/streak-celebration-host.tsx",
+      "sha256": "815bbd521b20764257531568179e67f73fad87f5de53067460d587253ba9f55b"
+    },
+    {
+      "path": "src/features/streaks/components/streak-celebration.module.css",
+      "sha256": "06c3ae2230aad8158145a1f7a50bcfc1e856d66419d72d8512381b59b5f158e4"
+    },
+    {
+      "path": "src/features/streaks/components/streak-flame.tsx",
+      "sha256": "b862cbf5cc42a388c16439c8f9acd495ca4343e23b7afead56310d3614a00063"
+    },
+    {
+      "path": "src/features/streaks/components/streak-screen.module.css",
+      "sha256": "32874f684aed901a94f3cfc848ed266b6711ecd6fc7541352aa9f609ef6cf992"
+    },
+    {
+      "path": "src/features/streaks/components/streak-screen.tsx",
+      "sha256": "148c7b3df31172fc838726d5da34662f2b395d77882c134cd6d06239c34dbc49"
+    },
+    {
+      "path": "src/features/streaks/data/milestones.ts",
+      "sha256": "2cc254d7e2ebc59f73de5156ad43ba31469e235df6a6eb72097ba43c130b2659"
+    },
+    {
+      "path": "src/features/streaks/index.ts",
+      "sha256": "a2d3eee8c45198da0ec1ad066762507ac181df73264d944a6871b682842343c4"
+    },
+    {
+      "path": "src/features/streaks/rewards.ts",
+      "sha256": "794f6782dffa313bb7822c9e62ede89bb0e89a7695ebe6fdf2b7cf111d7bc869"
+    },
+    {
+      "path": "src/features/streaks/state/streak-store.ts",
+      "sha256": "e16d159866085b6ee71e0168485575c42e360742ac3046a5a115fd63ed4b9252"
+    },
+    {
+      "path": "src/features/streaks/types.ts",
+      "sha256": "827dbb510190eb5288cc35667368a5763392fe6257cceb1a62132638226b54bc"
+    },
+    {
+      "path": "src/mocks/ads/index.ts",
+      "sha256": "910f9a170c7e5214efc8ffb820775bcd7218cdeb418ddcca4d854c82b7509c83"
+    },
+    {
+      "path": "src/mocks/ads/placements.ts",
+      "sha256": "7ee659ccbf5054dc5de59f6624a41d40c2cdbcc2fcc9257024a07b90dbb15011"
+    },
+    {
+      "path": "src/mocks/games/game-registry.ts",
+      "sha256": "de10184dc124c024f43f759059385af9e73ba01335e324538f4f9ee34edd0917"
+    },
+    {
+      "path": "src/mocks/games/index.ts",
+      "sha256": "5c0ecf43e718cd399f93c2f910c3e96d15cf6e49f94c9104f6359d20f0eeed3e"
+    },
+    {
+      "path": "src/mocks/games/quiz/bands.ts",
+      "sha256": "db6bc50cf11e1049381502d81bebdca5fcdc78bb8b5351d9cde275145d95d9f6"
+    },
+    {
+      "path": "src/mocks/games/quiz/index.ts",
+      "sha256": "238b433554ec20b2640b20aee07c7750f8e717f8c241901ee97937ea330a82f4"
+    },
+    {
+      "path": "src/mocks/games/quiz/modes.ts",
+      "sha256": "719a2aae2d002bd85753a469c00772842b8a5ea0de0614c6ec7a1bb0f71c0d85"
+    },
+    {
+      "path": "src/mocks/games/sport-decks.ts",
+      "sha256": "f26ec9b12a253a076126498f45655da31f3bf77dc4a00496ea5ae51732d1a6a0"
+    },
+    {
+      "path": "src/mocks/games/trending-catalog.ts",
+      "sha256": "0816de47223a3d7d5a34be71ac9d373170ce15bb48b0b297c795b16b0a64bfb2"
+    },
+    {
+      "path": "src/mocks/identity/team-palettes.generated.ts",
+      "sha256": "23f837b8d372dfb72cdd7450d75c945fdb4c89efbf4841769bfa823a67cdfbc5"
+    },
+    {
+      "path": "src/mocks/leaderboard/index.ts",
+      "sha256": "ce59318a87d264592adb0e29fd63e7568f9ca151ab38c31d25a761a1a769b41c"
+    },
+    {
+      "path": "src/mocks/leaderboard/national-teams.ts",
+      "sha256": "daabea3386df6d89a1e334c8a75bcf4605ac8736916d320dabb34b81d3de6f59"
+    },
+    {
+      "path": "src/mocks/leaderboard/rivals.ts",
+      "sha256": "b3b09b188d4c06234a29a186f39a9c34ed57ade13ec792b7f6309b64beb15542"
+    },
+    {
+      "path": "src/mocks/leagues/catalog.ts",
+      "sha256": "e3d70eb4dc03379d701dd728b52424086f5dee5406e8e61475ada2f07b4deb9d"
+    },
+    {
+      "path": "src/mocks/leagues/index.ts",
+      "sha256": "812d7318f90c96fad221550667b7a048d68d0d5ac5d8aa65eff4dbd01bfe07fa"
+    },
+    {
+      "path": "src/mocks/leagues/snapshots.ts",
+      "sha256": "05ef21fdfa1ed8337c06bcd9684a471162b3d0ea44e3ac322cfaeb2304051633"
+    },
+    {
+      "path": "src/mocks/matches/basketball.ts",
+      "sha256": "48666abbd41958c2c49d914e5d349f453d973940b2e161e29c36bc7e827607ec"
+    },
+    {
+      "path": "src/mocks/matches/catalog.ts",
+      "sha256": "f167ad06803cc840af0ff7d2ce352bd7ebaf29c5a87cf3f48c919c4bd98e35bf"
+    },
+    {
+      "path": "src/mocks/matches/circle.ts",
+      "sha256": "780b48d48e9d6f520017bf3b46ad0973654f218779b91fa4c364c59c2a3cec7d"
+    },
+    {
+      "path": "src/mocks/matches/cricket.ts",
+      "sha256": "b28d5524dea497ed39398c6695dbbe8391d121fa953839fb692e3f1402bf79fb"
+    },
+    {
+      "path": "src/mocks/matches/definitions.ts",
+      "sha256": "1c97f942189e9ffd172ca14b1cad1d5e8d302a061c38b6c9a4253e214cce6f39"
+    },
+    {
+      "path": "src/mocks/matches/detail-rivals.ts",
+      "sha256": "53a7a92f878cd3f908a3f9c1e56fe632bb9c7cf0c81553133e3ab4da9874e0a0"
+    },
+    {
+      "path": "src/mocks/matches/details/basketball-snapshot.ts",
+      "sha256": "088be2002f786cd3f8b21c55f0af212b7f9e209ef51c94e946dd37775a236377"
+    },
+    {
+      "path": "src/mocks/matches/details/basketball.ts",
+      "sha256": "0deb1e2efb2da3f8ee859ddd732b85c58807a21e88930957ef2ad7ff5d0adad2"
+    },
+    {
+      "path": "src/mocks/matches/details/cricket-snapshot.ts",
+      "sha256": "f66a2fb52ce39367bc7c1c53861371442c1def107a025bde223e754ebed38557"
+    },
+    {
+      "path": "src/mocks/matches/details/cricket.ts",
+      "sha256": "ffea8a28d1f6e736c3f9ff853c7c8fd4ec0445417305699d2d2e132d84701994"
+    },
+    {
+      "path": "src/mocks/matches/details/f1.ts",
+      "sha256": "a455bc500e66c43ad89a37322f4195083b4d64d47eac1dd421141d299ce46672"
+    },
+    {
+      "path": "src/mocks/matches/details/football-snapshot.ts",
+      "sha256": "b15654ee1d7f3f1158155e134b9cf4ff6f35743b86fbda3dfffb300f1ab3abdf"
+    },
+    {
+      "path": "src/mocks/matches/details/football.ts",
+      "sha256": "13dfdc5f81a04c48fa395161278f4c1f9e5277527b49073e0e2820fc51ffea58"
+    },
+    {
+      "path": "src/mocks/matches/details/index.ts",
+      "sha256": "71f4c68e9182766e7de654a887fed4bfa4bbecf197722de3f4c67a838a91e18f"
+    },
+    {
+      "path": "src/mocks/matches/details/motorsport.ts",
+      "sha256": "fda7790cd14c06175827b9b45cfd35e9ce32e24d436f52a92f2465627e37c37d"
+    },
+    {
+      "path": "src/mocks/matches/details/report.ts",
+      "sha256": "28034161c441d4d92191e222cbb614bcd5dfeecb71379926af733631a07fdbf7"
+    },
+    {
+      "path": "src/mocks/matches/details/shared.ts",
+      "sha256": "c1f3408e78a1730ff6f2fd84a2a0e4a7802977df76a137cebf44ad8ca533fb85"
+    },
+    {
+      "path": "src/mocks/matches/details/tennis.ts",
+      "sha256": "171b6e09bb8b3a8523922d207ff3b5bcf9d4312e6da61fcafecbf410856a9dd4"
+    },
+    {
+      "path": "src/mocks/matches/football.ts",
+      "sha256": "7b82d1209ada4125dc17d50b766cc1a75882d81c8ceede52f24264f66255bdfe"
+    },
+    {
+      "path": "src/mocks/matches/index.ts",
+      "sha256": "5bbc28dc2dc910f3685f7385616b10354abbf294f61ed56edd1f28ed11d15ee9"
+    },
+    {
+      "path": "src/mocks/matches/markets.ts",
+      "sha256": "7fd919ad4be387ed4fb49bf94a58d16b334ffa4e0a4c5edae03087c70c9e2a98"
+    },
+    {
+      "path": "src/mocks/matches/motorsport.ts",
+      "sha256": "5dd527ebe3fad27008abc5b5ea3b66f068e282a3a305c3b0fd2ec05e827b8fa2"
+    },
+    {
+      "path": "src/mocks/matches/quizzes/football-bank.ts",
+      "sha256": "288f9223f74cb71f25819b5a0502093a81fb3297385cd12c4e370e9fffe4fdca"
+    },
+    {
+      "path": "src/mocks/matches/quizzes/index.ts",
+      "sha256": "c53ae9f0f4b7ac7c9641ee291f3c345177cdd3cccb614f82fa53200c000ddd01"
+    },
+    {
+      "path": "src/mocks/matches/tennis.ts",
+      "sha256": "d6df5e60f47609b34674941b0955c6168ba8548b8963411c170eee3345b9c410"
+    },
+    {
+      "path": "src/mocks/onboarding/avatars.ts",
+      "sha256": "737c662024d1292e8db4aaaa54326a2bf515a15573ac97e4086a04e3fcaabe75"
+    },
+    {
+      "path": "src/mocks/onboarding/banners.ts",
+      "sha256": "5a69869b14c0ce52cfe5203af4cb69d648d7b3bc8f1655afc7551ace6b3746cc"
+    },
+    {
+      "path": "src/mocks/onboarding/followable-leagues.ts",
+      "sha256": "a6318d08f3c0dbf698e3a7493fe18d8c51fa91b4f74cb34c0607eeb3853b40bb"
+    },
+    {
+      "path": "src/mocks/onboarding/index.ts",
+      "sha256": "4246a0b5499a71a839b561721d8be05abc15ca8f46623c1d4c04c9d9f4ccb752"
+    },
+    {
+      "path": "src/mocks/packs/action-cards.ts",
+      "sha256": "c18d75a9ede57cb2f25c3f7540cd6c56d5628ba53757aa7ef86236dcdcb28475"
+    },
+    {
+      "path": "src/mocks/packs/basketball-cards.ts",
+      "sha256": "dfc224fbfb0e36a3adc8e9267c282096a4a83bffbcf936d9fd1e88d31faa39d7"
+    },
+    {
+      "path": "src/mocks/packs/cricket-cards.ts",
+      "sha256": "7d20df1b5bf4f59631bc58c3e662d1ef45350afa7cf45cdffca0652080b841e5"
+    },
+    {
+      "path": "src/mocks/packs/football-cards.ts",
+      "sha256": "e56d7d062995609fbe4b668e143aaef99e4f590bb042a98085da59307c24004d"
+    },
+    {
+      "path": "src/mocks/packs/index.ts",
+      "sha256": "23d0763ad50a49f3a0fe1ec20a007b3951480169211d83cf8cfce3eaea808125"
+    },
+    {
+      "path": "src/mocks/packs/racing-cards.ts",
+      "sha256": "a8324662d190b02102ed2df78eae4e05bfdfb6b6913ff29be86823ad551c91ff"
+    },
+    {
+      "path": "src/mocks/packs/tennis-cards.ts",
+      "sha256": "d537be87ae4b24fdf8d599cda4714db6e323cccd1eca747c46e3f071f34607c4"
+    },
+    {
+      "path": "src/mocks/picks/catalog.ts",
+      "sha256": "6f9e4b5d77e51c8d628c28a540a3db90614c581fdfe74cc14e348ec783a817d1"
+    },
+    {
+      "path": "src/mocks/picks/index.ts",
+      "sha256": "904c2c12f3c5ed894275e7be18aa6ce594e6edf741fabbec45f758049c1c62e1"
+    },
+    {
+      "path": "src/mocks/profile/history.ts",
+      "sha256": "fdd0943725225f72650d4e96df8e4e2dc43702f45f1576361a4011918fa932e8"
+    },
+    {
+      "path": "src/mocks/profile/index.ts",
+      "sha256": "1ac0eb7fc7449ab40b341f901e53859bb8bf853f4765536312ec8d5634225375"
+    },
+    {
+      "path": "src/mocks/profile/xp-history.ts",
+      "sha256": "410c5eac6c72bb4bbd46aa2c8919f543a87b31e68ea36c89c79e39cfe8daaa4a"
+    },
+    {
+      "path": "src/mocks/README.md",
+      "sha256": "9353014a1235bc3bc56896339c99f8a1296ca4accbd69d23f4555d52d12bf31a"
+    },
+    {
+      "path": "src/mocks/shop/catalog.ts",
+      "sha256": "d76e059991b3abfe131bebdce60fe3dfd2102692f9595fe5bb2642a555043493"
+    },
+    {
+      "path": "src/mocks/shop/frames.generated.ts",
+      "sha256": "47f1bf76f99cafade3546807f2947197f6f7f192fb0410e361c06ef63730ecaf"
+    },
+    {
+      "path": "src/mocks/shop/index.ts",
+      "sha256": "904c2c12f3c5ed894275e7be18aa6ce594e6edf741fabbec45f758049c1c62e1"
+    },
+    {
+      "path": "src/mocks/snapshots/card-game/basketball-revamp.json",
+      "sha256": "a9b6c744f3343ac0b65a6e64a185c3aeb12625868e21d87236f6ad3e9caeb799"
+    },
+    {
+      "path": "src/mocks/snapshots/card-game/cricket-league-stats.json",
+      "sha256": "80247f7f1c76eff10f84b47d40851d4351e4cbef4955a6f7d77902419a7e8a1b"
+    },
+    {
+      "path": "src/mocks/snapshots/card-game/cricket-revamp.json",
+      "sha256": "16dd5a016d0006aabb63d2c225c6d5121a3fc67f6ac018d9f07696ac4c729f36"
+    },
+    {
+      "path": "src/mocks/snapshots/card-game/f1-italian-gp.json",
+      "sha256": "e84a44d5307ab6166a128e0b1fe608d08fb9387d16aad774590d738d7519bbce"
+    },
+    {
+      "path": "src/mocks/snapshots/card-game/f1-league-standings.json",
+      "sha256": "53c3a7e96b3cd540f7facf048305479d3b649e253d323d4d32b59a7441488b12"
+    },
+    {
+      "path": "src/mocks/snapshots/card-game/football-league-seasons.json",
+      "sha256": "f3ff5262e2fabf20c1e86d945ab68e59f7564e0d17557f21a477155d514922fa"
+    },
+    {
+      "path": "src/mocks/snapshots/card-game/football-league-stats.json",
+      "sha256": "0aded62c76075cfd11dbf9d83676864d60fe1b6c82805816fdd8ee23ef654c59"
+    },
+    {
+      "path": "src/mocks/snapshots/card-game/football-revamp.json",
+      "sha256": "cf20c90dc6192c321823f2fe630332f0cb0fe04b7a725c3f135b98134a10ad4b"
+    },
+    {
+      "path": "src/mocks/snapshots/card-game/nba-league-stats.json",
+      "sha256": "d864525cfa211a7f22d59bda8e88decc5924f8c29e68154712f8b40c313f2a63"
+    },
+    {
+      "path": "src/server/integrations/espn/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/server/README.md",
+      "sha256": "24cac8de1fbfcea101f9f9c674d378e7b6e3169361e3e868f52dfbd6de53c8d7"
+    },
+    {
+      "path": "src/server/repositories/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/server/services/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/server/storage/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/shared/config/base-path.ts",
+      "sha256": "9ca4176cb1c69de085e40e5bfe0e82925add5415ee52274eded176a553ca2dda"
+    },
+    {
+      "path": "src/shared/config/index.ts",
+      "sha256": "4104bbae5df094b7f930fa5e298c5a67be440fd1a8b16a6f37e27c08aa00ccc2"
+    },
+    {
+      "path": "src/shared/config/navigation.ts",
+      "sha256": "ea5a21ae07ab3da7210b33894e6425b56fed0071527d70b92d7fdc9d177f8a94"
+    },
+    {
+      "path": "src/shared/hooks/index.ts",
+      "sha256": "ba29e1f42e066898a9979a4a41a105b9bdd8d7c98468512fa6b5855e18d1d7b3"
+    },
+    {
+      "path": "src/shared/hooks/use-clock.ts",
+      "sha256": "f7c79652f3c8dbd461611ca55690c960536d6b18ac62ba69605b7c932400d243"
+    },
+    {
+      "path": "src/shared/hooks/use-count-up.ts",
+      "sha256": "ae1c542a90beccb5a6e13b1c770375b26c249a83bfcdd3206ba76917f73fd0c1"
+    },
+    {
+      "path": "src/shared/hooks/use-demo-now.ts",
+      "sha256": "b8aa84826b91d03bfa088f9474aa31115643f3dde9bab63fbf05a2576b20601e"
+    },
+    {
+      "path": "src/shared/hooks/use-full-screen-moment.ts",
+      "sha256": "8a142db30a93d226cbc61079c4b13073bb38e824a8aa23f5b13e090f3f6b0dce"
+    },
+    {
+      "path": "src/shared/hooks/use-keyboard-open.ts",
+      "sha256": "c990b747e73072cbb468efb62dad5efe5a22b3835c1eb07673371b35a3f39aa5"
+    },
+    {
+      "path": "src/shared/hooks/use-prefers-reduced-motion.ts",
+      "sha256": "f9465a6cb974755d2d505d5168181c60dbeaa0dfbddd348d9e3d309485684043"
+    },
+    {
+      "path": "src/shared/providers/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/shared/README.md",
+      "sha256": "7f098023dba5e6a82affa80693aead84d7d743efd26de1d25909660f419a970c"
+    },
+    {
+      "path": "src/shared/styles/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "src/shared/utils/format.ts",
+      "sha256": "b0a648309e47ab6ccc529b635e4f5e6c3d75520b016e1b493ecb21537dd3d3ed"
+    },
+    {
+      "path": "src/shared/utils/hash.ts",
+      "sha256": "54d5aa5037699dcfa48bc9ee2b99e1020e6c1a229d607d58da14173f62059d94"
+    },
+    {
+      "path": "src/shared/utils/index.ts",
+      "sha256": "c4d0ccd1ee00ce54ddb53efd8d93964b40f0ca8c820847eb54d1bb6509e3fdef"
+    },
+    {
+      "path": "src/shared/utils/player-tag.ts",
+      "sha256": "46da9a09b5e602ff7d77792133e94b0cf3d412a64f3a1e9b5245454a10edf50f"
+    }
+  ]
+}

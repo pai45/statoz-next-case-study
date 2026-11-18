@@ -1,0 +1,47 @@
+/* The fragmented fan: an illustration-led problem slide. Canvas pixels; builds follow the stage step. */
+.s-frag{display:grid;grid-template-columns:560px 1fr;gap:40px;align-items:center;height:100%}
+.s-frag .s-title{font-size:92px}
+.s-frag-legend{list-style:none;margin:48px 0 0;padding:0;display:grid;gap:14px}
+.s-frag-legend li{display:flex;align-items:center;gap:18px;font-size:28px;color:var(--muted);opacity:.18;transition:opacity .5s,transform .5s}
+.s-frag-legend li.in{opacity:1}
+.s-frag-legend i{width:34px;height:34px;border:3px solid var(--c);background:color-mix(in srgb,var(--c) 18%,transparent);clip-path:polygon(8px 0,100% 0,100% calc(100% - 8px),calc(100% - 8px) 100%,0 100%,0 8px)}
+.s-frag-legend .cyan{--c:var(--cyan)}.s-frag-legend .gold{--c:var(--gold)}.s-frag-legend .orange{--c:var(--orange)}.s-frag-legend .violet{--c:var(--violet)}
+.s-frag-legend .gap{color:var(--text)}
+.s-frag-legend .gap i{border-style:dashed;background:transparent}
+.s-frag-legend .gap.in{animation:frag-nudge .6s .3s both}
+.s-frag-punch{margin:40px 0 0;padding-left:22px;border-left:4px solid var(--violet);font-size:30px;line-height:1.35;color:var(--text);opacity:0;transform:translateY(16px);transition:opacity .6s .2s,transform .6s .2s}
+.s-frag-punch.in{opacity:1;transform:none}
+
+.frag-art{width:100%;height:100%;max-height:800px;overflow:visible}
+.frag-mono{font:600 15px var(--mono);letter-spacing:.14em;fill:var(--muted)}
+.frag-mono.small{font-size:13px}
+.frag-mono.strong{font-size:15px;fill:var(--bg);font-weight:700}
+.frag-head{font:700 17px var(--mono);letter-spacing:.12em}
+.frag-score{font:700 44px var(--display);fill:var(--text)}
+.frag-big{font:700 64px var(--display)}
+.frag-question{font:700 150px var(--display);animation:frag-pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.frag-jersey{font:700 18px var(--display);fill:var(--bg)}
+.frag-link{fill:none;stroke-width:3;stroke-dasharray:10 9;animation:frag-march 1.6s linear infinite}
+.frag-snap path{stroke-dasharray:none;stroke-width:3.5;stroke-linecap:round}
+.frag-gap-link{fill:none;stroke-width:3;stroke-dasharray:4 12;stroke-linecap:round;opacity:.8}
+.frag-live{animation:frag-blink 1.2s steps(2) infinite}
+.frag-orbit{transform-box:view-box;transform-origin:590px 390px;animation:frag-spin 14s linear infinite}
+
+/* Builds: apps drop in from their corner; the gap fades in last and keeps breathing. */
+.frag-app{opacity:0;transition:opacity .6s,transform .7s cubic-bezier(.2,.8,.2,1)}
+.frag-scores{transform:translate(-40px,-30px)}.frag-quiz{transform:translate(40px,-30px)}.frag-games{transform:translate(-40px,30px)}.frag-gap{transform:scale(.94);transform-box:fill-box;transform-origin:center}
+.frag-app.in{opacity:1;transform:none}
+.frag-gap.in .frag-gap-glow{animation:frag-breathe 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+
+@keyframes frag-march{to{stroke-dashoffset:-38}}
+@keyframes frag-spin{to{transform:rotate(360deg)}}
+@keyframes frag-pulse{50%{transform:scale(1.08);opacity:.75}}
+@keyframes frag-breathe{50%{transform:scale(1.12);opacity:.6}}
+@keyframes frag-blink{50%{opacity:.2}}
+@keyframes frag-nudge{30%{transform:translateX(10px)}60%{transform:translateX(-4px)}}
+
+.is-preview .frag-link,.is-preview .frag-orbit,.is-preview .frag-question,.is-preview .frag-live,.is-preview .frag-gap-glow{animation:none!important}
+@media (prefers-reduced-motion:reduce){
+ .frag-app,.s-frag-legend li,.s-frag-punch{transition:none!important}
+ .frag-link,.frag-orbit,.frag-question,.frag-live,.frag-gap-glow,.s-frag-legend .gap.in{animation:none!important}
+}
