@@ -10,6 +10,8 @@ Use Node 22 and the authenticated GitHub CLI. Run `npm ci`, then `npm run setup:
 
 Run `npm run typecheck`, `npm test`, and `npm run build:pages`. Use `npm run preview:pages` for http://127.0.0.1:4420/statoz-next-case-study/ and `npm run test:pages` for browser verification. The original local launch command still serves the presentation on 4411 and product demos on 4412/4413.
 
+Local launches rebuild `dist` with local URLs before serving. Pages compiles separately in `.cache/pages-build` and packages `out`; it never overwrites `dist`. With the local servers running, `npm run test:local-assets` verifies image decoding and failed resource requests across the chapters. `npm run test:build-isolation` builds both targets and verifies that every local output file remains byte-identical after the Pages build.
+
 ## Static packaging
 
 The Pages build retains the website, presenter, investor, evidence, Admin, Studio and walkthrough routes as physical directories. Embedded Sports and Games use paths inside this project. The public asset helper and route helper distinguish the GitHub project prefix from the application's logical routes.

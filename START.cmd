@@ -1,4 +1,4 @@
 @echo off
 cd /d "%~dp0"
-node scripts\serve.mjs
+call npm.cmd start
 pause

@@ -5,10 +5,12 @@ import crypto from 'node:crypto';
 const root = path.resolve(import.meta.dirname, '..'), out = path.join(root, 'out');
 const base = '/statoz-next-case-study', shared = base + '/shared-assets';
 process.env.STATOZ_BASE_PATH = base;
+process.env.STATOZ_BUILD_DIRECTORY = '.cache/pages-build';
+const pagesBuildDirectory = path.join(root, process.env.STATOZ_BUILD_DIRECTORY);
 await import('./build.mjs');
 if (path.resolve(out) !== path.join(root, 'out')) throw new Error('Invalid output directory');
 await fs.rm(out, { recursive: true, force: true });
-await fs.cp(path.join(root, 'dist'), out, { recursive: true });
+await fs.cp(pagesBuildDirectory, out, { recursive: true });
 async function files(directory, relative = '') {
   const all = [];
   for (const entry of await fs.readdir(directory, { withFileTypes: true })) {
@@ -70,7 +72,7 @@ for (const product of ['sports', 'games']) {
 let cursor = 0;
 await Promise.all(Array.from({ length: 24 }, async () => { while (cursor < tasks.length) await tasks[cursor++](); }));
 // Case study CSS and HTML use ordinary static public URLs.
-for (const relative of await files(path.join(root, 'dist'))) {
+for (const relative of await files(pagesBuildDirectory)) {
   if (!/\.(html|css)$/.test(relative)) continue;
   const file = path.join(out, relative);
   let text = await fs.readFile(file, 'utf8');

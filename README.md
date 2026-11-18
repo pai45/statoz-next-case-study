@@ -107,6 +107,8 @@ npm run test:browser
 npm run test:mockups
 npm run test:home-views
 npm run test:stage
+npm run test:local-assets
+npm run test:build-isolation
 ```
 
 The case study has an independent GitHub Pages deployment. Source-product repositories remain unchanged. If PowerShell blocks npm.ps1, use `npm.cmd` for the same commands.
